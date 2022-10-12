@@ -69,35 +69,35 @@ For example,set your AutoLoot range bigger than before.
 
 
 
-| AddTime    | Img                                                          | Name/ID                            | World                 | Author/ID                        | NOTE                                                         |
-| ---------- | ------------------------------------------------------------ | ---------------------------------- | --------------------- | -------------------------------- | ------------------------------------------------------------ |
-| 2022/10/11 | ![CrystalChunk](img/icons/CrystalChunk.png)                  | 72Enrichment points                | Teyvat                | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma              |
-| 2022/10/07 | ![CrystalChunk](img/icons/CrystalChunk.png)                  | CrystalChunk                       | Teyvat                | Michell Lim#9331 and Linxia#0961 | /                                                            |
-| 2022/10/07 | ![CrystalChunk](img/icons/CrystalChunk.png)                  | CrystalChunk-The Chasm Underground | The Chasm Underground | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 is The Chasm Underground. You need manually tp into Chasm Underground 1st. |
-| 2022/10/11 | ![AmethystLump](C:\Users\Sam\Downloads\teleport\img\icons\AmethystLump.png) | EnkanomiyaAmethystLump             | Enkanomiya            | Michell Lim#9331                 | /                                                            |
-| 2022/10/11 | ![AmethystLump](C:\Users\Sam\Downloads\teleport\img\icons\AmethystLump.png) | AmethystLump                       | Teyvat                | Michell Lim#9331                 | /                                                            |
-|            |                                                              |                                    |                       |                                  |                                                              |
-|            |                                                              |                                    |                       |                                  |                                                              |
-|            |                                                              |                                    |                       |                                  |                                                              |
+| AddTime    | Img                                         | Name/ID                            | World                 | Author/ID                        | NOTE                                                         |
+| ---------- | ------------------------------------------- | ---------------------------------- | --------------------- | -------------------------------- | ------------------------------------------------------------ |
+| 2022/10/11 | ![CrystalChunk](img/icons/CrystalChunk.png) | 72Enrichment points                | Teyvat                | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma              |
+| 2022/10/07 | ![CrystalChunk](img/icons/CrystalChunk.png) | CrystalChunk                       | Teyvat                | Michell Lim#9331 and Linxia#0961 | /                                                            |
+| 2022/10/07 | ![CrystalChunk](img/icons/CrystalChunk.png) | CrystalChunk-The Chasm Underground | The Chasm Underground | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 is The Chasm Underground. You need manually tp into Chasm Underground 1st. |
+| 2022/10/11 | ![AmethystLump](img/icons/AmethystLump.png) | EnkanomiyaAmethystLump             | Enkanomiya            | Michell Lim#9331                 | /                                                            |
+| 2022/10/11 | ![AmethystLump](img/icons/AmethystLump.png) | AmethystLump                       | Teyvat                | Michell Lim#9331                 | /                                                            |
+|            |                                             |                                    |                       |                                  |                                                              |
+|            |                                             |                                    |                       |                                  |                                                              |
+|            |                                             |                                    |                       |                                  |                                                              |
 
 ## 4.Plant
 
 
 
-| AddTime    | Img                                                          | Name/ID             | World  | Author/ID       | NOTE                                                         |
-| ---------- | ------------------------------------------------------------ | ------------------- | ------ | --------------- | ------------------------------------------------------------ |
-| 2022/10/10 | ![KalpalataLotus](img/icons/KalpalataLotus.png)              | KalpalataLotus      | Teyvat | jdbddbhd#9874   | Total is 64+2+5.P/S:ID25 and ID26 you need pick by yourself,and 5 of all you need buy from npc. |
-| 2022/10/12 | ![KalpalataLotus](img/icons/KalpalataLotus.png)              | KalpalataLotus#2    | Teyvat | civicmanan#2171 | 66 pcs, Automatically generate version                       |
-| 2022/10/11 | ![NilotpalaLotus](img/icons/NilotpalaLotus.png)              | NilotpalaLotus      | Teyvat | jdbddbhd#9874   | ID47,55-57,you need pick them by yourself.                   |
-| 2022/10/11 | 赤练果                                                       | Redcrest            | Teyvat | jdbddbhd#9874   | /                                                            |
-| 2022/10/12 | ![RukkhashavaMushroom](C:\Users\Sam\Downloads\teleport\img\icons\RukkhashavaMushroom.png) | RukkhashavaMushroom | Teyvat | civicmanan#2171 | 73 pcs, Automatically generate version                       |
+| AddTime    | Img                                                       | Name/ID             | World  | Author/ID       | NOTE                                                         |
+| ---------- | --------------------------------------------------------- | ------------------- | ------ | --------------- | ------------------------------------------------------------ |
+| 2022/10/10 | ![KalpalataLotus](img/icons/KalpalataLotus.png)           | KalpalataLotus      | Teyvat | jdbddbhd#9874   | Total is 64+2+5.P/S:ID25 and ID26 you need pick by yourself,and 5 of all you need buy from npc. |
+| 2022/10/12 | ![KalpalataLotus](img/icons/KalpalataLotus.png)           | KalpalataLotus#2    | Teyvat | civicmanan#2171 | 66 pcs, Automatically generate version                       |
+| 2022/10/11 | ![NilotpalaLotus](img/icons/NilotpalaLotus.png)           | NilotpalaLotus      | Teyvat | jdbddbhd#9874   | ID47,55-57,you need pick them by yourself.                   |
+| 2022/10/11 | 赤练果                                                    | Redcrest            | Teyvat | jdbddbhd#9874   | /                                                            |
+| 2022/10/12 | ![RukkhashavaMushroom](img/icons/RukkhashavaMushroom.png) | RukkhashavaMushroom | Teyvat | civicmanan#2171 | 73 pcs, Automatically generate version                       |
 
 ## 5.Monster
 
-| AddTime    | Img                                                          | Name/ID          | World  | Author/ID        | NOTE |
-| ---------- | ------------------------------------------------------------ | ---------------- | ------ | ---------------- | ---- |
-| 2022/10/11 | ![UnusualHilichurl](img/icons/UnusualHilichurl.png)          | UnusualHilichurl | Teyvat | jdbddbhd#9874    | /    |
-| 2022/10/11 | ![FatuiAgent](C:\Users\Sam\Downloads\teleport\img\icons\FatuiAgent.png) | FatuiAgent       | Teyvat | Michell Lim#9331 | /    |
+| AddTime    | Img                                                 | Name/ID          | World  | Author/ID        | NOTE |
+| ---------- | --------------------------------------------------- | ---------------- | ------ | ---------------- | ---- |
+| 2022/10/11 | ![UnusualHilichurl](img/icons/UnusualHilichurl.png) | UnusualHilichurl | Teyvat | jdbddbhd#9874    | /    |
+| 2022/10/11 | ![FatuiAgent](img/icons/FatuiAgent.png)             | FatuiAgent       | Teyvat | Michell Lim#9331 | /    |
 
 
 
@@ -108,4 +108,4 @@ Only Chinese ,I don't know how to translate.
 | AddTime    | Img           | Name/ID    | World  | Author/ID    | NOTE                                                         |
 | ---------- | ------------- | ---------- | ------ | ------------ | ------------------------------------------------------------ |
 | 2022/10/07 | artifact farm | gouliangv2 | Teyvat | 傻逼#7734    | 圣遗物狗粮(dogfood)，自动拾取5米                    P/S:作者ID确实叫这个，没有骂人的意思 |
-| 2022/10/11 | 兰那罗        | 76Aranara  | Teyvat | Flowers#0948 | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76个兰那罗所需材料](C:\Users\Sam\Downloads\teleport\TeleportAll\Other\76Aranara\76个兰那罗所需材料.png) |
+| 2022/10/11 | 兰那罗        | 76Aranara  | Teyvat | Flowers#0948 | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76个兰那罗所需材料](TeleportAll/Other/76Aranara/76个兰那罗所需材料.png) |
