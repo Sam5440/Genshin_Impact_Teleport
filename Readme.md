@@ -30,16 +30,16 @@ If World is not "/",it means you needs teleport your role to the world.
 
 Dendroculus Folded
 
-| AddTime    | Img                                                          | Name/ID               | World                 | Author/ID     |
-| ---------- | ------------------------------------------------------------ | --------------------- | --------------------- | ------------- |
-| 2022/09/30 | ![Anemoculus](C:\Users\Sam\Downloads\teleport\img\icons\Anemoculus.png) | AnemOculus            | /                     | inkay#5122    |
-| 2022/10/07 | ![CrimsonAgate](C:\Users\Sam\Downloads\teleport\img\icons\CrimsonAgate.png) | Crimson Agate         | /                     | 𝓜𝓪𝓻𝓽𝓲𝓷#6895   |
-| 2022/09/30 | ![Geoculus](C:\Users\Sam\Downloads\teleport\img\icons\Geoculus.png) | Geoculus              | /                     | inkay#5122    |
-| 2022/09/30 | ![Electroculus](C:\Users\Sam\Downloads\teleport\img\icons\Electroculus.png) | Electroculus          | /                     | inkay#5122    |
-| 2022/10/11 | ![Lumenspar](C:\Users\Sam\Downloads\teleport\img\icons\Lumenspar.png) | Lumenspar             | The Chasm Underground | emma1259#3965 |
-| 2022/10/11 | ![Lumenspar](C:\Users\Sam\Downloads\teleport\img\icons\Lumenspar.png) | Lumenspar-upgrade[^1] | The Chasm Underground | emma1259#3965 |
-| 2022/09/30 | ![Dendroculus](C:\Users\Sam\Downloads\teleport\img\icons\Dendroculus.png) | Dendroculus[^2]       | /                     | inkay#5122    |
-| 2022/10/05 | ![Sacred Seal](C:\Users\Sam\Downloads\teleport\img\icon_not_found\Sacred Seal.png) | Sacred Seal           | /                     | Misuki#9695   |
+| AddTime    | Img                                                  | Name/ID               | World                 | Author/ID     |
+| ---------- | ---------------------------------------------------- | --------------------- | --------------------- | ------------- |
+| 2022/09/30 | ![Anemoculus](.\img\icons\Anemoculus.png)            | AnemOculus            | /                     | inkay#5122    |
+| 2022/10/07 | ![CrimsonAgate](.\img\icons\CrimsonAgate.png)        | Crimson Agate         | /                     | 𝓜𝓪𝓻𝓽𝓲𝓷#6895   |
+| 2022/09/30 | ![Geoculus](.\img\icons\Geoculus.png)                | Geoculus              | /                     | inkay#5122    |
+| 2022/09/30 | ![Electroculus](.\img\icons\Electroculus.png)        | Electroculus          | /                     | inkay#5122    |
+| 2022/10/11 | ![Lumenspar](.\img\icons\Lumenspar.png)              | Lumenspar             | The Chasm Underground | emma1259#3965 |
+| 2022/10/11 | ![Lumenspar](.\img\icons\Lumenspar.png)              | Lumenspar-upgrade[^1] | The Chasm Underground | emma1259#3965 |
+| 2022/09/30 | ![Dendroculus](.\img\icons\Dendroculus.png)          | Dendroculus[^2]       | /                     | inkay#5122    |
+| 2022/10/05 | ![Sacred Seal](.\img\icon_not_found\Sacred Seal.png) | Sacred Seal           | /                     | Misuki#9695   |
 
 
 
@@ -72,33 +72,33 @@ For example,set your AutoLoot bigger than before.
 
 
 
-| AddTime    | Img                                                          | Name/ID                            | World                 | Author/ID                        | NOTE                                                         |
-| ---------- | ------------------------------------------------------------ | ---------------------------------- | --------------------- | -------------------------------- | ------------------------------------------------------------ |
-| 2022/10/11 | ![CrystalChunk](C:\Users\Sam\Downloads\teleport\img\icons\CrystalChunk.png) | 72Enrichment points                | /                     | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma              |
-| 2022/10/07 | ![CrystalChunk](C:\Users\Sam\Downloads\teleport\img\icons\CrystalChunk.png) | CrystalChunk                       | /                     | Michell Lim#9331 and Linxia#0961 | /                                                            |
-| 2022/10/07 | ![CrystalChunk](C:\Users\Sam\Downloads\teleport\img\icons\CrystalChunk.png) | CrystalChunk-The Chasm Underground | The Chasm Underground | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 is The Chasm Underground. You need manually tp into Chasm Underground 1st. |
-|            |                                                              |                                    |                       |                                  |                                                              |
-|            |                                                              |                                    |                       |                                  |                                                              |
-|            |                                                              |                                    |                       |                                  |                                                              |
-|            |                                                              |                                    |                       |                                  |                                                              |
-|            |                                                              |                                    |                       |                                  |                                                              |
+| AddTime    | Img                                           | Name/ID                            | World                 | Author/ID                        | NOTE                                                         |
+| ---------- | --------------------------------------------- | ---------------------------------- | --------------------- | -------------------------------- | ------------------------------------------------------------ |
+| 2022/10/11 | ![CrystalChunk](.\img\icons\CrystalChunk.png) | 72Enrichment points                | /                     | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma              |
+| 2022/10/07 | ![CrystalChunk](.\img\icons\CrystalChunk.png) | CrystalChunk                       | /                     | Michell Lim#9331 and Linxia#0961 | /                                                            |
+| 2022/10/07 | ![CrystalChunk](.\img\icons\CrystalChunk.png) | CrystalChunk-The Chasm Underground | The Chasm Underground | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 is The Chasm Underground. You need manually tp into Chasm Underground 1st. |
+|            |                                               |                                    |                       |                                  |                                                              |
+|            |                                               |                                    |                       |                                  |                                                              |
+|            |                                               |                                    |                       |                                  |                                                              |
+|            |                                               |                                    |                       |                                  |                                                              |
+|            |                                               |                                    |                       |                                  |                                                              |
 
 ## 4.Plant
 
 
 
-| AddTime    | Img                                                          | Name/ID        | World | Author/ID     | NOTE                                                         |
-| ---------- | ------------------------------------------------------------ | -------------- | ----- | ------------- | ------------------------------------------------------------ |
-| 2022/10/10 | ![KalpalataLotus](C:\Users\Sam\Downloads\teleport\img\icons\KalpalataLotus.png) | KalpalataLotus | /     | jdbddbhd#9874 | Total is 64+2+5.P/S:ID25 and ID26 you need pick by yourself,and 5 of all you need buy from npc. |
-| 2022/10/11 | ![NilotpalaLotus](C:\Users\Sam\Downloads\teleport\img\icons\NilotpalaLotus.png) | NilotpalaLotus | /     | jdbddbhd#9874 | ID47,55-57,you need pick them by yourself.                   |
-| 2022/10/11 | 赤练果                                                       | Redcrest       | /     | jdbddbhd#9874 |                                                              |
+| AddTime    | Img                                               | Name/ID        | World | Author/ID     | NOTE                                                         |
+| ---------- | ------------------------------------------------- | -------------- | ----- | ------------- | ------------------------------------------------------------ |
+| 2022/10/10 | ![KalpalataLotus](.\img\icons\KalpalataLotus.png) | KalpalataLotus | /     | jdbddbhd#9874 | Total is 64+2+5.P/S:ID25 and ID26 you need pick by yourself,and 5 of all you need buy from npc. |
+| 2022/10/11 | ![NilotpalaLotus](.\img\icons\NilotpalaLotus.png) | NilotpalaLotus | /     | jdbddbhd#9874 | ID47,55-57,you need pick them by yourself.                   |
+| 2022/10/11 | 赤练果                                            | Redcrest       | /     | jdbddbhd#9874 |                                                              |
 
 ## 5.Monster
 
-| AddTime    | Img                                                          | Name/ID          | World | Author/ID     | NOTE |
-| ---------- | ------------------------------------------------------------ | ---------------- | ----- | ------------- | ---- |
-| 2022/10/11 | ![UnusualHilichurl](C:\Users\Sam\Downloads\teleport\img\icons\UnusualHilichurl.png) | UnusualHilichurl | /     | jdbddbhd#9874 |      |
-|            |                                                              |                  |       |               |      |
+| AddTime    | Img                                                   | Name/ID          | World | Author/ID     | NOTE |
+| ---------- | ----------------------------------------------------- | ---------------- | ----- | ------------- | ---- |
+| 2022/10/11 | ![UnusualHilichurl](.\img\icons\UnusualHilichurl.png) | UnusualHilichurl | /     | jdbddbhd#9874 |      |
+|            |                                                       |                  |       |               |      |
 
 
 
