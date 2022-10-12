@@ -142,6 +142,7 @@ Include pick range and destory range.
 | 2022/10/11 | ![UnusualHilichurl](img/icons/UnusualHilichurl.png) | UnusualHilichurl | Teyvat | jdbddbhd#9874    | /                                        |
 | 2022/10/11 | ![FatuiAgent](img/icons/FatuiAgent.png)             | FatuiAgent       | Teyvat | Michell Lim#9331 | /                                        |
 | 2022/10/12 | ![Slime](img/icons/Slime.png)                       | Slime            | Teyvat | Foxx#0061        | It sorted by different color/properties. |
+| 2022/10/12 | ![Specter](img/icons/Specter.png)                   | Specter          | Teyvat | Foxx#0061        | It sorted by different color/properties. |
 
 
 
@@ -153,7 +154,7 @@ Only Chinese ,I don't know how to translate.
 | ---------- | --------------------------------- | ------------- | ------ | --------------- | ------------------------------------------------------------ |
 | 2022/10/07 | artifact farm-圣遗物狗粮[dogfood] | gouliangv2    | Teyvat | 傻逼#7734       | 自动拾取5米-P/S:作者ID确实叫这个，没有骂人的意思             |
 | 2022/10/12 | artifact farm-圣遗物狗粮[dogfood] | AutoArtifact  | Teyvat | ShinaKaria#9760 | AB路线破圣遗物调查点上限(A127+B123), 自动拾取开3米,超出3M可能会因为拿到其他调查点 导致突破上限失败,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
-| 2022/10/12 | 雷神传说第二幕                    | I don't know. | Teyvat | civicmanan#2171 | 雷神传说第二幕,我也不知道干什么的，建议群内问作者            |
+| 2022/10/12 | 雷神传说第二幕                    | I don't know. | Teyvat | civicmanan#2171 | 雷神传说第二幕路径点                                         |
 | 2022/10/11 | 兰那罗                            | 76Aranara     | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76个兰那罗所需材料](TeleportAll/Other/76Aranara/76个兰那罗所需材料.png) |
 
 
