@@ -10,11 +10,23 @@ and click on "Reload" in "teleports"  menu,Then click on the red dot location in
 
 ![set](img/set.png)
 
-# Change GUI Background
+# Notice!!! Read it to Avoid risks!!!!!
 
-**themes.rar** This is akebi-ui background 
+## 【Use at your own risk】
 
-You need unzip it and move it to the themes folder.
+Some of below things need you to set big pick range or destory range.
+
+If you can't pick up all things,maybe you need set a biger range.
+
+Most of them are Chunk and animals,
+
+But too big range is dangerous for you.
+
+I think the safe range is 20m,and safe delay is 300ms.
+
+Biger than this num maybe cause you account be ban.
+
+
 
 # Automatically generate
 
@@ -84,15 +96,24 @@ For example,set your AutoLoot range bigger than before.
 
 ## 3.Chunk
 
+All of them need biger range than other.
+
+Include pick range and destory range.
+
 
 
 | AddTime    | Img                                         | Name/ID                            | World                 | Author/ID                        | NOTE                                                         |
 | ---------- | ------------------------------------------- | ---------------------------------- | --------------------- | -------------------------------- | ------------------------------------------------------------ |
 | 2022/10/11 | ![CrystalChunk](img/icons/CrystalChunk.png) | 72Enrichment points                | Teyvat                | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma              |
-| 2022/10/07 | ![CrystalChunk](img/icons/CrystalChunk.png) | CrystalChunk                       | Teyvat                | Michell Lim#9331 and Linxia#0961 | /                                                            |
+| 2022/10/07 | ![CrystalChunk](img/icons/CrystalChunk.png) | CrystalChunk                       | Teyvat                | Michell Lim#9331 and Linxia#0961 |                                                              |
 | 2022/10/07 | ![CrystalChunk](img/icons/CrystalChunk.png) | CrystalChunk-The Chasm Underground | The Chasm Underground | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 is The Chasm Underground. You need manually tp into Chasm Underground 1st. |
-| 2022/10/11 | ![AmethystLump](img/icons/AmethystLump.png) | EnkanomiyaAmethystLump             | Enkanomiya            | Michell Lim#9331                 | /                                                            |
-| 2022/10/11 | ![AmethystLump](img/icons/AmethystLump.png) | AmethystLump                       | Teyvat                | Michell Lim#9331                 | /                                                            |
+| 2022/10/11 | ![AmethystLump](img/icons/AmethystLump.png) | EnkanomiyaAmethystLump             | Enkanomiya            | Michell Lim#9331                 | ~~you need to set pick range and destory range to 40m to pick all chunks.~~[^3] |
+| 2022/10/11 | ![AmethystLump](img/icons/AmethystLump.png) | AmethystLump                       | Teyvat                | Michell Lim#9331                 | ~~you need to set pick range and destory range to 40m to pick all chunks.~~[^4] |
+
+[^3]:In higt version you maybe can't set it to 40m.You only keep it a num which is the bigest you can set.
+[^4]: Same as [3], But you can edit cfg.json to force change it.[Dangerous Waring!!!]
+
+
 
 ## 4.Plant
 
@@ -124,3 +145,10 @@ Only Chinese ,I don't know how to translate.
 | 2022/10/07 | artifact farm | gouliangv2 | Teyvat | 傻逼#7734    | 圣遗物狗粮(dogfood)，自动拾取5米                    P/S:作者ID确实叫这个，没有骂人的意思 |
 | 2022/10/11 | 兰那罗        | 76Aranara  | Teyvat | Flowers#0948 | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76个兰那罗所需材料](TeleportAll/Other/76Aranara/76个兰那罗所需材料.png) |
 
+
+
+# Change GUI Background
+
+**themes.rar** This is akebi-ui background 
+
+You need unzip it and move it to the themes folder.
