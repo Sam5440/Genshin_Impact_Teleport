@@ -90,7 +90,7 @@ For example,set your AutoLoot range bigger than before.
 | ---------- | ----------------------------------------- | --------------- | ------ | --------------- | ----------------------------------------------------------- |
 | 2022/10/07 | ![CrystalCore](img/icons/CrystalCore.png) | CrystalCore     | Teyvat | Linxia#0961     | only 12 pcs                                                 |
 | 2022/10/07 | 圣甲虫                                    | Teyvat scarab   | Teyvat | ShinaKaria#9760 | 72 pcs ,and you need set your autoloot range biger than 15m |
-| 2022/10/12 | 圣甲虫                                    | Teyvat scarab#2 | Teyvat | civicmanan#2171 | 74 pcs, Automatically generate version                      |
+| 2022/10/12 | 圣甲虫                                    | Teyvat scarab#2 | Teyvat | civicmanan#2171 | 74 pcs,and you need set your autoloot range biger than 15m  |
 
 
 
@@ -122,10 +122,10 @@ Include pick range and destory range.
 | AddTime    | Img                                                       | Name/ID             | World  | Author/ID       | NOTE                                                         |
 | ---------- | --------------------------------------------------------- | ------------------- | ------ | --------------- | ------------------------------------------------------------ |
 | 2022/10/10 | ![KalpalataLotus](img/icons/KalpalataLotus.png)           | KalpalataLotus      | Teyvat | jdbddbhd#9874   | Total is 64+2+5.P/S:ID25 and ID26 you need pick by yourself,and 5 of all you need buy from npc. |
-| 2022/10/12 | ![KalpalataLotus](img/icons/KalpalataLotus.png)           | KalpalataLotus#2    | Teyvat | civicmanan#2171 | 66 pcs, Automatically generate version                       |
+| 2022/10/12 | ![KalpalataLotus](img/icons/KalpalataLotus.png)           | KalpalataLotus#2    | Teyvat | civicmanan#2171 | 66 pcs, and you need set your autoloot range biger than 15m  |
 | 2022/10/11 | ![NilotpalaLotus](img/icons/NilotpalaLotus.png)           | NilotpalaLotus      | Teyvat | jdbddbhd#9874   | ID47,55-57,you need pick them by yourself.                   |
 | 2022/10/11 | 赤练果                                                    | Redcrest            | Teyvat | jdbddbhd#9874   | /                                                            |
-| 2022/10/12 | ![RukkhashavaMushroom](img/icons/RukkhashavaMushroom.png) | RukkhashavaMushroom | Teyvat | civicmanan#2171 | 73 pcs, Automatically generate version                       |
+| 2022/10/12 | ![RukkhashavaMushroom](img/icons/RukkhashavaMushroom.png) | RukkhashavaMushroom | Teyvat | civicmanan#2171 | 73 pcs, and you need set your autoloot range biger than 15m  |
 
 
 
