@@ -18,15 +18,19 @@ You need unzip it and move it to the themes folder.
 
 # Automatically generate
 
-Not all thing is in the table,Welcome pr,
+Of course,not all thing is in the table,Welcome your pr,
 
-Also,You can use the tools ,input your need ID to generate teleports json file.
+Also,You can use the below tools ,input your need ID to generate teleports json file.
 
-Althought it only support chinese langugue.
 
-DownloadLink: https://wws.lanzouv.com/b03vceopa 
 
-DownloadPassword:1234
+![civicmanan](img/author/civicmanan#2171.webp)
+
+The Automatically generate tool is developed by civicmanan#2171.
+
+DownloadLink: https://wws.lanzouv.com/b03vceopa   `[DownloadPassword:1234]`
+
+> you also can pr the json file you use the tools to generate .Thank you very much
 
 # Guide
 
@@ -34,7 +38,7 @@ DownloadPassword:1234
 
 Include all teleport.
 
-**Note: Old files, incomplete **
+**Note: Old files, incomplete**
 
 > No Author,I don't konw who is the author.
 
@@ -70,10 +74,11 @@ For example,set your AutoLoot range bigger than before.
 
 **P/S :Too big autoloot range is dangerous!!!**
 
-| AddTime    | Img    | Name/ID         | World  | Author/ID       | NOTE                                                        |
-| ---------- | ------ | --------------- | ------ | --------------- | ----------------------------------------------------------- |
-| 2022/10/07 | 圣甲虫 | Teyvat scarab   | Teyvat | ShinaKaria#9760 | 72 pcs ,and you need set your autoloot range biger than 15m |
-| 2022/10/12 | 圣甲虫 | Teyvat scarab#2 | Teyvat | civicmanan#2171 | 74 pcs, Automatically generate version                      |
+| AddTime    | Img                                       | Name/ID         | World  | Author/ID       | NOTE                                                        |
+| ---------- | ----------------------------------------- | --------------- | ------ | --------------- | ----------------------------------------------------------- |
+| 2022/10/07 | ![CrystalCore](img/icons/CrystalCore.png) | CrystalCore     | Teyvat | Linxia#0961     | only 12 pcs                                                 |
+| 2022/10/07 | 圣甲虫                                    | Teyvat scarab   | Teyvat | ShinaKaria#9760 | 72 pcs ,and you need set your autoloot range biger than 15m |
+| 2022/10/12 | 圣甲虫                                    | Teyvat scarab#2 | Teyvat | civicmanan#2171 | 74 pcs, Automatically generate version                      |
 
 
 
@@ -88,9 +93,6 @@ For example,set your AutoLoot range bigger than before.
 | 2022/10/07 | ![CrystalChunk](img/icons/CrystalChunk.png) | CrystalChunk-The Chasm Underground | The Chasm Underground | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 is The Chasm Underground. You need manually tp into Chasm Underground 1st. |
 | 2022/10/11 | ![AmethystLump](img/icons/AmethystLump.png) | EnkanomiyaAmethystLump             | Enkanomiya            | Michell Lim#9331                 | /                                                            |
 | 2022/10/11 | ![AmethystLump](img/icons/AmethystLump.png) | AmethystLump                       | Teyvat                | Michell Lim#9331                 | /                                                            |
-|            |                                             |                                    |                       |                                  |                                                              |
-|            |                                             |                                    |                       |                                  |                                                              |
-|            |                                             |                                    |                       |                                  |                                                              |
 
 ## 4.Plant
 
