@@ -1,3 +1,7 @@
+# Last upgrade(UTC): 2022/10/12 10:09
+
+[Genshin_Impact_Version is 3.1](https://github.com/Sam5440/Genshin_Impact_Teleport)
+
 # How to use?
 
 You should move the json file you need to the tools's "teleports" folder,
@@ -6,11 +10,23 @@ and click on "Reload" in "teleports"  menu,Then click on the red dot location in
 
 ![set](img/set.png)
 
-# Change GUI
+# Change GUI Background
 
 **themes.rar** This is akebi-ui background 
 
 You need unzip it and move it to the themes folder.
+
+# Automatically generate
+
+Not all thing is in the table,Welcome pr,
+
+Also,You can use the tools ,input your need ID to generate teleports json file.
+
+Althought it only support chinese langugue.
+
+DownloadLink: https://wws.lanzouv.com/b03vceopa 
+
+DownloadPassword:1234
 
 # Guide
 
@@ -21,10 +37,6 @@ Include all teleport.
 **Note: Old files, incomplete **
 
 > No Author,I don't konw who is the author.
-
-
-
-If World is not "/",it means you needs teleport your role to the world.
 
 ## 1.Featuread
 
@@ -109,3 +121,4 @@ Only Chinese ,I don't know how to translate.
 | ---------- | ------------- | ---------- | ------ | ------------ | ------------------------------------------------------------ |
 | 2022/10/07 | artifact farm | gouliangv2 | Teyvat | 傻逼#7734    | 圣遗物狗粮(dogfood)，自动拾取5米                    P/S:作者ID确实叫这个，没有骂人的意思 |
 | 2022/10/11 | 兰那罗        | 76Aranara  | Teyvat | Flowers#0948 | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76个兰那罗所需材料](TeleportAll/Other/76Aranara/76个兰那罗所需材料.png) |
+
