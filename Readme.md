@@ -24,7 +24,7 @@ Also,You can use the below tools ,input your need ID to generate teleports json 
 
 
 
-![civicmanan](img/author/civicmanan#2171.webp)
+![civicmanan](img/author/civicmanan#2171.png)
 
 The Automatically generate tool is developed by civicmanan#2171.
 
