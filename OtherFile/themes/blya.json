@@ -1,0 +1,137 @@
+{
+    "Colors": {
+        "Border": "1C1C1CFE",
+        "BorderShadow": "BEBEBE0B",
+        "Button": "E85353FF",
+        "ButtonActive": "1C1C1CFF",
+        "ButtonHovered": "1C1C1CFF",
+        "CheckMark": "E85353FF",
+        "ChildBg": "1C1C1CFE",
+        "DockingEmptyBg": "3333339F",
+        "DockingPreview": "212121FF",
+        "DragDropTarget": "212121FF",
+        "FrameBg": "262626FF",
+        "FrameBgActive": "121212FF",
+        "FrameBgHovered": "202020FF",
+        "Header": "963232FF",
+        "HeaderActive": "953232FF",
+        "HeaderHovered": "953232FF",
+        "MenuBarBg": "1C1C1CFF",
+        "ModalWindowDimBg": "1C1C1CFA",
+        "NavHighlight": "212121FF",
+        "NavWindowingDimBg": "1C1C1CFB",
+        "NavWindowingHighlight": "1C1C1CFB",
+        "PlotHistogram": "CDE60000",
+        "PlotHistogramHovered": "FF92001C",
+        "PlotLines": "616161FF",
+        "PlotLinesHovered": "FB9C0300",
+        "PopupBg": "1C1C1CFE",
+        "ResizeGrip": "953232FF",
+        "ResizeGripActive": "F3DE04FF",
+        "ResizeGripHovered": "FF5A5ACE",
+        "ScrollbarBg": "212121FF",
+        "ScrollbarGrab": "232323FF",
+        "ScrollbarGrabActive": "E85353FF",
+        "ScrollbarGrabHovered": "9A3A3AFF",
+        "Separator": "1E1E1FFF",
+        "SeparatorActive": "953232FF",
+        "SeparatorHovered": "953232FF",
+        "SliderGrab": "E85353FF",
+        "SliderGrabActive": "E85353FF",
+        "Tab": "303030FF",
+        "TabActive": "953232FF",
+        "TabHovered": "953232FF",
+        "TabUnfocused": "212121FF",
+        "TabUnfocusedActive": "953232FF",
+        "TableBorderLight": "46464617",
+        "TableBorderStrong": "50505A76",
+        "TableHeaderBg": "31313365",
+        "TableRowBg": "1C1C1CFF",
+        "TableRowBgAlt": "FFFFFF10",
+        "Text": "FFFFFFFE",
+        "TextDisabled": "13D432FF",
+        "TextSelectedBg": "E66A1FEA",
+        "TitleBg": "1C1C1CFF",
+        "TitleBgActive": "2F2F2FFF",
+        "TitleBgCollapsed": "1C1C1CFF",
+        "WindowBg": "1C1C1CFE"
+    },
+    "Styles": {
+        "Alpha": 1.0,
+        "AntiAliasedFill": true,
+        "AntiAliasedLines": true,
+        "AntiAliasedLinesUseTex": true,
+        "ButtonTextAlign": [
+            0.5,
+            0.5
+        ],
+        "CellPadding": [
+            4.0,
+            2.0
+        ],
+        "ChildBorderSize": 1.0,
+        "ChildRounding": 0.0,
+        "CircleTessellationMaxError": 0.30000001192092896,
+        "ColorButtonPosition": 1,
+        "ColumnsMinSpacing": 6.0,
+        "CurveTessellationTol": 1.25,
+        "DisabledAlpha": 0.6000000238418579,
+        "DisplaySafeAreaPadding": [
+            3.0,
+            3.0
+        ],
+        "DisplayWindowPadding": [
+            19.0,
+            19.0
+        ],
+        "FrameBorderSize": 0.0,
+        "FramePadding": [
+            4.0,
+            3.0
+        ],
+        "FrameRounding": 0.0,
+        "GrabMinSize": 10.0,
+        "GrabRounding": 0.0,
+        "IndentSpacing": 21.0,
+        "ItemInnerSpacing": [
+            4.0,
+            4.0
+        ],
+        "ItemSpacing": [
+            8.0,
+            4.0
+        ],
+        "LogSliderDeadzone": 4.0,
+        "MouseCursorScale": 1.0,
+        "PopupBorderSize": 1.0,
+        "PopupRounding": 0.0,
+        "ScrollbarRounding": 9.0,
+        "ScrollbarSize": 14.0,
+        "SelectableTextAlign": [
+            0.0,
+            0.0
+        ],
+        "TabBorderSize": 0.0,
+        "TabMinWidthForCloseButton": 0.0,
+        "TabRounding": 4.0,
+        "TouchExtraPadding": [
+            0.0,
+            0.0
+        ],
+        "WindowBorderSize": 1.0,
+        "WindowMenuButtonPosition": 0,
+        "WindowMinSize": [
+            32.0,
+            32.0
+        ],
+        "WindowPadding": [
+            8.0,
+            8.0
+        ],
+        "WindowRounding": 0.0,
+        "WindowTitleAlign": [
+            0.0,
+            0.5
+        ]
+    }
+}

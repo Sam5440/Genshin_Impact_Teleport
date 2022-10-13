@@ -172,7 +172,7 @@ Include pick range and destory range.
 
 
 
-## Other
+## OtherPoint
 
 Only Chinese ,I don't know how to translate.
 
@@ -186,8 +186,17 @@ Only Chinese ,I don't know how to translate.
 
 
 
-# Change GUI Background
+# OtherFile
 
-**themes.rar** This is akebi-ui background 
+## themes
 
-You need unzip it and move it to the themes folder.
+ It can change GUI background.
+
+**themes**  folder is akebi-ui background 
+
+You need move it to the themes folder of AkebiGC .
+
+## raw_data
+
+All thing of version 2.8 in json.
+
