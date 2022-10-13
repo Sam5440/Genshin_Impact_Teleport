@@ -1,6 +1,8 @@
-# Last upgrade(UTC+8): 2022/10/12 18:00
+# Last upgrade(UTC+8): 2022/10/12 18:12
 
 [Genshin_Impact_Version is 3.1](https://github.com/Sam5440/Genshin_Impact_Teleport
+
+[【汉化】TeleportAll [update on 2022/10/13] ](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/【汉化】TeleportAll(2022年10月13日))You can click here to get Chinese version,it's tanslated by JonasDai#5198 
 
 # How to use?
 
@@ -10,7 +12,7 @@ and click on "Reload" in "teleports"  menu,Then click on the red dot location in
 
 ![set](img/set.png)
 
-## Get English Name/ID
+## Get English Name/ID to Search
 
 ### Method 1
 
