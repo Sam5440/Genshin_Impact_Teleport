@@ -200,3 +200,13 @@ You need move it to the themes folder of AkebiGC .
 
 All thing of version 2.8 in json.
 
+
+
+# Data From
+
+ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and Gacha Banner Editor (github.com)](https://github.com/jie65535/GrasscutterCommandGenerator)
+
+Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
+
+Other Data From [AkebiGC-CN-Json_Group](https://discord.com/channels/440536354544156683/1024896283061784617)
+
