@@ -1,0 +1,194 @@
+[
+  {
+    "Name": "Текущее здоровье (HP)",
+    "ArgName": "hp",
+    "Percent": false,
+    "Tip": ""
+  },
+  {
+    "Name": "Макс. здоровье (HP)",
+    "ArgName": "maxhp",
+    "Percent": false,
+    "Tip": ""
+  },
+  {
+    "Name": "Текущая сила атаки",
+    "ArgName": "atk",
+    "Percent": false,
+    "Tip": ""
+  },
+  {
+    "Name": "Базовая сила атаки",
+    "ArgName": "atkb",
+    "Percent": false,
+    "Tip": "Похоже, это не пересчитывает силу атаки и может работать только с классами баффов."
+  },
+  {
+    "Name": "Защита",
+    "ArgName": "def",
+    "Percent": false,
+    "Tip": "Это, кажется, не работает."
+  },
+  {
+    "Name": "Мастерство стихий",
+    "ArgName": "em",
+    "Percent": false,
+    "Tip": ""
+  },
+  {
+    "Name": "Шанс крит. попадания",
+    "ArgName": "crate",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Критический урон",
+    "ArgName": "cdmg",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус лечения",
+    "ArgName": "heal",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус получаемого лечения",
+    "ArgName": "heali",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Восст. энергии",
+    "ArgName": "er",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Снижение времени отката",
+    "ArgName": "cdr",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Прочность щита",
+    "ArgName": "shield",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус Пиро урона",
+    "ArgName": "epyro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Пиро сопротивление",
+    "ArgName": "respyro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус Гидро урона",
+    "ArgName": "ehydro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Гидро сопротивление",
+    "ArgName": "reshydro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус Дендро урона",
+    "ArgName": "edendro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Дендро сопротивление",
+    "ArgName": "resdendro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус Электро урона",
+    "ArgName": "eelectro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Электро сопротивление",
+    "ArgName": "reselectro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус Анемо урона",
+    "ArgName": "eanemo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Анемо сопротивление",
+    "ArgName": "resanemo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус Крио урона",
+    "ArgName": "ecryo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Крио сопротивление",
+    "ArgName": "rescryo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус Гео урона",
+    "ArgName": "egeo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Гео сопротивление",
+    "ArgName": "resgeo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус физ. урона",
+    "ArgName": "ephys",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Физ. сопротивление",
+    "ArgName": "resphys",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Бонус урона",
+    "ArgName": "dmg",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Снижение урона",
+    "ArgName": "resall",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Игнорирование защиты",
+    "ArgName": "defi",
+    "Percent": true,
+    "Tip": "Это, кажется, не работает."
+  }
+]

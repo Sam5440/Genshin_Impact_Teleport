@@ -1,0 +1,194 @@
+[
+  {
+    "Name": "Current HP",
+    "ArgName": "hp",
+    "Percent": false,
+    "Tip": ""
+  },
+  {
+    "Name": "Max HP",
+    "ArgName": "maxhp",
+    "Percent": false,
+    "Tip": ""
+  },
+  {
+    "Name": "Current ATK",
+    "ArgName": "atk",
+    "Percent": false,
+    "Tip": ""
+  },
+  {
+    "Name": "Base ATK",
+    "ArgName": "atkb",
+    "Percent": false,
+    "Tip": "This doesn't seem to get used to recalculate ATK, so it's only useful for stuff like Bennett's buff."
+  },
+  {
+    "Name": "DEF",
+    "ArgName": "def",
+    "Percent": false,
+    "Tip": "This doesn't seem to work."
+  },
+  {
+    "Name": "Element Mastery",
+    "ArgName": "em",
+    "Percent": false,
+    "Tip": ""
+  },
+  {
+    "Name": "CRIT Rate",
+    "ArgName": "crate",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "CRIT DMG",
+    "ArgName": "cdmg",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Healing Bonus",
+    "ArgName": "heal",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Incoming Healing Bonus",
+    "ArgName": "heali",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Energy Recharge",
+    "ArgName": "er",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "CD Reduction",
+    "ArgName": "cdr",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Shield Strength",
+    "ArgName": "shield",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Pyro DMG Bonus",
+    "ArgName": "epyro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Pyro RES",
+    "ArgName": "respyro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Hydro DMG Bonus",
+    "ArgName": "ehydro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Hydro RES",
+    "ArgName": "reshydro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Dendro DMG Bonus",
+    "ArgName": "edendro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Dendro RES",
+    "ArgName": "resdendro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Electro DMG Bons",
+    "ArgName": "eelectro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Electro RES",
+    "ArgName": "reselectro",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Anemo DMG Bonus",
+    "ArgName": "eanemo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Anemo RES",
+    "ArgName": "resanemo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Cyro DMG Bonus",
+    "ArgName": "ecryo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Cryo RES",
+    "ArgName": "rescryo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Geo DMG Bonus",
+    "ArgName": "egeo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Geo RES",
+    "ArgName": "resgeo",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Physical DMG Bonus",
+    "ArgName": "ephys",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Physical RES",
+    "ArgName": "resphys",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "DMG Bonus",
+    "ArgName": "dmg",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "DMG Reduction",
+    "ArgName": "resall",
+    "Percent": true,
+    "Tip": ""
+  },
+  {
+    "Name": "Ignore DEF",
+    "ArgName": "defi",
+    "Percent": true,
+    "Tip": "This doesn't seem to work."
+  }
+]
