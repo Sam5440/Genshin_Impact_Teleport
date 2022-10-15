@@ -89,7 +89,9 @@ def item_point_generate(language_id):
                 count(item["gatherItemId"])
         # count(scene_data["sceneId"])
     # print(item_dict)
-    count_dict = sorted(count_dict.items(), key=lambda x: x[1], reverse=True)  # 按照value排序
+    count_dict_sort = sorted(count_dict.items(), key=lambda x: x[1], reverse=True)  # 按照value排序
+    print(count_dict_sort)
+    count_dict = {}
 
 
 
