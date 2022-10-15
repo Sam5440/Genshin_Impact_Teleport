@@ -1,7 +1,3 @@
-from itertools import count
-import re
-
-
 points = [[2,3,3],[1,2,3],[1,3,4],[2,5,5],[1,3,2]]
 def shortest_road(points):
     #要求每个点1以内的距离
@@ -41,6 +37,7 @@ result2 = [[1, 3, 2], [1, 2, 3], [1, 3, 3], [2, 5, 5],[2, 3, 3],]
 print(result2,count_road_long(result2))
 import matplotlib.pyplot as plt
 import numpy as np
+
 
 #绘制三维度图像 并且按顺序连接
 def draw_3d(points):
