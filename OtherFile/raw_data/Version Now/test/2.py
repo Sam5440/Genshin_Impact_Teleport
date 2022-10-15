@@ -1,8 +1,5 @@
-def remove_start_space(s):
-    if s.startswith(" "):
-        return remove_start_space(s[1:])
-    else:
-        return s
-print(remove_start_space("  123     111 "))
 
-    
+# print(remove_start_space("  123     111 "))
+
+a= {"a":1,"b":2}
+print(a.keys())
