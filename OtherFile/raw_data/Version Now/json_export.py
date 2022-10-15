@@ -41,6 +41,7 @@ def count(key="N"):
 
 # load id_json 文件夹内全部文件
 def item_point_generate(language_id):
+    global count_dict
     # language_id = 3  # 0:cn,1:tw,2:en,3:ru
     language_name = ["zh-cn", "zh-tw", "en-us", "ru-ru"]
     folader_name = os.path.join(os.path.dirname(__file__), "ID_json")
