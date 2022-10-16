@@ -4,6 +4,8 @@ import json
 import os
 from pydoc import describe
 
+import matplotlib.pyplot as plt
+
 
 def shortest_road(points):
     # 要求每个点1以内的距离
@@ -19,6 +21,26 @@ def shortest_road(points):
                 result.append(points[i])
     return result
 
+
+def count_road_long(points):
+    #计算路径长度
+    long = 0
+    for i in range(len(points)-1):
+        long += ((points[i][0]-points[i+1][0])**2+(points[i][1]-points[i+1][1])**2+(points[i][2]-points[i+1][2])**2)**0.5
+    return long
+def draw_3d(points,show=True):
+    print(count_road_long(points))
+    x = [i[0] for i in points]
+    y = [i[1] for i in points]
+    z = [i[2] for i in points]
+    if show:
+        fig = plt.figure()
+        ax = fig.add_subplot(111, projection='3d')
+        ax.plot(x, y, z)
+        ax.set_xlabel('X Label')
+        ax.set_ylabel('Y Label')
+        ax.set_zlabel('Z Label')
+        plt.show()
 
 def path_fix(path):
     path = path.replace('"', "'")
@@ -104,27 +126,37 @@ def item_point_generate(language_id):
         print(scene)
         for item, points in items.items():
             i = 0
+            if len(points) >100:
+                print(f"{len(points)}{item}-{scene}")
+                draw_3d(points,show=False)
+                shortest_points = shortest_road(points)
+                draw_3d(shortest_points,show=False)
             shortest_points = shortest_road(points)
+
             for pos in shortest_points:
                 i += 1
                 pos_name = f"{i}-{item}-{scene}"
-                pos_json["description"] = pos_name
-                pos_json["name"] = pos_name
+                pos_json["description"] = str(i)#拼音
+                pos_json["name"] = str(i) #拼音
                 pos_json["position"] = pos
                 with open(
                     path_fix(os.path.join(result_path, scene, item, pos_name + ".json")),
                     "w",
                     encoding="utf-8",
                 ) as f:
-                    lines = json.dump(
+                    lines = json.dumps(
                         pos_json,
-                        ensure_ascii=True,
-                        indent=4,
+                        # ensure_ascii=False,
+                        # indent=4,
                     )
-                    f.write(lines)
+                    # f.write(lines)
+                    json.dump(pos_json, f)
 # print(count_dict)
 
 if __name__ == "__main__":
     # for i in range(4):
     #     item_point_generate(i)
     item_point_generate(0)
+    item_point_generate(1)
+    item_point_generate(2)
+    item_point_generate(3)
