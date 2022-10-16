@@ -1,4 +1,4 @@
-imrt json
+import json
 import os
 import re
 from unittest import result
@@ -101,14 +101,14 @@ def get_all_id_name(folader_name):
 def save_json(result_path, item_dict):
     pos_json = {}  # formate
     for scene, items in item_dict.items():
-        print(scene)
+        # print(scene)
         for item, points in items.items():
             i = 0
-            if len(points) > 100:
-                print(f"{len(points)}{item}-{scene}")
-                draw_3d(points)
-                best_road = nearest_road(points)
-                draw_3d(best_road)
+            # if len(points) > 100:
+            #     print(f"{len(points)}{item}-{scene}")
+            #     draw_3d(points)
+            #     best_road = nearest_road(points)
+            #     draw_3d(best_road)
             best_road = nearest_road(points)
 
             for pos in best_road:
@@ -156,6 +156,7 @@ def json_pos_generate_dict(
             if pos_type_name in item:
                 item[pos_type_name] = str(item[pos_type_name])
                 if item[pos_type_name] in id_json[id_name_json_filename].keys():
+                    # print(len(id_json[id_name_json_filename][item[pos_type_name]]))
                     item[pos_type_name] = id_json[id_name_json_filename][
                         item[pos_type_name]
                     ][language_id]
@@ -210,9 +211,13 @@ def main___item_point_generate(language_id):
     ################################################################
     monster_json = get_pos_json(monster_json_name)
     monster_result_path = os.path.join(result_path, "Monster_And_Animal")
-    for k,v in id_json["Monster.json"].items():
+    for k, v in id_json["Monster.json"].items():
         if k in id_json["Animal.json"].keys():
-            print(k,v,"-------------------------------------------------------------------------")
+            print(
+                k,
+                v,
+                "-------------------------------------------------------------------------",
+            )
     id_json["Monster.json"].update(id_json["Animal.json"])
     monster_dict = json_pos_generate_dict(
         language_id,
@@ -226,9 +231,9 @@ def main___item_point_generate(language_id):
 
 
 if __name__ == "__main__":
-    # for i in range(4):
-    #     item_point_generate(i)
-    main___item_point_generate(0)
+    for i in range(4):
+        main___item_point_generate(i)
+    # main___item_point_generate(0)
     # main___item_point_generate(1)
     # main___item_point_generate(2)
     # main___item_point_generate(3)

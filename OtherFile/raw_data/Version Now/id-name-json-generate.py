@@ -27,7 +27,9 @@ if __name__ == "__main__":
         pass
     for file in need_file:
         file_data = {}
+        i = 0
         for path in need_path:
+            i +=1
             with open(os.path.join(path_id, path, file), "r", encoding="utf-8") as f:
                 lines = f.readlines()
                 lines = [line.strip() for line in lines]
@@ -39,7 +41,7 @@ if __name__ == "__main__":
                 ]
                 lines_dict = {}
                 for line in lines:
-                    lines_dict[line[0]] = [line[1]]
+                    lines_dict[line[0]] = [f"ID{line[0]}-{line[1]}"]
                 file_data[path] = lines_dict
             if path != need_path[0]:
                 # print(type(file_data[need_path[0]]))
@@ -48,6 +50,8 @@ if __name__ == "__main__":
                     if k in file_data[path]:
                         file_data[need_path[0]][k].append(file_data[path][k][0])
                         # print(file_data[path][k])
+                    else:
+                        file_data[need_path[0]][k].append(f"NoEnglish-{v[0]}")
         # print(file_data)
         with open(
             os.path.join(path_id_json, file.replace(".txt", ".json")),
