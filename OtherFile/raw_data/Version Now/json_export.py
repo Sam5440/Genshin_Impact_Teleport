@@ -2,25 +2,31 @@ item_json_name = "GadgetSpawns.json"
 
 import json
 import os
+import re
 from pydoc import describe
+from unittest import result
 
 import matplotlib.pyplot as plt
 
 
-def shortest_road(points):
-    # 要求每个点1以内的距离
-    points.sort(key=lambda x: x[2])
-    result = []
-    for i in range(len(points)):
-        if i == 0:
-            result.append(points[i])
-        else:
-            if points[i][0] == result[-1][0] and points[i][1] == result[-1][1]:
-                result[-1] = points[i]
-            else:
-                result.append(points[i])
-    return result
+def road_long(point1,point2):
+    return ((point1[0]-point2[0])**2+(point1[1]-point2[1])**2+(point1[2]-point2[2])**2)**0.5
 
+def nearest_road(points):
+    if len(points) <= 1:
+        return points
+    result = [points[0]]
+    while points!=[]:
+        min = 2147483647
+        point = result[-1]
+        for index,next_point in enumerate(points):
+            if road_long(next_point,point)<min:
+                min = road_long(next_point,point)
+                index_nearest = index #points.index(point)
+        result.append(points[index_nearest])
+        points.pop(index_nearest)
+    # print(result)
+    return result
 
 def count_road_long(points):
     #计算路径长度
@@ -28,7 +34,7 @@ def count_road_long(points):
     for i in range(len(points)-1):
         long += ((points[i][0]-points[i+1][0])**2+(points[i][1]-points[i+1][1])**2+(points[i][2]-points[i+1][2])**2)**0.5
     return long
-def draw_3d(points,show=True):
+def draw_3d(points,show=False):
     print(count_road_long(points))
     x = [i[0] for i in points]
     y = [i[1] for i in points]
@@ -117,23 +123,19 @@ def item_point_generate(language_id):
 
 
 
-    pos_json = {
-        "description": "",
-        "name": "jingdie1",
-        "position": [-518.974853515625, 355.34765625, 615.0311279296875],
-    }  # formate
+    pos_json = {}  # formate
     for scene, items in item_dict.items():
         print(scene)
         for item, points in items.items():
             i = 0
             if len(points) >100:
                 print(f"{len(points)}{item}-{scene}")
-                draw_3d(points,show=False)
-                shortest_points = shortest_road(points)
-                draw_3d(shortest_points,show=False)
-            shortest_points = shortest_road(points)
+                draw_3d(points)
+                best_road = nearest_road(points)
+                draw_3d(best_road)
+            best_road = nearest_road(points)
 
-            for pos in shortest_points:
+            for pos in best_road:
                 i += 1
                 pos_name = f"{i}-{item}-{scene}"
                 pos_json["description"] = str(i)#拼音

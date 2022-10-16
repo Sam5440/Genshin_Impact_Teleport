@@ -7,5 +7,5 @@ a = [1,2]
 b = 2
 a.append(b)
 print(a)
-for k,v in a.index(value):
-    print(k,v)
+# for k,v in a.index(value):
+#     print(k,v)
