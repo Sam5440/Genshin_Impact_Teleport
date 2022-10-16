@@ -116,14 +116,15 @@ def item_point_generate(language_id):
                     "w",
                     encoding="utf-8",
                 ) as f:
-                    lines = json.dumps(
+                    lines = json.dump(
                         pos_json,
-                        ensure_ascii=False,
+                        ensure_ascii=True,
                         indent=4,
                     )
                     f.write(lines)
 # print(count_dict)
 
 if __name__ == "__main__":
-    for i in range(4):
-        item_point_generate(i)
+    # for i in range(4):
+    #     item_point_generate(i)
+    item_point_generate(0)
