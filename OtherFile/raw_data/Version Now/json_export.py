@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from codecs import latin_1_decode
 from unittest import result
 
 import matplotlib.pyplot as plt
@@ -27,13 +28,46 @@ def nearest_road(points):
         min = 2147483647
         point = result[-1]
         for index, next_point in enumerate(points):
-            if road_long(next_point, point) < min:
-                min = road_long(next_point, point)
+            length = road_long(next_point, point)
+            if length < min:
+                min = length
                 index_nearest = index  # points.index(point)
         result.append(points[index_nearest])
         points.pop(index_nearest)
     # print(result)
+    print(len(result),count_road_long(result))
+    result = remove_same_area_point(result)
+    print(len(result),count_road_long(result))
+    print(len(result))
     return result
+
+# def point_center(point1,point2,point3):
+#     #求到这三个点的距离相等的点A
+
+
+def remove_same_area_point(points, loot_range=13):
+    if len(points) <= 1:
+        return points
+    result = [points[0]]
+    points.pop(0)
+    last_is_optimize = False
+    while points != []:
+        length = road_long(points[0], result[-1])
+        if  length > loot_range*2 or last_is_optimize:
+            if length > loot_range:
+                result.append(points[0])
+                last_is_optimize = False
+        else:
+            # 取中点
+            result[-1] = [
+                (result[-1][0] + points[0][0]) / 2,
+                (result[-1][1] + points[0][1]) / 2,
+                (result[-1][2] + points[0][2]) / 2,
+            ]
+            last_is_optimize = True
+        points.pop(0)
+    return result
+            # result[-1] =
 
 
 def count_road_long(points):
