@@ -1,3 +1,7 @@
+[TOC]
+
+
+
 # All File Introduce
 
 [ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points collect from Discourd.You can see [here](#ManualCollectPoint) to find you need.
@@ -13,6 +17,14 @@
 > [Points(SortByItemKind)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Points(SortByItemKind)[cn-en]) is generated and optimized by [ShinaKaria](https://github.com/ShinaKaria) 
 
 \[[OtherFileIntroduce click here](#OtherFile)\]
+
+**If you use git to operate it,maybe you will meet** "`Filename too long`",**only press** `git config --global core.longpaths true` **to solve it.**
+
+
+
+------
+
+
 
 # How to download?
 
@@ -38,11 +50,11 @@ If you don't konw the English name,you can click [Home | Project Amber — Your 
 
 > For example, you search for "甜甜花",you will enter the url https://ambr.top/chs/archive/material/100012/sweet-flower ,than 100012 is its ID,sweet-flower is its English name.
 
-### Method 2
+## Method 2
 
 Search Chinese name in [原神 - 萌娘百科 万物皆可萌的百科全书 (moegirl.org.cn)](https://zh.moegirl.org.cn/原神)
 
-### How to search in web page?
+## How to search in web page?
 
 Press "Curl+F" and paste your copy,But I advice you to search the text  before the "-" to improve success rate.
 
