@@ -1,8 +1,22 @@
-# AllFileIntroduce
+# All File Introduce
 
-[Genshin_Impact_Version is 3.1](https://github.com/Sam5440/Genshin_Impact_Teleport
+[ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points collect from Discourd.You can see [here](#ManualCollectPoint) to find you need.
 
-[【汉化】TeleportAll [update on 2022/10/13] ](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/【汉化】TeleportAll(2022年10月13日))You can click here to get Chinese version,it's tanslated by JonasDai#5198
+> [Chinese\] [ManualCollectPoint(2022-10-13)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Chinese]ManualCollectPoint(2022-10-13)) is translate by JonasDai#5198
+
+[AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All Points is generate from Other [OtherFile/raw_data/Version Now](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data/Version Now) .
+
+> Language in folder name's [] is it supported language.
+>
+> All point is generate with version 2.8 data.
+>
+> [Points(SortByItemKind)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Points(SortByItemKind)[cn-en]) is generated and optimized by [ShinaKaria](https://github.com/ShinaKaria) 
+
+\[[OtherFileIntroduce click here](#OtherFile)\]
+
+# How to download?
+
+![download](OtherFile/img/download.png)
 
 # How to use?
 
@@ -14,7 +28,11 @@ and click on "Reload" in "teleports"  menu,Then click on the red dot location in
 
 ## Get English Name/ID to Search
 
-### Method 1
+## Advice method
+
+Search in these file in web page. --> [OtherFile/raw_data/Version Now/ID_json](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data/Version Now/ID_json)
+
+## Method 1
 
 If you don't konw the English name,you can click [Home | Project Amber — Your brand new Genshin Impact Database (ambr.top)](https://ambr.top/chs/archive/material) website,choose chinese language,and looking for the thing you need,and get its English name from the url last text,and ID is before it.
 
@@ -24,7 +42,7 @@ If you don't konw the English name,you can click [Home | Project Amber — Your 
 
 Search Chinese name in [原神 - 萌娘百科 万物皆可萌的百科全书 (moegirl.org.cn)](https://zh.moegirl.org.cn/原神)
 
-### How to search?
+### How to search in web page?
 
 Press "Curl+F" and paste your copy,But I advice you to search the text  before the "-" to improve success rate.
 
@@ -32,7 +50,7 @@ Press "Curl+F" and paste your copy,But I advice you to search the text  before t
 
 # Notice!!! Read it to Avoid risks!!!!!
 
-## 【Use at your own risk】
+**【Use at your own risk】**
 
 Some of below things need you to set big pick range or destory range.
 
@@ -60,11 +78,11 @@ DownloadLink: https://wws.lanzouv.com/b03vceopa   `[DownloadPassword:1234]`
 
 > you also can pr the json file you use the tools to generate .Thank you very much
 
-# Guide
+# ManualCollectPoint
 
-## TeleportsALL_Old(2022/09/30)
+##\[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
 
-Include all teleport.
+Include almost all teleport point in version 2.8.
 
 **Note: Old files, incomplete**
 
@@ -162,17 +180,29 @@ Only Chinese ,I don't know how to translate.
 
 # OtherFile
 
-## themes
+[Genshin_Impact_Teleport/OtherFile](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile)
 
- It can change GUI background.
+## [themes](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/themes)
 
-**themes**  folder is akebi-ui background
+ It can GUI background.
+
+The "themes"  folder is akebi-ui background
 
 You need move it to the themes folder of AkebiGC .
 
-## raw_data
+## [raw_data](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data)
 
-All thing of version 2.8 in json.
+Raw data and code to support auto generate.
+
+## [python_lib](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/python_lib)
+
+Some .py to hele write document.
+
+## [img](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/img)
+
+Readme image.
+
+
 
 # Data From
 
