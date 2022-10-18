@@ -1,14 +1,10 @@
-[TOC]
-
-
-
 # All File Introduce
 
 [ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points collect from Discourd.You can see [here](#ManualCollectPoint) to find you need.
 
 > [Chinese\] [ManualCollectPoint(2022-10-13)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Chinese]ManualCollectPoint(2022-10-13)) is translate by JonasDai#5198
 
-[AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All Points is generate from Other [OtherFile/raw_data/Version Now](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data/Version Now) .
+[AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All Points is generate from Other [OtherFile/raw_data/Version Now](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data/Version%20Now) .
 
 > Language in folder name's [] is it supported language.
 >
@@ -188,7 +184,7 @@ Only Chinese ,I don't know how to translate.
 | 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | AutoArtifact              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), 自动拾取开3米,超出3M可能会因为拿到其他调查点 导致突破上限失败,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
 | 2022/10/13 | ![SmallRockPile](OtherFile/img/icons/SmallRockPile.png)Ver3.1 沙漠摩拉石碓 | RockPileSemeru            | Teyvat | Michell Lim#9331 | 有一部分是在沙堆里面，需要风元素清除即可另外有一个是打破瓶子还有2个是打爆大岩石（其中一个有bug，需要穿进去） |
 | 2022/10/12 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)雷神传说第二幕 | RaidenShogun2ndScenePoint | Teyvat | civicmanan#2171  | 雷神传说第二幕路径点,读完剧情自动去下一个剧情点(懂的用)      |
-| 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | 76Aranara                 | Teyvat | Flowers#0948     | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76个兰那罗所需材料](TeleportAll/OtherPoint/76Aranara/76个兰那罗所需材料.png) |
+| 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | 76Aranara                 | Teyvat | Flowers#0948     | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76个兰那罗所需材料](OtherFile/img/AboutPoint/76个兰那罗所需材料.png) |
 
 # OtherFile
 
@@ -200,7 +196,7 @@ Only Chinese ,I don't know how to translate.
 
 The "themes"  folder is akebi-ui background
 
-You need move it to the themes folder of AkebiGC .
+You need move it to the themes folder of Akebi-GC .
 
 ## [raw_data](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data)
 
@@ -222,12 +218,10 @@ ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and Gacha 
 
 Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
 
-Other Data From [AkebiGC-CN-Json_Group](https://discord.com/channels/440536354544156683/1024896283061784617)
+Other Data From [Akebi-GC(CN_Group)-{Json_Group}](https://discord.com/channels/440536354544156683/1024896283061784617)
 
 [^1]: Lumenspar-upgrade is used by Lumenspar task upgrade.
-
 [^2]: There are 3 subfolders in the folder of "Dendroculus", corresponding to its status in version 3.0 and version 3.1, and the summary of 2 versions
-
 [^3]: In higt version you maybe can't set it to 40m.You only keep it a num which is the bigest you can set.
 
 [^4]: Same as [3], But you can edit cfg.json to force change it.[Dangerous Waring!!!]
