@@ -5,7 +5,8 @@
 
     剔除坐标逻辑 :
         容错 : 3m->2m
-        逻辑 : 修改了剔除坐标的逻辑，修复了会剔除范围外坐标的bug
+        逻辑 : 修改了剔除坐标的逻辑，修复了会剔除范围外坐标的bug，剔除坐标更高效了
+
     y轴偏移 : 5m->3m
 -----------------------------
 translate by google
@@ -16,6 +17,6 @@ Modify :
 
      Eliminate coordinate logic:
          Fault tolerance: 3m->2m
-         Logic: Modified the logic, fixed the bug of deleting coordinates outside the range, now the Elimination is more reliable
+         Logic: Modified the logic, fixed the bug of deleting coordinates outside the range, now the Elimination is more reliable and more efficient
 
      y-axis offset : 5m->3m
