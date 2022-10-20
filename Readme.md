@@ -1,4 +1,4 @@
-# The project has been archived until Akebi-GC is back up to date
+# The project has been archived until something is back.
 
 ------
 
