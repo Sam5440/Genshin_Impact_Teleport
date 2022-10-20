@@ -1,4 +1,8 @@
-# All File Introducion
+# The project has been archived until Akebi-GC is back up to date
+
+------
+
+All File Introducion
 
 [ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord.You can see [here](#ManualCollectPoint) to find what you need.
 
