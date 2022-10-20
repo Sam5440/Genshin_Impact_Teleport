@@ -10,9 +10,9 @@ from mpl_toolkits.mplot3d import Axes3D
 
 # 辅助函数
 def get_scene_name(sceneid: int, lag: int):
-    with open(f'Data/Scene.json', 'r', encoding='UTF-8') as f:
+    with open(f"Data/Scene.json", "r", encoding="UTF-8") as f:
         js = json.load(f)
-    return js[f'{sceneid}'][lag]
+    return js[f"{sceneid}"][lag]
 
 
 def get_type_name(typestr: str, lag: int):
@@ -20,7 +20,7 @@ def get_type_name(typestr: str, lag: int):
         "Monster": ["怪物", "怪物", "Monster"],
         "Animals": ["动物", "動物", "Animals"],
         "Plant": ["植物", "植物", "Plant"],
-        'Ore': ["矿物", "礦物", "Ore"]
+        "Ore": ["矿物", "礦物", "Ore"],
     }
     return typename[typestr][lag]
 
@@ -146,17 +146,21 @@ def get_kind_name(kindstr: str, lag: int):
         "CrystalChunk": ["水晶矿", "繁体1", "CrystalChunk"],
         "MagicalCrystalChunk": ["魔晶矿", "繁体1", "MagicalCrystalChunk"],
         "StarSilver": ["星银矿", "繁体1", "StarSilver"],
-        "AmethystLump": ["紫晶矿", "繁体1", "AmethystLump"]
+        "AmethystLump": ["紫晶矿", "繁体1", "AmethystLump"],
     }
     return kindname[kindstr][lag]
 
 
 def distance3d(dic1: dict, dic2: dict):
-    return math.sqrt((dic1['x'] - dic2['x']) ** 2 + (dic1['y'] - dic2['y']) ** 2 + (dic1['z'] - dic2['z']) ** 2)
+    return math.sqrt(
+        (dic1["x"] - dic2["x"]) ** 2
+        + (dic1["y"] - dic2["y"]) ** 2
+        + (dic1["z"] - dic2["z"]) ** 2
+    )
 
 
 def distance2d(dic1: dict, dic2: dict):
-    return math.sqrt((dic1['x'] - dic2['x']) ** 2 + (dic1['z'] - dic2['z']) ** 2)
+    return math.sqrt((dic1["x"] - dic2["x"]) ** 2 + (dic1["z"] - dic2["z"]) ** 2)
 
 
 def min_dist_sort(lst: list):
@@ -178,9 +182,9 @@ def min_dist_sort(lst: list):
 
 
 def sort(lst: list):
-    if len(lst)>=2:
+    if len(lst) >= 2:
         new_list = [lst.pop(0), lst.pop(0)]
-    elif len(lst)>=1:
+    elif len(lst) >= 1:
         new_list = [lst.pop(0)]
     else:
         print("list为空")
@@ -224,17 +228,17 @@ def draw_map3d(lst: list):
     plt.figure(figsize=(10, 10))
     ax = plt.subplot(projection="3d")
 
-    ax.set_xlabel('X label')  # 画出坐标轴
-    ax.set_ylabel('z label')
-    ax.set_zlabel('y label')
+    ax.set_xlabel("X label")  # 画出坐标轴
+    ax.set_ylabel("z label")
+    ax.set_zlabel("y label")
 
     x = []
     y = []
     z = []
     for i in lst:
-        x.append(i['x'])
-        y.append(i['y'])
-        z.append(i['z'])
+        x.append(i["x"])
+        y.append(i["y"])
+        z.append(i["z"])
     ax.scatter(x, z, y)
     ax.plot(x, z, y)
     plt.show()
@@ -288,7 +292,7 @@ def DeletePos_v2(lst: list, ran: int = 0):
                     break
             pos = check
 
-            if pos == len(pos_list)-1:
+            if pos == len(pos_list) - 1:
                 # pos为最优点位 删除最优点位周围的点
                 new_list.append(pos_list[pos])
                 # 删除上半点位
@@ -349,17 +353,17 @@ def CreateAllPos(data):
         item_type = kind_js[item_type_key]  # 当前循环的type
         # 遍历所有key
         for item_key in item_type:
-            print(f'正在查找 {get_kind_name(item_key, language)} 的坐标...')
+            print(f"正在查找 {get_kind_name(item_key, language)} 的坐标...")
             id_group = item_type[item_key]
             if not id_group:
-                print(f'id_group为空，请检查代码')
+                print(f"id_group为空，请检查代码")
                 return
 
             # 读取spawns json
-            with open(f'Data/{load_json_filename}', 'r') as f:
+            with open(f"Data/{load_json_filename}", "r") as f:
                 spawns_js = json.load(f)
             # 获取scene json
-            with open(f'Data/Scene.json', 'r', encoding='UTF-8') as f:
+            with open(f"Data/Scene.json", "r", encoding="UTF-8") as f:
                 scene_js = json.load(f)
 
             # 遍历坐标
@@ -373,56 +377,112 @@ def CreateAllPos(data):
                         for spawn in spawns:
                             if not spawns_json_key_str in spawn:  # 查询是否有存在 id_key
                                 continue
-                            if spawn[spawns_json_key_str] in id_group:  # 查询id_key 的值是否为我们需要的id
-                                print(f'该坐标为 {get_kind_name(item_key, language)},'
-                                      f'{spawns_json_key_str}={spawn[spawns_json_key_str]},pos={spawn["pos"]}')
+                            if (
+                                spawn[spawns_json_key_str] in id_group
+                            ):  # 查询id_key 的值是否为我们需要的id
+                                print(
+                                    f"该坐标为 {get_kind_name(item_key, language)},"
+                                    f'{spawns_json_key_str}={spawn[spawns_json_key_str]},pos={spawn["pos"]}'
+                                )
                                 pos_list.append(spawn["pos"])
                 monster_count = 0
                 if pos_list:
                     monster_count = len(pos_list)
-                    print(f'世界:{get_scene_name(scene_key, language)} 总怪物数:{monster_count}')
+                    print(
+                        f"世界:{get_scene_name(scene_key, language)} 总怪物数:{monster_count}"
+                    )
                 else:
-                    print(f'找不到任何坐标')
+                    print(f"找不到任何坐标")
                 if not pos_list:  # 为 空 不执行后续动作
                     continue
                 flist = sort_method(pos_list)
 
                 # 删除小于指定距离的坐标
                 flist = DeletePos_v2(flist, AL_Range)
-                print(f'坐标数：{len(flist)}')
+                print(f"坐标数：{len(flist)}")
                 # 生成json文件
                 count = 1
-                path = f'pos/{get_type_name(item_type_key, language)}/' \
-                       f'{get_kind_name(item_key, language)}/' \
-                       f'{get_scene_name(scene_key, language)}'
+                path = (
+                    f"pos/{get_type_name(item_type_key, language)}/"
+                    f"{get_kind_name(item_key, language)}/"
+                    f"{get_scene_name(scene_key, language)}"
+                )
                 for i in flist:
                     if not os.path.exists(path):
                         os.makedirs(path)
-                    name = f'{get_scene_name(scene_key, language)}_{get_kind_name(item_key, language)}_{count}'
-                    with open(f'{path}/{name}.json', 'w') as f:
-                        write_js = {"description": "",
-                                    "name": f'{get_scene_name(scene_key, 2)}_{get_kind_name(item_key, 2)}_{count}',
-                                    "position": [i["x"], i["y"] + y_offset, i["z"]]}
+                    name = f"{get_scene_name(scene_key, language)}_{get_kind_name(item_key, language)}_{count}"
+                    with open(f"{path}/{name}.json", "w") as f:
+                        write_js = {
+                            "description": "",
+                            "name": f"{get_scene_name(scene_key, 2)}_{get_kind_name(item_key, 2)}_{count}",
+                            "position": [i["x"], i["y"] + y_offset, i["z"]],
+                        }
                         json.dump(write_js, f)
                         count = count + 1
-                with open(f'{path}/总数{monster_count}.txt', 'w') as f:
+                with open(f"{path}/总数{monster_count}.txt", "w") as f:
                     f.close()
 
 
-def CustomCustomMaterials(offset_y: int = 5, al_range: int = 12, filename: str = "MyRoute", lag: int = 0,
-                          prefix: str = "No."):
+def CustomCustomMaterials(
+    offset_y: int = 5,
+    al_range: int = 12,
+    filename: str = "MyRoute",
+    lag: int = 0,
+    prefix: str = "No.",
+):
     all_list = []  # 总列表
-    items = ["IronChunk", "WhiteChunk", "CrystalChunk", "MagicalCrystalChunk", "StarSilver", "AmethystLump",
-             "Wolfhook", "Valberry", "Cecillia", "WindeWhellAster", "PhilanemoMushroom", "SmallLampGrass",
-             "CallaLily", "DandelionSeed", "NoctilucousJade", "SilkFlower", "GlazeLily", "Starconch", "Violetgrass",
-             "CorLapis", "Onikabuto", "CrystalMarrow", "Dendrobium", "SangoPearl", "FluorescentFungus",
-             "RukkhashavaMushroom", "Padisarah", "NilotpalaLotus", "KalpalataLotus", "Redcrest", "Scrab",
-             "Horsetail", "MistFlower", "FlamingFlower", "ElectroCrystal", "Frog", "Lizard", "CrystalCore", "Loach",
-             "Snapdragon", "LotusHead", "Matsutake", "Crab", "BambooShoot", "Unagi", "LavenderMelon", "AjilenakhNut"
-             ]
+    items = [
+        "IronChunk",
+        "WhiteChunk",
+        "CrystalChunk",
+        "MagicalCrystalChunk",
+        "StarSilver",
+        "AmethystLump",
+        "Wolfhook",
+        "Valberry",
+        "Cecillia",
+        "WindeWhellAster",
+        "PhilanemoMushroom",
+        "SmallLampGrass",
+        "CallaLily",
+        "DandelionSeed",
+        "NoctilucousJade",
+        "SilkFlower",
+        "GlazeLily",
+        "Starconch",
+        "Violetgrass",
+        "CorLapis",
+        "Onikabuto",
+        "CrystalMarrow",
+        "Dendrobium",
+        "SangoPearl",
+        "FluorescentFungus",
+        "RukkhashavaMushroom",
+        "Padisarah",
+        "NilotpalaLotus",
+        "KalpalataLotus",
+        "Redcrest",
+        "Scrab",
+        "Horsetail",
+        "MistFlower",
+        "FlamingFlower",
+        "ElectroCrystal",
+        "Frog",
+        "Lizard",
+        "CrystalCore",
+        "Loach",
+        "Snapdragon",
+        "LotusHead",
+        "Matsutake",
+        "Crab",
+        "BambooShoot",
+        "Unagi",
+        "LavenderMelon",
+        "AjilenakhNut",
+    ]
     items_count = {}
     # 读取kind.json
-    with open(f'kind.json', 'r') as f:
+    with open(f"kind.json", "r") as f:
         kind_json = json.load(f)
 
     for item in items:
@@ -438,10 +498,10 @@ def CustomCustomMaterials(offset_y: int = 5, al_range: int = 12, filename: str =
             spawns_json_name = "GadgetSpawns.json"
             spawns_json_key_str = "gatherItemId"
         else:
-            print(f'item_kind无法对应，请检查代码')
+            print(f"item_kind无法对应，请检查代码")
             return
         # 读取 坐标json
-        with open(f'Data/{spawns_json_name}', 'r') as f:
+        with open(f"Data/{spawns_json_name}", "r") as f:
             spawns_json = json.load(f)
         # 获取item的id_Group
         id_group = kind_json[item_kind][item]
@@ -460,25 +520,28 @@ def CustomCustomMaterials(offset_y: int = 5, al_range: int = 12, filename: str =
         if item_pos_list:
             all_list = all_list + item_pos_list
             items_count[item] = len(item_pos_list)  # 记录 点位数量
-        print(f'item:{item}\n{item_pos_list}')
+        print(f"item:{item}\n{item_pos_list}")
     print(items_count)
     # 加载额外的json坐标 只排序 不剔除
     extra_item_all_list = []
-    extra_items = os.listdir(f'ExtraPos')
+    extra_items = os.listdir(f"ExtraPos")
     for extra_item in extra_items:  # 遍历所有文件夹
         extra_item_pos_list = []
-        if not os.path.isdir(f'ExtraPos/{extra_item}'):  # 如果不是文件夹则跳过
+        if not os.path.isdir(f"ExtraPos/{extra_item}"):  # 如果不是文件夹则跳过
             continue
-        extra_item_jsons = os.listdir(f'ExtraPos/{extra_item}')  # 遍历所有json
+        extra_item_jsons = os.listdir(f"ExtraPos/{extra_item}")  # 遍历所有json
         for extra_item_json_filename in extra_item_jsons:
-            if not extra_item_json_filename.endswith('.json'):  # 如果不是json文件则跳过
+            if not extra_item_json_filename.endswith(".json"):  # 如果不是json文件则跳过
                 continue
-            with open(f'ExtraPos/{extra_item}/{extra_item_json_filename}', 'r') as f:
+            with open(f"ExtraPos/{extra_item}/{extra_item_json_filename}", "r") as f:
                 extra_item_json = json.load(f)
-            extra_item_pos_list.append({"x": extra_item_json["position"][0],
-                                        "y": extra_item_json["position"][1],
-                                        "z": extra_item_json["position"][2]
-                                        })
+            extra_item_pos_list.append(
+                {
+                    "x": extra_item_json["position"][0],
+                    "y": extra_item_json["position"][1],
+                    "z": extra_item_json["position"][2],
+                }
+            )
         if extra_item_pos_list:
             extra_item_all_list = extra_item_all_list + extra_item_pos_list
             items_count[extra_item] = len(extra_item_pos_list)  # 记录 点位数量
@@ -501,30 +564,32 @@ def CustomCustomMaterials(offset_y: int = 5, al_range: int = 12, filename: str =
 
     # 生成json
     count = 1
-    path = f'CustomRoute/{filename}'
+    path = f"CustomRoute/{filename}"
     for i in all_list:
-        if not os.path.exists(f'{path}'):
-            os.makedirs(f'{path}')
-        name = prefix + str(count).rjust(5, '0')
-        with open(f'{path}/{name}.json', 'w') as f:
-            write_js = {"description": "",
-                        "name": name,
-                        "position": [i["x"], i["y"] + offset_y, i["z"]]}
+        if not os.path.exists(f"{path}"):
+            os.makedirs(f"{path}")
+        name = prefix + str(count).rjust(5, "0")
+        with open(f"{path}/{name}.json", "w") as f:
+            write_js = {
+                "description": "",
+                "name": name,
+                "position": [i["x"], i["y"] + offset_y, i["z"]],
+            }
             json.dump(write_js, f)
             count = count + 1
     # 总点位数
     pos_count = 0
     for count in items_count:
         pos_count = pos_count + items_count[count]
-    with open(f'{path}/总数{pos_count}.txt', 'w') as f:
+    with open(f"{path}/总数{pos_count}.txt", "w") as f:
         for count in items_count:
-            f.write(f'{get_kind_name(count, lag)}:{items_count[count]}\n')
+            f.write(f"{get_kind_name(count, lag)}:{items_count[count]}\n")
         f.close()
 
 
 def main():
     # 加载Data json
-    with open(f'kind.json', 'r') as f:
+    with open(f"kind.json", "r") as f:
         js_data = json.load(f)
     # 检测create_mode
     if create_mode == 0:
@@ -532,39 +597,11 @@ def main():
     elif create_mode == 1:
         CustomCustomMaterials(3, 13, "MyRoute", 0, "No.")
     elif create_mode == 99:
-        templst = [
-            {"x": 0, "y": 0, "z": 0},
-            {"x": 1, "y": 0, "z": 0},
-            {"x": 2, "y": 0, "z": 0},
-            {"x": 3, "y": 0, "z": 0},
-            {"x": 4, "y": 0, "z": 0},
-            {"x": 5, "y": 0, "z": 0},
-            {"x": 6, "y": 0, "z": 0},
-            {"x": 7, "y": 0, "z": 0},
-            {"x": 8, "y": 0, "z": 0},
-            {"x": 9, "y": 0, "z": 0},
-            {"x": 10, "y": 0, "z": 0},
-            {"x": 11, "y": 0, "z": 0},
-            {"x": 12, "y": 0, "z": 0},
-            {"x": 13, "y": 0, "z": 0},
-            {"x": 15, "y": 0, "z": 0},
-            {"x": 16, "y": 0, "z": 0},
-            {"x": 17, "y": 0, "z": 0},
-            {"x": 18, "y": 0, "z": 0},
-            {"x": 19, "y": 0, "z": 0},
-            {"x": 20, "y": 0, "z": 0},
-            {"x": 21, "y": 0, "z": 0},
-            {"x": 22, "y": 0, "z": 0},
-            {"x": 23, "y": 0, "z": 0},
-            {"x": 24, "y": 0, "z": 0},
-            {"x": 25, "y": 0, "z": 0},
-            {"x": 26, "y": 0, "z": 0},
-            {"x": 27, "y": 0, "z": 0},
-        ]
+        templst = [{"x": i, "y": 0, "z": 0} for i in range(0, 30)]
         print(templst)
         templst = DeletePos_v2(templst, 13)
         print(templst)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
