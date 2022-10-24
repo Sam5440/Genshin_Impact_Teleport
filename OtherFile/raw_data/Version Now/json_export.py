@@ -148,12 +148,13 @@ def save_json(result_path, item_dict):
             for pos in best_road:
                 i += 1
                 pos_name = f"{i}-{item}-{scene}"
+                pos_name_no_cn = re.sub('[\u4e00-\u9fa5]', '', pos_name) # 去除中文
                 pos_json["description"] = str(i)  # 拼音
-                pos_json["name"] = str(i)  # 拼音
+                pos_json["name"] = pos_name_no_cn # 拼音
                 pos_json["position"] = pos
                 with open(
                     path_fix(
-                        os.path.join(result_path, scene, item, pos_name + ".json")
+                        os.path.join(result_path, scene, item, pos_name_no_cn + ".json")
                     ),
                     "w",
                     encoding="utf-8",
