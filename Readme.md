@@ -1,8 +1,8 @@
-# The project has been archived until something is back.
+**2022/10/27 Last Update**
 
 ------
 
-All File Introducion
+# All File Introducion
 
 [ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord.You can see [here](#ManualCollectPoint) to find what you need.
 
@@ -29,6 +29,10 @@ All File Introducion
 # How to download?
 
 ![download](OtherFile/img/download.png)
+
+***If you are unable to download successfully, please download the separately compressed package file (release,On the right side), even though it may not be the latest***
+
+
 
 # How to use?
 
