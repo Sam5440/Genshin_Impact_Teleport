@@ -190,7 +190,7 @@ Only Chinese ,I don't know how to translate.
 | 2022/10/20 | 3.0须弥传送点 | Sumeru_Region_-_100 | Teyvat | zxcreepz#3644 | zxcreepz#3644 |
 | 2022/10/13 | ![SmallRockPile](OtherFile/img/icons/SmallRockPile.png)Ver3.1 沙漠摩拉石碓 | RockPileSemeru            | Teyvat | Michell Lim#9331 | 有一部分是在沙堆里面，需要风元素清除即可另外有一个是打破瓶子还有2个是打爆大岩石（其中一个有bug，需要穿进去） |
 | 2022/10/12 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)雷神传说第二幕 | RaidenShogun2ndScenePoint | Teyvat | civicmanan#2171  | 雷神传说第二幕路径点,读完剧情自动去下一个剧情点(懂的用)      |
-| 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | 76Aranara                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76个兰那罗所需材料](OtherFile/img/AboutPoint/76个兰那罗所需材料.png) |
+| 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | 76Aranara                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76nanalaluo](OtherFile/img/AboutPoint/76nanalaluo.png) |
 
 # OtherFile
 
