@@ -1,6 +1,16 @@
 **2022/10/27 Last Update**
 
 > Chinese Guide : [akebi-guide.github.io](https://akebi-guide.github.io/)
+>
+> This project should not be used for commercial purposes, only for learning and communication.
+>
+> Ce projet n'est pas destiné à un usage commercial et est uniquement destiné à l'apprentissage et à l'échange.
+>
+> このプロジェクトは営利目的ではなく、学習と交流のためにのみ使用されます。
+>
+> Dieses Projekt ist nicht für den kommerziellen Gebrauch bestimmt und dient ausschließlich dem Lernen und dem Austausch.
+>
+> 本项目不得用于商业用途，仅做学习交流。
 
 ------
 
