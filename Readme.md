@@ -48,6 +48,8 @@
 
 # How to use?
 
+> Let's take akb as an example.
+
 You should move the json file you need to the tool's "teleports" folder(if you don't have,create a new one),
 
 and click "Reload" in "teleports" menu,Then click on the location by order in the image shows below
