@@ -1,5 +1,7 @@
 **2022/10/27 Last Update**
 
+> Chinese Guide : [akebi-guide.github.io](https://akebi-guide.github.io/)
+
 ------
 
 # All File Introducion
