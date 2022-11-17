@@ -1,6 +1,6 @@
 **2022/10/27 Last Update**
 
-> Chinese Guide : [akebi-guide.github.io](https://akebi-guide.github.io/)
+> This tutorial provides in-game coordinates guidance for users of Asian, American and European platforms to help you experience the game more happily
 >
 > This project should not be used for commercial purposes, only for learning and communication.
 >
