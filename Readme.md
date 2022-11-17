@@ -1,6 +1,8 @@
 **2022/10/27 Last Update**
 
-> This tutorial provides in-game coordinates guidance for users of Asian, American and European platforms to help you experience the game more happily
+> This tutorial provides in-game coordinates guidance for users of Asian, American and European platforms to help you experience the game more happily.
+> 
+> You can use this data to quickly generate the 3D map info you need in the visualization tool
 >
 > This project should not be used for commercial purposes, only for learning and communication.
 >
