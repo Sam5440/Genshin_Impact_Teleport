@@ -240,6 +240,10 @@ Other Data From [Akebi-GC(CN_Group)-{Json_Group}](https://discord.com/channels/4
 
 Of course,not all things are included,All issues and PR are welcomed,
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Sam5440/Genshin_Impact_Teleport&type=Timeline)](https://star-history.com/#Sam5440/Genshin_Impact_Teleport&Timeline)
+
 > you can also pr the json file you use or the tools to generate .Thank you very much
 
 [^1]: Lumenspar-upgrade is used in Lumenspar task upgrade.
