@@ -1,81 +1,71 @@
-**2022/10/27 Last Update**
+**2023/01/18 Last Update**
+# Since akebi changed from free to paid, I removed the json coordinates I(Discord ShinaKaria#9760) created. If there is a free version of akebi in the future I will consider uploading it again. 
+# Disclaimer
 
-> This tutorial provides in-game coordinates guidance for users of Asian, American and European platforms to help you experience the game more happily.
+> **This tutorial provides in-game coordinates guidance for users of Asian, American and European platforms to help you experience the game more happily.**
 > 
-> You can use this data to quickly generate the 3D map info you need in the visualization tool
+> **You can use this data to quickly generate the 3D map info you need in the visualization tool**
 >
-> This project should not be used for commercial purposes, only for learning and communication.
+> **This project should not be used for commercial purposes, only for learning and communication.**
 >
-> Ce projet n'est pas destiné à un usage commercial et est uniquement destiné à l'apprentissage et à l'échange.
+> **Ce projet n'est pas destiné à un usage commercial et est uniquement destiné à l'apprentissage et à l'échange.**
 >
-> このプロジェクトは営利目的ではなく、学習と交流のためにのみ使用されます。
+> **このプロジェクトは営利目的ではなく、学習と交流のためにのみ使用されます。**
 >
-> Dieses Projekt ist nicht für den kommerziellen Gebrauch bestimmt und dient ausschließlich dem Lernen und dem Austausch.
+> **Dieses Projekt ist nicht für den kommerziellen Gebrauch bestimmt und dient ausschließlich dem Lernen und dem Austausch.**
 >
-> 本项目不得用于商业用途，仅做学习交流。
+> **本项目不得用于商业用途，仅做学习交流。**
 
 ------
 
 # All File Introducion
 
 [ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord.You can see [here](#ManualCollectPoint) to find what you need.
-
+> **This is a manual recording of the coordinates by the player. More accurate, less empty coordinates. But not always complete.**
+>
 > [Chinese\] [ManualCollectPoint(2022-10-13)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Chinese]ManualCollectPoint(2022-10-13)) is translated by JonasDai#5198
 
-[AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All Points is generated from Other [OtherFile/raw_data/Version Now](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data/Version%20Now) .
+[AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All points are generated from data of unknown origin (You know what I mean.)
 
-> Supported language is descirbed in each folder's name.(if exists)
+>**These are the coordinates generated from the data. But contains one-off points, mission-generated points. More complete, but less accurate than manually collected coordinates and may have empty coordinates.**
 >
-> All point are generated with version 2.8.
+>**Accuracy: plants = minerals > animals > monsters**
+>
+>**This includes almost all the points that exist, if there are no problems with the generation function.**
+>
+>**Supported language is descirbed in each folder's name.(if exists)**
 >
 > [Points(SortByItemKind)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Points(SortByItemKind)[cn-en]) is generated and optimized by [ShinaKaria](https://github.com/ShinaKaria) 
 
-\[[OtherFileIntroduce click here](#OtherFile)\]
-
-**If you use git,maybe you will meet** "`Filename too long`",**only press** `git config --global core.longpaths true` **to solve it.**
-
-
 
 ------
-
 
 
 # How to download?
 
 ![download](OtherFile/img/download.png)
 
-***If you are unable to download successfully, please download the separately compressed package file (release,On the right side), even though it may not be the latest***
+**If you are unable to download successfully, please download the separately compressed package file (release,On the right side), even though it may not be the latest**
 
+**If you use git,maybe you will meet** `Filename too long`.
 
+**only press** `git config --global core.longpaths true` **to solve it.**
 
-## Get English Name/ID to Search
-
-## Advice method
-
-Search this file in web page. --> [OtherFile/raw_data/Version Now/ID_json](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data/Version Now/ID_json)
-
-## Method 1
-
-If you don't know the English name,you can visit [Home | Project Amber — Your brand new Genshin Impact Database (ambr.top)](https://ambr.top/chs/archive/material),select your language,and looking for the thing you need,and get its English name from the URL.
-
-> For example, you search for "甜甜花"(sweet flower in English),you will get the URL https://ambr.top/chs/archive/material/100012/sweet-flower ,then 100012 is its ID,sweet-flower is its English name.
-
-## Method 2
-
-(中文限定) 
-
-在萌娘百科里面查询[原神 - 萌娘百科 万物皆可萌的百科全书 (moegirl.org.cn)](https://zh.moegirl.org.cn/原神)
-
->  (呜呜呜我的萌百里站什么时候能回来)
 
 ## How to search in web page?
 
-Press "Ctrl+F" and do your search.
+**method 1:**
 
-Tips:search the text without "-" to improve accurancy.
+>Press "Ctrl+F" and do your search.
+>
+>Tips:search the text without "-" to improve accurancy.
+>
+>For example,search "sweet" or "flower" instead of "sweet-flower"
+>
+>it cannot search for the name of the folder
 
-> For example,search "sweet" or "flower" instead of "sweet-flower"
-
+**method 2:**
+> Open the folder directly to view it. It's categorised for easier searching
 # Notice!!! Read it to Avoid risks!!!!!
 
 **【The below things are only for suggestion,cannot 100% prevent you from ban,use at your own risk】**
@@ -86,27 +76,25 @@ If you can't pick up all things,maybe you need to set a larger range.
 
 But setting a too high number could be dangerous for you.
 
-Recommended safe range is about 20 m,and safe delay is about 300 ms.
+Recommended safe range is about 20 m,and safe delay is about 300 ms.（NO PROMISES. go to test the settings youself）
 
 Over that maybe permit a ban to your account.
-
-# Automatically generate
-
-You can use below tools ,input your need's ID to generate teleports' json file.
-
-The Automatically generate tool is developed by civicmanan#2171.
-
-DownloadLink: https://wws.lanzouv.com/b03vceopa   `[DownloadPassword:1234]`
 
 # ManualCollectPoint
 
 ##\[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
 
-Include almost all teleport points in version 2.8.
-
 **Note: Old files, incomplete**
 
 > Sorry,I don't know who is the author.
+> 
+> Someone has collected the coordinates. I don't know if it's complete. You can check for yourself if they are available.
+
+#[Chinese]ManualCollectPoint(2022-10-13)
+
+>Translated by By JonasDai#5198
+
+
 
 ## 1.Featuread
 
@@ -174,7 +162,8 @@ Including pick range and destory range.
 | AddTime    | Img                                                          | Name/ID          | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ---------------- | ------ | ---------------- | ------------------------------------------------------------ |
 | 2022/10/11 | ![UnusualHilichurl](OtherFile/img/icons/UnusualHilichurl.png) | UnusualHilichurl | Teyvat | jdbddbhd#9874    | /                                                            |
-| 2022/10/11 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | FatuiAgent       | Teyvat | Michell Lim#9331 | /                                                            |
+| 2022/10/11 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | FatuiAgent       | Teyvat | Michell Lim#9331 | /        
+| 2022/12/22 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | FatuiAgent22       | Teyvat | Unknow | /                                                          |
 | 2022/10/12 | ![Slime](OtherFile/img/icons/Slime.png)                      | Slime            | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
 | 2022/10/12 | ![Specter](OtherFile/img/icons/Specter.png)                  | Specter          | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
 | 2022/10/12 | ![Rifthound](OtherFile/img/icons/Rifthound.png)![RifthoundWhelp](OtherFile/img/icons/RifthoundWhelp.png) | Rifthound        | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
@@ -187,9 +176,9 @@ Including pick range and destory range.
 
 ## OtherPoint
 
-Only Chinese ,I don't know how to translate.
+Not coordinates. Some of the files needed are pictures etc.
 
-| AddTime    | Img                                                          | Name/ID                   | World  | Author/ID        | NOTE                                                         |
+| AddTime    | Name                                                          | Floder Name/ID                   | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------- | ------ | ---------------- | ------------------------------------------------------------ |
 | 2022/10/07 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | gouliangv2                | Teyvat | 傻逼#7734        | 自动拾取5米-P/S:作者ID确实叫这个，没有骂人的意思             |
 | 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | AutoArtifact              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), 自动拾取开3米,超出3M可能会因为拿到其他调查点 导致突破上限失败,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
@@ -199,36 +188,16 @@ Only Chinese ,I don't know how to translate.
 | 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | 76Aranara                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76nanalaluo](OtherFile/img/AboutPoint/76nanalaluo.png) |
 | 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru Desert - 100% | Sumeru_Desert_100 | Teyvat | zxcreepz#0001 | Sumeru Desert - 100% region - all chests, sacred seals and dendroculus |
 | 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru  - 100% | Sumeru_Region_-_100 | Teyvat | zxcreepz#0001 | Sumeru  100% region - all chests, sacred seals and dendroculus |
-
-# OtherFile
-
-[Genshin_Impact_Teleport/OtherFile](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile)
-
-## [themes](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/themes)
-
-It can modify background.
-
-The "themes"  are modifications to UI for different apperance.
-
-You need move it to "themes" folder in Akebi-GC.
-
-## [raw_data](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/raw_data)
-
-Raw data and code to support auto generate.
-
-## [python_lib](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/python_lib)
-
-Some .py to hele write document.
-
-## [img](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/OtherFile/img)
-
-Readme image.
+| 2022/12/22 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Liyue  - 1043 chest | Liyue Chests Json 1043 | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043 |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)TheChasm100% | The Chasm 100% | Thechasm100% | serendipity#3437 | The Chasm 100% |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)The Chasm UndergroundMines 100% | TheChasmUndergroundMines 100% | The chasm | serendipity#3437 | The Chasm UndergroundMines 100% |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)生成宝箱(Generate Chest) | 宝箱 | ALL | lithtech#9980 | Only the treasure chest location JSON exists, no starting point for solving the treasure chest in the puzzle category |
 
 # Data From
 
-ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and Gacha Banner Editor (github.com)](https://github.com/jie65535/GrasscutterCommandGenerator)
+Some ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and Gacha Banner Editor (github.com)](https://github.com/jie65535/GrasscutterCommandGenerator)
 
-Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
+Sone Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
 
 Other Data From [Akebi-GC(CN_Group)-{Json_Group}](https://discord.com/channels/440536354544156683/1024896283061784617)
 
