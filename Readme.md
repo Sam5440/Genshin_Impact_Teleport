@@ -1,5 +1,17 @@
-**2023/01/18 Last Update**
-# Since akebi changed from free to paid, I removed the json coordinates I(Discord ShinaKaria#9760) created. If there is a free version of akebi in the future I will consider uploading it again. 
+**2023/01/20 Last Update**
+
+> some files is upload again but not all.
+
+# Join to talk -->
+
+**Our Discord channel**:[Genshin_Impact_Teleport Discord](https://discord.gg/fthU2R4A4U)
+
+> As a backup channel when free cheat talking is blocked by other channels.
+>
+> -----------------------------------------------------------------------------
+>
+>  and new free one ! but without cn support now. download in grou ->  https://discord.gg/8AjbJXqRPJ
+
 # Disclaimer
 
 > **This tutorial provides in-game coordinates guidance for users of Asian, American and European platforms to help you experience the game more happily.**
@@ -65,6 +77,7 @@
 >it cannot search for the name of the folder
 
 **method 2:**
+
 > Open the folder directly to view it. It's categorised for easier searching
 # Notice!!! Read it to Avoid risks!!!!!
 
