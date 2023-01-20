@@ -187,7 +187,26 @@ Including pick range and destory range.
 | 2022/10/12 | ![TreasureHoarder](OtherFile/img/icons/TreasureHoarder.png)  | TreasureHoarders | Teyvat | Foxx#0061        | Sorted by different kinds.(ver2.8)                        |
 | 2022/10/18 | ![Fungi](OtherFile/img/icons/Fungi.png)                      | Fungi            | Teyvat | yangshiling#8543 | fungal-spores,11 pcs point                                   |
 
-## OtherPoint
+## 7.Chest
+
+| AddTime    | Name                                                         | Floder Name/ID         | World  | Author/ID        | NOTE                                                         |
+| ---------- | ------------------------------------------------------------ | ---------------------- | ------ | ---------------- | ------------------------------------------------------------ |
+| 2022/10/13 | ![SmallRockPile](OtherFile/img/icons/SmallRockPile.png)Ver3.1 RockPileSemeru | Ver3.1 RockPileSemeru  | Teyvat | Michell Lim#9331 | Some of them are inside the sand pile and need to be cleared by wind elements, another one is to break the bottle, and 2 are to break the rock |
+| 2022/12/22 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Liyue  - 1043 chest | Liyue Chests Json 1043 | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043                                     |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Generate Chest | Generate Chest         | ALL    | lithtech#9980    | Only the treasure chest location JSON exists, no starting point for solving the treasure chest in the puzzle category |
+| 2023/01/20 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Ver3.4 Chest | Ver3.4 Chest           | Teyvat | /                | All chest in ver 3.4's new area ,include![SmallRockPile](OtherFile/img/icons/SmallRockPile.png) (RockPileSemeru),but Some need to Decrypt . |
+
+## 8.ExploreTo100
+
+| AddTime | Name | Floder Name/ID | World | Author/ID | NOTE |
+| ------------- | ------------------------------------------------------------ | ----------------------------- | ------------ | ----------------- | ------------------------------------------------------------ |
+| 2022/11/04    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)Sumeru Desert - 100% | Sumeru_Desert_100             | Teyvat       | zxcreepz#0001     | Sumeru Desert - 100% region - all chests, sacred seals and dendroculus |
+| 2022/11/04    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)Sumeru  - 100% | Sumeru_Region_100           | Teyvat       | zxcreepz#0001     | Sumeru  100% region - all chests, sacred seals and dendroculus |
+| 2023/01/10    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)TheChasm100% | The Chasm 100%                | Thechasm100% | serendipity#3437  | The Chasm 100%                                               |
+| 2023/01/10    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)The Chasm UndergroundMines 100% | TheChasmUndergroundMines 100% | The chasm    | serendipity#3437  | The Chasm UndergroundMines 100%                              |
+
+
+## 9.OtherPoint
 
 Not coordinates. Some of the files needed are pictures etc.
 
@@ -195,16 +214,10 @@ Not coordinates. Some of the files needed are pictures etc.
 | ---------- | ------------------------------------------------------------ | ------------------------- | ------ | ---------------- | ------------------------------------------------------------ |
 | 2022/10/07 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | gouliangv2                | Teyvat | 傻逼#7734        | 自动拾取5米-P/S:作者ID确实叫这个，没有骂人的意思             |
 | 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | AutoArtifact              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), 自动拾取开3米,超出3M可能会因为拿到其他调查点 导致突破上限失败,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
-| 2022/10/20 | 3.0须弥传送点 | Sumeru_Region_-_100 | Teyvat | zxcreepz#3644 | zxcreepz#3644 |
-| 2022/10/13 | ![SmallRockPile](OtherFile/img/icons/SmallRockPile.png)Ver3.1 沙漠摩拉石碓 | RockPileSemeru            | Teyvat | Michell Lim#9331 | 有一部分是在沙堆里面，需要风元素清除即可另外有一个是打破瓶子还有2个是打爆大岩石（其中一个有bug，需要穿进去） |
-| 2022/10/12 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)雷神传说第二幕 | RaidenShogun2ndScenePoint | Teyvat | civicmanan#2171  | 雷神传说第二幕路径点,读完剧情自动去下一个剧情点(懂的用)      |
 | 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | 76Aranara                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76nanalaluo](OtherFile/img/AboutPoint/76nanalaluo.png) |
-| 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru Desert - 100% | Sumeru_Desert_100 | Teyvat | zxcreepz#0001 | Sumeru Desert - 100% region - all chests, sacred seals and dendroculus |
-| 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru  - 100% | Sumeru_Region_-_100 | Teyvat | zxcreepz#0001 | Sumeru  100% region - all chests, sacred seals and dendroculus |
-| 2022/12/22 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Liyue  - 1043 chest | Liyue Chests Json 1043 | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043 |
-| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)TheChasm100% | The Chasm 100% | Thechasm100% | serendipity#3437 | The Chasm 100% |
-| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)The Chasm UndergroundMines 100% | TheChasmUndergroundMines 100% | The chasm | serendipity#3437 | The Chasm UndergroundMines 100% |
-| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)生成宝箱(Generate Chest) | 宝箱 | ALL | lithtech#9980 | Only the treasure chest location JSON exists, no starting point for solving the treasure chest in the puzzle category |
+| 2023/01/20 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)3.4Limited Time Challenge | 3.4Limited Time Challenge | Teyvat | / | Version 3.4 new area Limited Time Challenge point. |
+| 3.4LuminousSeelie | ![WorldQuests](OtherFile/img/icons/LuminousSeelie.png)3.4LuminousSeelie | 3.4LuminousSeelie | Teyvat | / | Version 3.4 new area LuminousSeelie point. |
+
 
 # Data From
 
