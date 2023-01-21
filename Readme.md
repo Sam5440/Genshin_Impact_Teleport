@@ -6,6 +6,8 @@
 
 **Our Discord channel**:[Genshin_Impact_Teleport Discord](https://discord.gg/fthU2R4A4U)
 
+> you can @Sam5440#8543 to ask me.
+>
 > As a backup channel when free cheat talking is blocked by other channels.
 >
 > -----------------------------------------------------------------------------
