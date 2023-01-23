@@ -5,9 +5,9 @@
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
 >
 
-# Join to talk -->
+# Join us
+<a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>
 
-**Our Discord channel**:[Genshin_Impact_Teleport Discord](https://discord.gg/fthU2R4A4U)
 
 >------------------------------------------------------------------------------
 >
@@ -15,7 +15,7 @@
 >
 > -----------------------------------------------------------------------------
 >
->  and new free one ! but without cn support now. download in grou ->  https://discord.gg/8AjbJXqRPJ
+> FREE to cheat with <a href="https://discord.gg/8AjbJXqRPJ"><img src="https://img.shields.io/discord/440536354544156683?color=blue&label=Acrepi&logo=discord&style=flat-square"></a>
 
 # Disclaimer
 
@@ -116,16 +116,17 @@ Over that maybe permit a ban to your account.
 
 ## 1.Featuread
 
-| AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID     |
+| AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
 | 2022/09/30 | ![Anemoculus](OtherFile/img/icons/Anemoculus.png)     | AnemOculus            | Teyvat                | inkay#5122    |
-| 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | Crimson Agate         | Teyvat                | 𝓜𝓪𝓻𝓽𝓲𝓷#6895   |
+| 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | Crimson Agate         | Teyvat                | 𝓜𝓪𝓻𝓽𝓲𝓷#6895  |
 | 2022/09/30 | ![Geoculus](OtherFile/img/icons/Geoculus.png)         | Geoculus              | Teyvat                | inkay#5122    |
 | 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | Electroculus          | Teyvat                | inkay#5122    |
 | 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | Lumenspar             | The Chasm Underground | emma1259#3965 |
 | 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | Lumenspar-upgrade[^1] | The Chasm Underground | emma1259#3965 |
 | 2022/09/30 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | Dendroculus[^2]       | Teyvat                | inkay#5122    |
 | 2022/10/05 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | Sacred Seal           | Teyvat                | Misuki#9695   |
+| 2022/11/05 | NOT YET                                               | Key Sigil             | Enkanomiya            | allencross#6363|
 
 ## 2.Animals
 
