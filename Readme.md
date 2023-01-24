@@ -5,6 +5,8 @@
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
 >
 
+目录写在这里！！！！！
+
 # Join us
 
 >------------------------------------------------------------------------------
@@ -112,7 +114,7 @@ Over that maybe permit a ban to your account.
 
 
 
-## 1.Featuread
+## Special Items
 
 | AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
@@ -122,11 +124,28 @@ Over that maybe permit a ban to your account.
 | 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | Electroculus          | Teyvat                | inkay#5122    |
 | 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | Lumenspar             | The Chasm Underground | emma1259#3965 |
 | 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | Lumenspar-upgrade[^1] | The Chasm Underground | emma1259#3965 |
+| 2022/11/05 | ![KeySigil](OtherFile/img/icons/KeySigilNew.png)      | Key Sigil             | Enkanomiya            | allencross#6363|
 | 2022/09/30 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | Dendroculus[^2]       | Teyvat                | inkay#5122    |
 | 2022/10/05 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | Sacred Seal           | Teyvat                | Misuki#9695   |
-| 2022/11/05 | ![KeySigil](OtherFile/img/icons/KeySigilNew.png)      | Key Sigil             | Enkanomiya            | allencross#6363|
 
-## 2.Animals
+## Local Specialties
+
+AutoLoot Range > 15m is **Extremely Risky**
+
+| AddTime    | Img                                                | Name/ID             | World  | Author/ID         | NOTE         |
+| ---------- | -------------------------------------------------- | ------------------- | ------ | ----------------- | -------------|
+| 2022/10/10 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png)| KalpalataLotus| Teyvat | jdbddbhd#9874     | Total is 64+2+5.P/S:ID25 and ID26 you need pick up yourself,and 5 of all you need to buy from npc. |
+| 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png)|KalpalataLotus#2| Teyvat| civicmanan#2171   | 66 pcs, recommended autoloot range ≥ 15m |
+| 2022/10/11 | ![NilotpalaLotus](OtherFile/img/icons/NilotpalaLotus.png)| NilotpalaLotus| Teyvat | jdbddbhd#9874     | ID47,55-57,you need to pick up yourself.                     |
+| 2022/10/19 | ![Padisarah](OtherFile/img/icons/Padisarah.png)    | Padisarah           | Teyvat | Hieu#5027         | /           |
+| 2022/10/11 | ![Redcrest](OtherFile/img/icons/Redcrest.png)      | Redcrest            | Teyvat | jdbddbhd#9874     | /           |
+| 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png)|RukkhashavaMushroom|Teyvat|civicmanan#2171| 73 pcs, recommended autoloot range ≥ 15m                   |
+| 2023/1/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| SandGreasePupa| Teyvat | Drich#3614        | 74 SGPs,Loot Range >= 5m |
+| 2022/10/12 | ![SangoPearl](OtherFile/img/icons/SangoPearl.png)  | SangoPearl          | Teyvat | civicmanan#2171   | /           |
+| 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png)          | scarab              | Teyvat | ShinaKaria#9760   | 72 pcs ,recommended autoloot range ≥ 15m                           |
+| 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png)          | scarab#2            | Teyvat | civicmanan#2171   | 74 pcs,recommended autoloot range ≥ 15m                           |
+
+## Inventory
 
 Because animal is always escaping from you,doing something on you setting is recommended.
 
@@ -134,14 +153,12 @@ For example,setting a larger AutoLoot range.
 
 **P/S :Too large autoloot range is dangerous!!!**
 
-| AddTime    | Img                                                                                                                            | Name/ID             | World  | Author/ID                | NOTE                                                        |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------ | ------------------------ | ----------------------------------------------------------- |
-| 2022/10/07 | ![CrystalCore](OtherFile/img/icons/CrystalCore.png)                                                                              | CrystalCore_12point | Teyvat | Linxia#0961              | 12 point                                               |
-| 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png)                                                                                        | Teyvat scarab       | Teyvat | ShinaKaria#9760          | 72 pcs ,recommended autoloot range ≥ 15m |
-| 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png)                                                                                        | Teyvat scarab#2     | Teyvat | civicmanan#2171          | 74 pcs,recommended autoloot range ≥ 15m  |
-| 2022/10/15 | ![CrystalCore](OtherFile/img/icons/CrystalCore.png) | CrystalCore_35point | Teyvat | Chongdong#4545 | 2022/10/07's CrystalCore_12point update version. |
+| AddTime    | Img                                               | Name/ID    | World  | Author/ID       | NOTE |
+| ---------- | ------------------------------------------------- | ---------- | ------ | --------------- | ---- |
+| 2022/10/07 | ![CrystalCore](OtherFile/img/icons/CrystalCore.png)| CrystalCore_12point | Teyvat | Linxia#0961              | 12 point     |
+| 2022/10/15 | ![CrystalCore](OtherFile/img/icons/CrystalCore.png)| CrystalCore_35point | Teyvat | Chongdong#4545 | 2022/10/07's CrystalCore_12point update version. |
 
-## 3.Chunks
+## Chunks
 
 Some of them need a larger range than others.
 
@@ -155,24 +172,7 @@ Including pick range and destory range.
 | 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | EnkanomiyaAmethystLump             | Enkanomiya                                | Michell Lim#9331                 | ~~recommended autoloot range ≥ 40m to pick all chunks.~~[^3] |
 | 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | AmethystLump                       | Teyvat                                    | Michell Lim#9331                 | ~~recommended autoloot range ≥ 40m to pick all chunks.~~[^4] |
 
-## 4.Plants
-
-| AddTime    | Img                                                          | Name/ID             | World  | Author/ID       | NOTE                                                         |
-| ---------- | ------------------------------------------------------------ | ------------------- | ------ | --------------- | ------------------------------------------------------------ |
-| 2022/10/10 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png)    | KalpalataLotus      | Teyvat | jdbddbhd#9874   | Total is 64+2+5.P/S:ID25 and ID26 you need pick up yourself,and 5 of all you need to buy from npc. |
-| 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png)    | KalpalataLotus#2    | Teyvat | civicmanan#2171 | 66 pcs, recommended autoloot range ≥ 15m                     |
-| 2022/10/11 | ![NilotpalaLotus](OtherFile/img/icons/NilotpalaLotus.png)    | NilotpalaLotus      | Teyvat | jdbddbhd#9874   | ID47,55-57,you need to pick up yourself.                     |
-| 2022/10/11 | ![Redcrest](OtherFile/img/icons/Redcrest.png)                | Redcrest            | Teyvat | jdbddbhd#9874   | /                                                            |
-| 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png) | RukkhashavaMushroom | Teyvat | civicmanan#2171 | 73 pcs, recommended autoloot range ≥ 15m                     |
-| 2022/10/19 | ![Padisarah](OtherFile/img/icons/Padisarah.png)              | Padisarah           | Teyvat | Hieu#5027       | /                                                            |
-
-## 5.Items
-
-| AddTime    | Img                                               | Name/ID    | World  | Author/ID       | NOTE |
-| ---------- | ------------------------------------------------- | ---------- | ------ | --------------- | ---- |
-| 2022/10/12 | ![SangoPearl](OtherFile/img/icons/SangoPearl.png) | SangoPearl | Teyvat | civicmanan#2171 | /    |
-
-## 6.Monsters
+## Monsters
 
 (Outdated)Points below are only upgraded up to version 2.8.
 
@@ -191,7 +191,7 @@ Including pick range and destory range.
 | 2022/10/12 | ![TreasureHoarder](OtherFile/img/icons/TreasureHoarder.png)  | TreasureHoarders | Teyvat | Foxx#0061        | Sorted by different kinds.(ver2.8)                        |
 | 2022/10/18 | ![Fungi](OtherFile/img/icons/Fungi.png)                      | Fungi            | Teyvat | yangshiling#8543 | fungal-spores,11 pcs point                                   |
 
-## 7.Chest
+## Chest
 
 | AddTime    | Name                                                         | Floder Name/ID         | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ---------------------- | ------ | ---------------- | ------------------------------------------------------------ |
@@ -200,7 +200,7 @@ Including pick range and destory range.
 | 2023/01/10 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Generate Chest | Generate Chest         | ALL    | lithtech#9980    | Only the treasure chest location JSON exists, no starting point for solving the treasure chest in the puzzle category |
 | 2023/01/20 | ![WorldQuests](OtherFile/img/icons/CommonChest.png)Ver3.4 Chest | Ver3.4 Chest           | Teyvat | /                | All chest in ver 3.4's new area ,include![SmallRockPile](OtherFile/img/icons/SmallRockPile.png) (RockPileSemeru),but Some need to Decrypt . |
 
-## 8.ExploreTo100
+## ExploreTo100
 
 | AddTime | Name | Floder Name/ID | World | Author/ID | NOTE |
 | ------------- | ------------------------------------------------------------ | ----------------------------- | ------------ | ----------------- | ------------------------------------------------------------ |
@@ -210,7 +210,7 @@ Including pick range and destory range.
 | 2023/01/10    | ![WorldQuests](OtherFile/img/icons/TeleportWaypoint.png)The Chasm UndergroundMines 100% | TheChasmUndergroundMines 100% | The chasm    | serendipity#3437  | The Chasm UndergroundMines 100%                              |
 
 
-## 9.OtherPoint
+## OtherPoint
 
 Not coordinates. Some of the files needed are pictures etc.
 
