@@ -12,7 +12,17 @@
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
 >
 
-- [Join us](#join-us)
+# Join our channel to talk
+
+>------------------------------------------------------------------------------
+>
+> <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>  As a backup channel when free cheat talking is blocked by other channels.
+>
+> -----------------------------------------------------------------------------
+>
+> <a href="https://discord.gg/8AjbJXqRPJ"><img src="https://img.shields.io/discord/440536354544156683?color=blue&label=Acrepi&logo=discord&style=flat-square"></a>  FREE cheat channel
+
+- [Join our channel to talk](#join-our-channel-to-talk)
 - [Disclaimer](#disclaimer)
 - [All File Introducion](#all-file-introducion)
 - [How to download?](#how-to-download)
@@ -31,16 +41,6 @@
 - [Thanks](#thanks)
 - [About Issues And PR](#about-issues-and-pr)
   - [Star History](#star-history)
-
-# Join us
-
->------------------------------------------------------------------------------
->
-> <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>  As a backup channel when free cheat talking is blocked by other channels.
->
-> -----------------------------------------------------------------------------
->
-> <a href="https://discord.gg/8AjbJXqRPJ"><img src="https://img.shields.io/discord/440536354544156683?color=blue&label=Acrepi&logo=discord&style=flat-square"></a>  FREE cheat channel
 
 # Disclaimer
 
