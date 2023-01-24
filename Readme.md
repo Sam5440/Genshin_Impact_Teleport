@@ -5,7 +5,25 @@
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
 >
 
-目录写在这里！！！！！
+- [Join us](#join-us)
+- [Disclaimer](#disclaimer)
+- [All File Introducion](#all-file-introducion)
+- [How to download?](#how-to-download)
+  - [How to search in web page?](#how-to-search-in-web-page)
+- [Notice!!! Read it to Avoid risks!!!!!](#notice-read-it-to-avoid-risks)
+- [ManualCollectPoint](#manualcollectpoint)
+  - [Special Items](#special-items)
+  - [Local Specialties](#local-specialties)
+  - [Inventory](#inventory)
+  - [Chunks](#chunks)
+  - [Monsters](#monsters)
+  - [Chest](#chest)
+  - [ExploreTo100](#exploreto100)
+  - [OtherPoint](#otherpoint)
+- [Data From](#data-from)
+- [Thanks](#thanks)
+- [About Issues And PR](#about-issues-and-pr)
+  - [Star History](#star-history)
 
 # Join us
 
