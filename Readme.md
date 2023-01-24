@@ -1,5 +1,12 @@
 **2023/01/23 Last Update**
-![](https://komarev.com/ghpvc/?username=done434)
+
+>The number of visits is averaged.
+>
+>![](https://komarev.com/ghpvc/?username=sam5440)
+>![](https://komarev.com/ghpvc/?username=done434)
+>![](https://komarev.com/ghpvc/?username=done435)
+>![](https://komarev.com/ghpvc/?username=done436)
+
 > Only the 2.8 coordinates are on the github now, please be patient with the pre-3.3 coordinates, they will be back soon. 3.4 coordinates will probably be released in the second half of 3.4.
 >
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
