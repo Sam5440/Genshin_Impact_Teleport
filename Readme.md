@@ -136,15 +136,15 @@ Over that maybe permit a ban to your account.
 
 | AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 2022/09/30 | ![Anemoculus](OtherFile/img/icons/Anemoculus.png)     | AnemOculus            | Teyvat                | inkay#5122    |
-| 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | Crimson Agate         | Teyvat                | 𝓜𝓪𝓻𝓽𝓲𝓷#6895  |
-| 2022/09/30 | ![Geoculus](OtherFile/img/icons/Geoculus.png)         | Geoculus              | Teyvat                | inkay#5122    |
-| 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | Electroculus          | Teyvat                | inkay#5122    |
-| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | Lumenspar             | The Chasm Underground | emma1259#3965 |
+| 2022/09/30 | ![Anemoculus](OtherFile/img/icons/Anemoculus.png)     | [AnemOculus](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/AnemOculus.zip)            | Teyvat                | inkay#5122    |
+| 2022/10/07 | ![CrimsonAgate](OtherFile/img/icons/CrimsonAgate.png) | [Crimson Agate](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/CrimsonAgate.zip)         | Teyvat                | 𝓜𝓪𝓻𝓽𝓲𝓷#6895  |
+| 2022/09/30 | ![Geoculus](OtherFile/img/icons/Geoculus.png)         | [Geoculus](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Geoculus.zip)              | Teyvat                | inkay#5122    |
+| 2022/09/30 | ![Electroculus](OtherFile/img/icons/Electroculus.png) | [Electroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Electroculus.zip)          | Teyvat                | inkay#5122    |
+| 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | [Lumenspar](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Lumenspar.zip)             | The Chasm Underground | emma1259#3965 |
 | 2022/10/11 | ![Lumenspar](OtherFile/img/icons/Lumenspar.png)       | Lumenspar-upgrade[^1] | The Chasm Underground | emma1259#3965 |
-| 2022/11/05 | ![KeySigil](OtherFile/img/icons/KeySigilNew.png)      | Key Sigil             | Enkanomiya            | allencross#6363|
-| 2022/09/30 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | Dendroculus[^2]       | Teyvat                | inkay#5122    |
-| 2022/10/05 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | Sacred Seal           | Teyvat                | Misuki#9695   |
+| 2022/11/05 | ![KeySigil](OtherFile/img/icons/KeySigilNew.png)      | [Key Sigil](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KeySigil.zip)             | Enkanomiya            | allencross#6363|
+| 2022/09/30 | ![Dendroculus](OtherFile/img/icons/Dendroculus.png)   | [Dendroculus](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Dendroculus.zip)[^2]       | Teyvat                | inkay#5122    |
+| 2022/10/05 | ![SacredSeal](OtherFile/img/icons/SacredSeal.png)     | [Sacred Seal](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SacredSeal.zip)           | Teyvat                | Misuki#9695   |
 
 ## Local Specialties
 
@@ -152,16 +152,16 @@ AutoLoot Range > 15m is **Extremely Risky**
 
 | AddTime    | Img                                                | Name/ID             | World  | Author/ID         | NOTE         |
 | ---------- | -------------------------------------------------- | ------------------- | ------ | ----------------- | -------------|
-| 2022/10/10 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png)| KalpalataLotus| Teyvat | jdbddbhd#9874     | Total is 64+2+5.P/S:ID25 and ID26 you need pick up yourself,and 5 of all you need to buy from npc. |
-| 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png)|KalpalataLotus#2| Teyvat| civicmanan#2171   | 66 pcs, recommended autoloot range ≥ 15m |
-| 2022/10/11 | ![NilotpalaLotus](OtherFile/img/icons/NilotpalaLotus.png)| NilotpalaLotus| Teyvat | jdbddbhd#9874     | ID47,55-57,you need to pick up yourself.                     |
-| 2022/10/19 | ![Padisarah](OtherFile/img/icons/Padisarah.png)    | Padisarah           | Teyvat | Hieu#5027         | /           |
-| 2022/10/11 | ![Redcrest](OtherFile/img/icons/Redcrest.png)      | Redcrest            | Teyvat | jdbddbhd#9874     | /           |
-| 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png)|RukkhashavaMushroom|Teyvat|civicmanan#2171| 73 pcs, recommended autoloot range ≥ 15m                   |
-| 2023/1/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| SandGreasePupa| Teyvat | Drich#3614        | 74 SGPs,Loot Range >= 5m |
-| 2022/10/12 | ![SangoPearl](OtherFile/img/icons/SangoPearl.png)  | SangoPearl          | Teyvat | civicmanan#2171   | /           |
-| 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png)          | scarab              | Teyvat | ShinaKaria#9760   | 72 pcs ,recommended autoloot range ≥ 15m                           |
-| 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png)          | scarab#2            | Teyvat | civicmanan#2171   | 74 pcs,recommended autoloot range ≥ 15m                           |
+| 2022/10/10 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [KalpalataLotus](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KalpalataLotus.zip) | Teyvat | jdbddbhd#9874 | Total is 64+2+5.P/S:ID25 and ID26 you need pick up yourself,and 5 of all you need to buy from npc. |
+| 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [KalpalataLotus#2](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KalpalataLotus2.zip) | Teyvat | civicmanan#2171 | 66 pcs, recommended autoloot range ≥ 15m |
+| 2022/10/11 | ![NilotpalaLotus](OtherFile/img/icons/NilotpalaLotus.png) | [NilotpalaLotus](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/NilotpalaLotus.zip) | Teyvat | jdbddbhd#9874 | ID47,55-57,you need to pick up yourself. |
+| 2022/10/19 | ![Padisarah](OtherFile/img/icons/Padisarah.png) | [Padisarah](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Padisarah.zip) | Teyvat | Hieu#5027 | / |
+| 2022/10/11 | ![Redcrest](OtherFile/img/icons/Redcrest.png) |[Redcrest](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Redcrest.zip) | Teyvat | jdbddbhd#9874 | / |
+| 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png) | [RukkhashavaMushroom](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/RukkhashavaMushroom.zip) |Teyvat|civicmanan#2171 | 73 pcs, recommended autoloot range ≥ 15m |
+| 2023/1/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [SandGreasePupa](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SandGreasePupa.zip)| Teyvat | Drich#3614 | 74 SGPs,Loot Range >= 5m |
+| 2022/10/12 | ![SangoPearl](OtherFile/img/icons/SangoPearl.png)  | [SangoPearl](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SangoPearl.zip) | Teyvat | civicmanan#2171 | / |
+| 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Scarab.zip) | Teyvat | ShinaKaria#9760 | 72 pcs ,recommended autoloot range ≥ 15m |
+| 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab#2](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Scarab2.zip) | Teyvat | civicmanan#2171 | 74 pcs,recommended autoloot range ≥ 15m |
 
 ## Inventory
 
