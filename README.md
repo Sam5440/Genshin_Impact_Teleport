@@ -1,5 +1,5 @@
-EN/[中文](README.zh-CN.md)
-
+**[English](README.md) / [简体中文](README.zh-CN.md)**
+---
 **2023/01/23 Last Update**
 
 >The number of visits is averaged.
