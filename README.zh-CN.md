@@ -1,11 +1,27 @@
+<div class="RepoCover" align="center">
+  <a href="#"><img width="600" height="675" src="https://raw.githubusercontent.com/VaLueS6655/Genshin_Impact_Teleport/main/OtherFile/img/GIT_Branding_NS.png"></a>
+  <br>
+  <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?color=%2352b4d8&label=Genshin%20Impact%20teleport%E9%A2%91%E9%81%93&logo=discord&style=for-the-badge"></a>
+  <br>
+  <a href="https://github.com/Sam5440/Genshin_Impact_Teleport/commits/main"><img src="https://img.shields.io/github/last-commit/Sam5440/Genshin_Impact_Teleport?label=%E6%9C%80%E6%96%B0%E6%8F%90%E4%BA%A4&logo=Github&style=flat-square"></a>
+  <a href="https://github.com/Sam5440/Genshin_Impact_Teleport/releases"><img src="https://img.shields.io/github/downloads/Sam5440/Genshin_Impact_Teleport/total?label=%E6%80%BB%E8%AE%A1%E4%B8%8B%E8%BD%BD&logo=Github&style=flat-square"></a>
+  <br>
+  <div class="star">
+    <img width="100px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sam5440/Genshin_Impact_Teleport?label=Stars&logo=Github&style=flat-square">
+    </img>
+  </div>
+  如果这对你有帮助，请不要忘了给我们点一个<b>Star</b>！
+</div>
+
+## **[ENGLISH](README.md) / 简体中文**
+
 # **这是一个未完成的文档！！**
 
 **这是一个正在撰写的文档，并且需要斟酌大量用词与措辞，如果您有任何意见，欢迎提交issue至[此仓库](https://github.com/VaLueS6655/Genshin_Impact_Teleport)！**
 
 **有更新会优先修改英文文档，中文文档更新可能会滞后，如果您可以帮助我们更新中文文档，欢迎加入我们的dc群并为仓库提交PR！**
 
-[EN](README.md)/中文
-
+---
 **2023/01/23 最新更新**
 
 >平均可得访问人数
@@ -20,29 +36,21 @@
 > 另外，Mihoyo已经对3.4的数据进行了修改，这将与我的数据存在差异。为3.4添加的数据可能缺失，您需要自己进行修改。
 >
 
-# 加入我们
-
->------------------------------------------------------------------------------
->
-> <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a> 当你在其他频道被禁言时作为一个备用频道。
->
-> -----------------------------------------------------------------------------
->
-> <a href="https://discord.gg/8AjbJXqRPJ"><img src="https://img.shields.io/discord/440536354544156683?color=blue&label=Acrepi&logo=discord&style=flat-square"></a>  FREE cheat频道
-
 - [免责声明](#免责声明)
 - [文件介绍](#文件介绍)
-- [如何下载？](#如何下载)
+- [**如何下载？**](#如何下载)
+  - [下载已整理好的文件](#下载已整理好的文件)
+  - [下载整个仓库](#下载整个仓库)
   - [如何在网页内搜索我想要的东西？](#如何在网页内搜索我想要的东西)
 - [注意事项](#注意事项)
-- [手动收集点位](#手动收集点位)
+- [**手动收集点位**](#手动收集点位)
   - [特殊收集物](#特殊收集物)
   - [区域特产](#区域特产)
   - [素材](#素材)
   - [矿物](#矿物)
   - [怪物](#怪物)
   - [宝箱](#宝箱)
-  - [100探索度](#100探索度)
+  - [100%探索度](#100探索度)
   - [其他点位](#其他点位)
 - [数据来源](#数据来源)
 - [特别鸣谢](#特别鸣谢)
@@ -92,19 +100,23 @@
 
 # 如何下载？
 
-![downloadnew](OtherFile/img/DownloadNew.png)
+## 下载已整理好的文件
 
-**我们已经将部分点位ID超链接至下载链接**
+> ![downloadnew](OtherFile/img/DownloadNew.png)
+> 
+> **我们已经将部分点位ID超链接至下载链接**
+> 
+> **现在你只需要点击超链接即可下载，当然，前提是它被添加链接了**
 
-**现在你只需要点击超链接即可下载，当然，前提是它被添加链接了**
+## 下载整个仓库
 
-![download](OtherFile/img/download.png)
-
-**如果你无法下载，请尝试下载单独的压缩包（Releases，在右侧），但它可能不是最新的**
-
-**如果你使用Git，你可能会遇到报错** `Filename too long`.
-
-**使用** `git config --global core.longpaths true` **全局指令来修复.**
+> ![download](OtherFile/img/download.png)
+> 
+> **如果你无法下载，请尝试下载单独的压缩包（Releases，在右侧），但它可能不是最新的**
+> 
+> **如果你使用Git拉取仓储，你可能会遇到报错** `Filename too long`.
+> 
+> **使用** `git config --global core.longpaths true` **全局指令来修复.**
 
 
 ## 如何在网页内搜索我想要的东西？
@@ -141,7 +153,7 @@
 
 ##\[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
 
-**注：旧文件，不完整**
+**注：这是一个不完整的旧文件**
 
 > 抱歉，我不知道谁制作的该文件。
 > 
@@ -169,20 +181,22 @@
 
 ## 区域特产
 
-自动拾取范围 > 15m 将会是您的账号**非常危险**
+自动拾取范围 > 15m 将会使您的账号**非常危险**
 
 | 添加时间    | 图像                                                | 名称/ID             | 地图  | 贡献者/ID         | 备注         |
 | ---------- | -------------------------------------------------- | ------------------- | ------ | ----------------- | -------------|
+| 2023/01/26 | ![GlazeLily](OtherFile/img/icons/GlazeLily.png) | [琉璃百合](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/GlazeLily.zip) | 提瓦特 | Drich#3614 | 41 Lilies,AutoLoot Range >= 3m |
 | 2022/10/10 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [劫波莲](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KalpalataLotus.zip) | 提瓦特 | jdbddbhd#9874 | Total is 64+2+5.P/S:ID25 and ID26 you need pick up yourself,and 5 of all you need to buy from npc. |
 | 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [劫波莲#2](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KalpalataLotus2.zip) | 提瓦特 | civicmanan#2171 | 66 pcs, recommended autoloot range ≥ 15m |
 | 2022/10/11 | ![NilotpalaLotus](OtherFile/img/icons/NilotpalaLotus.png) | [月莲](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/NilotpalaLotus.zip) | 提瓦特 | jdbddbhd#9874 | ID47,55-57,you need to pick up yourself. |
 | 2022/10/19 | ![Padisarah](OtherFile/img/icons/Padisarah.png) | [帕蒂沙兰](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Padisarah.zip) | 提瓦特 | Hieu#5027 | / |
 | 2022/10/11 | ![Redcrest](OtherFile/img/icons/Redcrest.png) |[赤念果](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Redcrest.zip) | 提瓦特 | jdbddbhd#9874 | / |
 | 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png) | [树王圣体菇](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/RukkhashavaMushroom.zip) |提瓦特|civicmanan#2171 | 73 pcs, recommended autoloot range ≥ 15m |
-| 2023/1/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [沙脂蛹](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SandGreasePupa.zip)| 提瓦特 | Drich#3614 | 74 SGPs,Loot Range >= 5m |
+| 2023/1/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [沙脂蛹](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SandGreasePupa.zip)| 提瓦特 | Drich#3614 | 74 Pupae,Loot Range >= 3m |
 | 2022/10/12 | ![SangoPearl](OtherFile/img/icons/SangoPearl.png)  | [珊瑚真珠](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SangoPearl.zip) | 提瓦特 | civicmanan#2171 | / |
 | 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png) | [圣金虫](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Scarab.zip) | 提瓦特 | ShinaKaria#9760 | 72 pcs ,recommended autoloot range ≥ 15m |
 | 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [圣金虫#2](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Scarab2.zip) | 提瓦特 | civicmanan#2171 | 74 pcs,recommended autoloot range ≥ 15m |
+| 2023/01/26 | ![SilkFlower](OtherFile/img/icons/SilkFlower.png) | [霓裳花](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SilkFlower.zip) | 提瓦特 | Drich#3614 | 28 Flowers,AutoLoot Range >= 3m |
 
 ## 素材
 

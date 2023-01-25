@@ -1,4 +1,19 @@
-**[English](README.md) / [简体中文](README.zh-CN.md)**
+<div class="RepoCover" align="center">
+  <a href="#"><img width="600" height="675" src="https://raw.githubusercontent.com/VaLueS6655/Genshin_Impact_Teleport/main/OtherFile/img/GIT_Branding_NS.png"></a>
+  <br>
+  <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?color=%2352b4d8&label=Genshin%20Impact%20teleport%20channel&logo=discord&style=for-the-badge"></a>
+  <br>
+  <a href="https://github.com/Sam5440/Genshin_Impact_Teleport/commits/main"><img src="https://img.shields.io/github/last-commit/Sam5440/Genshin_Impact_Teleport?label=Last%20Commit&logo=Github&style=flat-square"></a>
+  <a href="https://github.com/Sam5440/Genshin_Impact_Teleport/releases"><img src="https://img.shields.io/github/downloads/Sam5440/Genshin_Impact_Teleport/total?label=Total%20Downloads&logo=Github&style=flat-square"></a>
+  <br>
+  <div class="star">
+    <img width="100px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sam5440/Genshin_Impact_Teleport?label=Stars&logo=Github&style=flat-square">
+    </img>
+  </div>
+  If it's helpful to you,please give us a <b>Star</b>!
+</div>
+
+**English / [简体中文](README.zh-CN.md)**
 ---
 **2023/01/23 Last Update**
 
@@ -14,23 +29,14 @@
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
 >
 
-# Join our channel to talk
-
->------------------------------------------------------------------------------
->
-> <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?label=Discord&logo=discord&style=for-the-badge&color=blueviolet"></a>  As a backup channel when free cheat talking is blocked by othe
-hannels.
->
-> -----------------------------------------------------------------------------
->
-> <a href="https://discord.gg/8AjbJXqRPJ"><img src="https://img.shields.io/discord/440536354544156683?color=blue&label=Acrepi&logo=discord&style=flat-square"></a>  FREE cheat channel
-
 - [Disclaimer](#disclaimer)
 - [All File Introducion](#all-file-introducion)
-- [How to download?](#how-to-download)
+- [**How to download?**](#how-to-download)
+  - [Download sorted files](#download-sorted-files)
+  - [Download whole repository](#download-whole-repository)
   - [How to search in web page?](#how-to-search-in-web-page)
 - [Notice!!! Read it to Avoid risks!!!!!](#notice-read-it-to-avoid-risks)
-- [ManualCollectPoint](#manualcollectpoint)
+- [**ManualCollectPoint**](#manualcollectpoint)
   - [Special Items](#special-items)
   - [Local Specialties](#local-specialties)
   - [Inventory](#inventory)
@@ -87,19 +93,23 @@ hannels.
 
 # How to download?
 
-![downloadnew](OtherFile/img/DownloadNew.png)
+## Download sorted files
 
-**We Linked some of ID connect to the download link**
+> ![downloadnew](OtherFile/img/DownloadNew.png)
+>
+> **We Linked some of ID connect to the download link**
+>
+> **Now you just need to click hyperlink to download it if it has been linked**
 
-**Now you just need to click hyperlink to download it if it has been linked**
+## Download whole repository
 
-![download](OtherFile/img/download.png)
-
-**If you are unable to download successfully, please download the separately compressed package file (release,On the right side), even though it may not be the latest**
-
-**If you use git,maybe you will meet** `Filename too long`.
-
-**only press** `git config --global core.longpaths true` **to solve it.**
+> ![download](OtherFile/img/download.png)
+>
+> **If you are unable to download successfully, please download the separately compressed package file (release,On the right side), even though it may not be the latest**
+>
+> **If you use git,maybe you will meet** `Filename too long`.
+>
+> **only press** `git config --global core.longpaths true` **to solve it.**
 
 
 ## How to search in web page?
@@ -167,16 +177,18 @@ AutoLoot Range > 15m is **Extremely Risky**
 
 | AddTime    | Img                                                | Name/ID             | World  | Author/ID         | NOTE         |
 | ---------- | -------------------------------------------------- | ------------------- | ------ | ----------------- | -------------|
+| 2023/01/26 | ![GlazeLily](OtherFile/img/icons/GlazeLily.png) | [GlazeLily](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/GlazeLily.zip) | Teyvat | Drich#3614 | 41 Lilies,AutoLoot Range >= 3m |
 | 2022/10/10 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [KalpalataLotus](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KalpalataLotus.zip) | Teyvat | jdbddbhd#9874 | Total is 64+2+5.P/S:ID25 and ID26 you need pick up yourself,and 5 of all you need to buy from npc. |
 | 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [KalpalataLotus#2](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KalpalataLotus2.zip) | Teyvat | civicmanan#2171 | 66 pcs, recommended autoloot range ≥ 15m |
 | 2022/10/11 | ![NilotpalaLotus](OtherFile/img/icons/NilotpalaLotus.png) | [NilotpalaLotus](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/NilotpalaLotus.zip) | Teyvat | jdbddbhd#9874 | ID47,55-57,you need to pick up yourself. |
 | 2022/10/19 | ![Padisarah](OtherFile/img/icons/Padisarah.png) | [Padisarah](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Padisarah.zip) | Teyvat | Hieu#5027 | / |
 | 2022/10/11 | ![Redcrest](OtherFile/img/icons/Redcrest.png) |[Redcrest](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Redcrest.zip) | Teyvat | jdbddbhd#9874 | / |
 | 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png) | [RukkhashavaMushroom](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/RukkhashavaMushroom.zip) |Teyvat|civicmanan#2171 | 73 pcs, recommended autoloot range ≥ 15m |
-| 2023/1/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [SandGreasePupa](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SandGreasePupa.zip)| Teyvat | Drich#3614 | 74 SGPs,Loot Range >= 5m |
+| 2023/01/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [SandGreasePupa](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SandGreasePupa.zip)| Teyvat | Drich#3614 | 74 Pupae,AutoLoot Range >= 3m |
 | 2022/10/12 | ![SangoPearl](OtherFile/img/icons/SangoPearl.png)  | [SangoPearl](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SangoPearl.zip) | Teyvat | civicmanan#2171 | / |
 | 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Scarab.zip) | Teyvat | ShinaKaria#9760 | 72 pcs ,recommended autoloot range ≥ 15m |
 | 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab#2](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Scarab2.zip) | Teyvat | civicmanan#2171 | 74 pcs,recommended autoloot range ≥ 15m |
+| 2023/01/26 | ![SilkFlower](OtherFile/img/icons/SilkFlower.png) | [SilkFlower](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SilkFlower.zip) | Teyvat | Drich#3614 | 28 Flowers,AutoLoot Range >= 3m |
 
 ## Inventory
 
