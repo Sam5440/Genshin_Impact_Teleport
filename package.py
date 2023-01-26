@@ -139,6 +139,7 @@ for root, dirs, files in os.walk(path_zips, topdown=False):
 log(del_folders)
 
 push_bat = """
+cd ./zips
 git init
 git add .
 git commit -m "first commit"
@@ -154,4 +155,16 @@ with open(path_zips+"/push.bat", "w") as f:
 log("完成")
 
 # 运行push.bat
-os.system(path_zips+"/push.bat")
+push_confirm = input(f"是否push？(yes/no)")
+if push_confirm == "yes":
+    os.system(path_zips+"/push.bat")
+    log("push")
+else:
+    log("不push")
+
+del_confirm = input(f"是否删除压缩文件夹？(yes/no)path:{path_zips}")
+if del_confirm == "yes":
+    os.system("rmdir /s /q "+path_zips.replace("/","\\"))
+    log("删除压缩文件夹")
+else:
+    log("不删除压缩文件夹")
