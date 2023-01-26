@@ -186,11 +186,11 @@
 | 添加时间    | 图像                                                | 名称/ID             | 地图  | 贡献者/ID         | 备注         |
 | ---------- | -------------------------------------------------- | ------------------- | ------ | ----------------- | -------------|
 | 2023/01/26 | ![GlazeLily](OtherFile/img/icons/GlazeLily.png) | [琉璃百合](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/GlazeLily.zip) | 提瓦特 | Drich#3614 | 41 Lilies,AutoLoot Range >= 3m |
+| 2022/10/11 | ![HennaBerry](OtherFile/img/icons/HennaBerry.png) |[赤念果](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/HennaBerry.zip)[^3] | 提瓦特 | jdbddbhd#9874 | / |
 | 2022/10/10 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [劫波莲](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KalpalataLotus.zip) | 提瓦特 | jdbddbhd#9874 | Total is 64+2+5.P/S:ID25 and ID26 you need pick up yourself,and 5 of all you need to buy from npc. |
 | 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [劫波莲#2](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/KalpalataLotus2.zip) | 提瓦特 | civicmanan#2171 | 66 pcs, recommended autoloot range ≥ 15m |
 | 2022/10/11 | ![NilotpalaLotus](OtherFile/img/icons/NilotpalaLotus.png) | [月莲](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/NilotpalaLotus.zip) | 提瓦特 | jdbddbhd#9874 | ID47,55-57,you need to pick up yourself. |
 | 2022/10/19 | ![Padisarah](OtherFile/img/icons/Padisarah.png) | [帕蒂沙兰](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Padisarah.zip) | 提瓦特 | Hieu#5027 | / |
-| 2022/10/11 | ![Redcrest](OtherFile/img/icons/Redcrest.png) |[赤念果](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Redcrest.zip) | 提瓦特 | jdbddbhd#9874 | / |
 | 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png) | [树王圣体菇](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/RukkhashavaMushroom.zip) |提瓦特|civicmanan#2171 | 73 pcs, recommended autoloot range ≥ 15m |
 | 2023/1/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [沙脂蛹](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SandGreasePupa.zip)| 提瓦特 | Drich#3614 | 74 Pupae,Loot Range >= 3m |
 | 2022/10/12 | ![SangoPearl](OtherFile/img/icons/SangoPearl.png)  | [珊瑚真珠](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/SangoPearl.zip) | 提瓦特 | civicmanan#2171 | / |
@@ -222,8 +222,8 @@
 | 2022/10/11 | ![WhiteIronChunk](OtherFile/img/icons/WhiteIronChunk.png)![CrystalChunk](OtherFile/img/icons/CrystalChunk.png) | [72富矿点位](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/72EnrichmentPoints.zip)                | 提瓦特(1-38)/层岩巨渊·地下矿区(38-72) | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma,maybe you need to move to pick/destory them.And points after 38 are in The Chasm Underground |
 | 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [水晶块](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/CrystalChunk.zip)                       | 提瓦特                                    | Michell Lim#9331 and Linxia#0961 |                                                              |
 | 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [水晶块-层岩巨渊·地下矿区](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/CrystalChunk-TheChasmUnderground.zip) | 层岩巨渊·地下矿区                     | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 are in The Chasm Underground. You need manually tp into Chasm Underground 1st. |
-| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [渊下宫紫晶块](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/EnkanomiyaAmethystLump.zip)             | 渊下宫                                | Michell Lim#9331                 | ~~recommended autoloot range ≥ 40m to pick all chunks.~~[^3] |
-| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [紫晶块](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/AmethystLump.zip)                       | 提瓦特                                    | Michell Lim#9331                 | ~~recommended autoloot range ≥ 40m to pick all chunks.~~[^4] |
+| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [渊下宫紫晶块](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/EnkanomiyaAmethystLump.zip)             | 渊下宫                                | Michell Lim#9331                 | ~~recommended autoloot range ≥ 40m to pick all chunks.~~[^4] |
+| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [紫晶块](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/AmethystLump.zip)                       | 提瓦特                                    | Michell Lim#9331                 | ~~recommended autoloot range ≥ 40m to pick all chunks.~~[^5] |
 
 ## 怪物
 
@@ -232,9 +232,9 @@
 | 添加时间    | 图像                                                          | 名称/ID          | 地图  | 贡献者/ID        | 备注                                                         |
 | ---------- | ------------------------------------------------------------ | ---------------- | ------ | ---------------- | ------------------------------------------------------------ |
 | 2022/10/11 | ![UnusualHilichurl](OtherFile/img/icons/UnusualHilichurl.png) | [奇怪的丘丘人](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/UnusualHilichurl.zip) | 提瓦特 | jdbddbhd#9874    | /                                                            |
-| 2022/10/11 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [愚人众](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/FatuiAgent.zip)       | 提瓦特 | Michell Lim#9331 | /        
-| 2022/12/22 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | FatuiAgent22       | 提瓦特 | Unknow | /                                                          |
-| 2022/10/12 | ![Slime](OtherFile/img/icons/Slime.png)                      | [史莱姆](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Rifthound.zip)            | 提瓦特 | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
+| 2022/10/11 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [愚人众·火之债务处理人](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/FatuiAgent.zip)       | 提瓦特 | Michell Lim#9331 | /        
+| 2022/12/22 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [愚人众·火之债务处理人22](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/FatuiAgent22.zip)       | 提瓦特 | Unknow | /                                                          |
+| 2022/10/12 | ![Slime](OtherFile/img/icons/Slime.png)                      | [史莱姆](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Slime.zip)            | 提瓦特 | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
 | 2022/10/12 | ![Specter](OtherFile/img/icons/Specter.png)                  | [漂浮灵](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Specter.zip)          | 提瓦特 | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
 | 2022/10/12 | ![Rifthound](OtherFile/img/icons/Rifthound.png)![RifthoundWhelp](OtherFile/img/icons/RifthoundWhelp.png) | [兽境猎犬](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/Rifthound.zip)        | 提瓦特 | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
 | 2022/10/12 | ![FatuiMirrorMaiden](OtherFile/img/icons/FatuiMirrorMaiden.png)![FatuiCicinMage](OtherFile/img/icons/FatuiCicinMage.png)![FatuiAgent](OtherFile/img/icons/FatuiAgent.png) | [FatuiElite](https://github.com/Sam5440/Genshin_Impact_Teleport/releases/download/20230124/FatuiElite.zip)       | 提瓦特 | Foxx#0061        | Sorted by different kind.(ver2.8)                         |
@@ -300,6 +300,7 @@
 
 [^1]: 流明石原矿用于流明石媒触升级。
 [^2]: 文件夹“Dendroculus”中有3个子文件夹，对应于3.0版和3.1版中的位置，以及2个版本的组合。
-[^3]: 在新版本中你无法将它设定到40m。你只能设置一个最大的数字.
+[^3]: 在3.2.0版本之前曾被命名为Redcrest。
+[^4]: 在新版本中你无法将它设定到40m。你只能设置一个最大的数字.
 
-[^4]: 和[3]相同，但是您可以编辑Cfg.json强制更改它。[非常危险！！！]（2023/1/25：现在应该不能了）
+[^5]: 和[4]相同，但是您可以编辑Cfg.json强制更改它。[非常危险！！！]（2023/1/25：现在应该不能了）
