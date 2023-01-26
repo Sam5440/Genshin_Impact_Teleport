@@ -12,6 +12,14 @@ no_zip_folders = [
 
 # 获得当前路径
 path = os.getcwd()
+path_zips = path+"/zips"
+def log(text):
+    print(text)
+    # 写入文件
+    with open(path_zips+"/log.txt", "a", encoding="utf-8") as f:
+        f.write(text+"\n")
+        f.close()
+        
 def readme_create(readme_path, text):
     decode_code = "utf-8"
     text = text.encode().decode(decode_code)
@@ -96,12 +104,12 @@ def endwith_check(endwith_str):
 for k, v in zip_task.items():
     # print(k,v)
     zip_name = v[1].split("\\")[-1]
-    print(zip_name)
+    log(zip_name)
     # exit()
     i += 1
-    print(f"进度：{i}/{l}\n=======压缩文件夹：{k}->{v[1]}")
+    log(f"进度：{i}/{l}\n=======压缩文件夹：{k}->{v[1]}")
     if endwith_check(k):
-        print(f"进度：{i}/{l}\n=======跳过文件夹：{k}->{v[1]}")
+        log(f"进度：{i}/{l}\n=======跳过文件夹：{k}->{v[1]}")
         continue
     zip_folder(k, v[1].replace("\\", "/"))
     readme_path = os.path.dirname(v[0]) + "/readme.md"
@@ -116,14 +124,33 @@ for k, v in zip_task.items():
     readme_create(readme_path, f"### [{zip_name}]({url})\n\n")
 
 
+
+
+
 #删除全部空文件夹 
-def del_empty_folder(path):
-    del_folders = []
-    for root, dirs, files in os.walk(path, topdown=False):
-        for name in dirs:
-            if not os.listdir(os.path.join(root, name)):
-                del_folders.append(os.path.join(root, name))
-                os.rmdir(os.path.join(root, name))
-    print(del_folders)
-    return del_folders
-del_empty_folder(path+"/zips")
+
+del_folders = []
+for root, dirs, files in os.walk(path_zips, topdown=False):
+    for name in dirs:
+        if not os.listdir(os.path.join(root, name)):
+            del_folders.append(os.path.join(root, name))
+            os.rmdir(os.path.join(root, name))
+log(del_folders)
+
+push_bat = """
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Sam5440/Genshin_Impact_Teleport_Files.git
+git push -u origin main -f
+""".strip()
+
+with open(path_zips+"/push.bat", "w") as f:
+    f.write(push_bat)
+    f.close()
+    
+log("完成")
+
+# 运行push.bat
+os.system(path_zips+"/push.bat")
