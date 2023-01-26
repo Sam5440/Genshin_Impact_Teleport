@@ -1,5 +1,5 @@
 <div class="RepoCover" align="center">
-  <a href="#"><img width="600" height="675" src="https://raw.githubusercontent.com/VaLueS6655/Genshin_Impact_Teleport/main/OtherFile/img/GIT_Branding_NS.png"></a>
+  <a href="#"><img style="width:600;height:675" src="https://raw.githubusercontent.com/VaLueS6655/Genshin_Impact_Teleport/main/OtherFile/img/GIT_Branding_NS.png"></a>
   <br>
   <a href="https://discord.gg/2Na43ZD2XE"><img src="https://img.shields.io/discord/1064910847790563329?color=%2352b4d8&label=Genshin%20Impact%20teleport%20channel&logo=discord&style=for-the-badge"></a>
   <br>
