@@ -100,43 +100,43 @@ def endwith_check(endwith_str):
         if endwith_str.endswith(check_str):
             return True
     return False
+os.system("rmdir /s /q .git")
 
-
-for k, v in zip_task.items():
-    # print(k,v)
-    zip_name = v[1].split("\\")[-1]
-    log(zip_name)
-    # exit()
-    i += 1
-    log(f"进度：{i}/{l}\n=======压缩文件夹：{k}->{v[1]}")
-    if endwith_check(k):
-        log(f"进度：{i}/{l}\n=======跳过文件夹：{k}->{v[1]}")
-        continue
-    zip_folder(k, v[1].replace("\\", "/"))
-    readme_path = os.path.dirname(v[0]) + "/readme.md"
-    # 获得压缩包文件名
+# for k, v in zip_task.items():
+#     # print(k,v)
+#     zip_name = v[1].split("\\")[-1]
+#     log(zip_name)
+#     # exit()
+#     i += 1
+#     log(f"进度：{i}/{l}\n=======压缩文件夹：{k}->{v[1]}")
+#     if endwith_check(k):
+#         log(f"进度：{i}/{l}\n=======跳过文件夹：{k}->{v[1]}")
+#         continue
+#     zip_folder(k, v[1].replace("\\", "/"))
+#     readme_path = os.path.dirname(v[0]) + "/readme.md"
+#     # 获得压缩包文件名
     
-    url = (
-        "https://raw.githubusercontent.com/Sam5440/Genshin_Impact_Teleport_Files/main/"
-        + quote(v[1].replace("\\", "/").replace("zips/", ""))
-    )
-    # print(f"进度：{i}/{l}\n=======写入readme：{k}->{v[1]}")
+#     url = (
+#         "https://raw.githubusercontent.com/Sam5440/Genshin_Impact_Teleport_Files/main/"
+#         + quote(v[1].replace("\\", "/").replace("zips/", ""))
+#     )
+#     # print(f"进度：{i}/{l}\n=======写入readme：{k}->{v[1]}")
     
-    readme_create(readme_path, f"### [{zip_name}]({url})\n\n")
+#     readme_create(readme_path, f"### [{zip_name}]({url})\n\n")
 
 
 
 
 
-#删除全部空文件夹 
+# #删除全部空文件夹 
 
-del_folders = []
-for root, dirs, files in os.walk(path_zips, topdown=False):
-    for name in dirs:
-        if not os.listdir(os.path.join(root, name)):
-            del_folders.append(os.path.join(root, name))
-            os.rmdir(os.path.join(root, name))
-log(del_folders)
+# del_folders = []
+# for root, dirs, files in os.walk(path_zips, topdown=False):
+#     for name in dirs:
+#         if not os.listdir(os.path.join(root, name)):
+#             del_folders.append(os.path.join(root, name))
+#             os.rmdir(os.path.join(root, name))
+# log(del_folders)
 
 # push_bat = """
 # cd ./zips
