@@ -22,7 +22,7 @@ jobs:
         git config --local user.email "Y_sam5440@outlook.com"
         git config --local user.name "Sam5440"
         git add .
-        git commit --allow-empty -m "file sync"
+        git commit --allow-empty -m "download link branch"
         git branch -m master download
         git remote add origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git push -u origin download -f
