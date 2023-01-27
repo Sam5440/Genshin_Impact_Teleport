@@ -13,7 +13,7 @@
   If it's helpful to you,please give us a <b>Star</b>!
 </div>
 
-**English / [简体中文](README.zh-CN.md)**
+ **English / [简体中文](README.zh-CN.md)**
 ---
 **2023/01/23 Last Update**
 
@@ -143,20 +143,6 @@ Over that maybe permit a ban to your account.
 
 # ManualCollectPoint
 
-##\[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
-
-**Note: Old files, incomplete**
-
-> Sorry,I don't know who is the author.
-> 
-> Someone has collected the coordinates. I don't know if it's complete. You can check for yourself if they are available.
-
-#[Chinese]ManualCollectPoint(2022-10-13)
-
->Translated by By JonasDai#5198
-
-
-
 ## Special Items
 
 | AddTime    | Img                                                   | Name/ID               | World                 | Author/DC ID  |
@@ -224,7 +210,7 @@ Including pick range and destory range.
 | AddTime    | Img                                                          | Name/ID          | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ---------------- | ------ | ---------------- | ------------------------------------------------------------ |
 | 2022/10/11 | ![UnusualHilichurl](OtherFile/img/icons/UnusualHilichurl.png) | [Unusual Hilichurl](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#unusualhilichurlzip) | Teyvat | jdbddbhd#9874    | /                                                            |
-| 2022/10/11 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [Fatui Agent](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#fatuiagentzip)       | Teyvat | Michell Lim#9331 | /        
+| 2022/10/11 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [Fatui Agent](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#fatuiagentzip)       | Teyvat | Michell Lim#9331 | /        |
 | 2022/12/22 | ![FatuiAgent](OtherFile/img/icons/FatuiAgent.png)            | [Fatui Agent 22](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#fatuiagent22zip)       | Teyvat | Unknow | /                                                          |
 | 2022/10/12 | ![Slime](OtherFile/img/icons/Slime.png)                      | [Slime](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#slimezip)            | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
 | 2022/10/12 | ![Specter](OtherFile/img/icons/Specter.png)                  | [Specter](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#specterzip)          | Teyvat | Foxx#0061        | Sorted by different color/properties.(ver2.8)             |
@@ -234,7 +220,10 @@ Including pick range and destory range.
 | 2022/10/12 | ![Nobushi](OtherFile/img/icons/Nobushi.png)![Kairagi](OtherFile/img/icons/Kairagi.png) | [Nobushi&Kairagi](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#nobushikairagizip)  | Teyvat | Foxx#0061        | Sorted by different kinds.(ver2.8)                        |
 | 2022/10/12 | ![Whopperflower](OtherFile/img/icons/Whopperflower.png)      | [Whopperflower](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#whopperflowerzip)    | Teyvat | Foxx#0061        | Sorted by different color/properties,and**you should press "F" to find the WhopperFlower which is hiding  in the flowers**.(ver2.8) |
 | 2022/10/12 | ![TreasureHoarder](OtherFile/img/icons/TreasureHoarder.png)  | [Treasure Hoarders](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#treasurehoarderszip) | Teyvat | Foxx#0061        | Sorted by different kinds.(ver2.8)                        |
-| 2022/10/18 | ![Fungi](OtherFile/img/icons/Fungi.png)                      | [Fungi](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#fungizip)            | Teyvat | yangshiling#8543 | fungal-spores,11 pcs point                                   |
+| 2022/10/18 | ![Fungi](OtherFile/img/icons/Fungi.png)                      | [Fungi](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#fungizip)            | Teyvat | sam5440 | fungal-spores,11 pcs point                                   |
+| 2023/01/27 | ![Consecrated_Scorpion_Icon](OtherFile/img/icons2/Consecrated_Scorpion_Icon.webp)![Consecrated_Flying_Serpent_Icon](OtherFile/img/icons2/Consecrated_Flying_Serpent_Icon.webp)![Consecrated_Red_Vulture_Icon](OtherFile/img/icons2/Consecrated_Red_Vulture_Icon.webp)![Item_Marked_Shell](OtherFile/img/icons2/Item_Marked_Shell.webp) | [ConsecratedBeast](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/Monster#ConsecratedBeast) | Teyvat | Noxbur#8330 | /                                                            |
+
+
 
 ## Chest
 
@@ -267,6 +256,23 @@ Not coordinates. Some of the files needed are pictures etc.
 | 2023/01/20 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)3.4Limited Time Challenge | [3.4Limited Time Challenge](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/OtherPoint#34limited-time-challengezip) | Teyvat | / | Version 3.4 new area Limited Time Challenge point. |
 | 3.4LuminousSeelie | ![WorldQuests](OtherFile/img/icons/LuminousSeelie.png)3.4LuminousSeelie | [3.4LuminousSeelie](https://github.com/Sam5440/Genshin_Impact_Teleport_Files/tree/main/ManualCollectPoint/OtherPoint#34luminousseeliezip) | Teyvat | / | Version 3.4 new area LuminousSeelie point. |
 
+# 233
+
+##\[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
+
+**Note: Old files, incomplete**
+
+> Sorry,I don't know who is the author.
+>
+> Someone has collected the coordinates. I don't know if it's complete. You can check for yourself if they are available.
+
+## [Chinese]ManualCollectPoint(2022-10-13)
+
+>Translated by By JonasDai#5198
+
+## [Chinese]SDK-China Optimized
+
+> After SDK-China manually filtered and optimized the points with higher efficiency, but only Chinese
 
 # Data From
 
