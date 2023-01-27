@@ -6,11 +6,12 @@ import os
 from urllib.parse import quote
 print("Don't Run in Your Computer, Run in Server")
 time.sleep(10)
-except_folders = [".git", ".vscode", "zips"]
+except_folders = [".git", ".vscode", "zips",".github"]
 no_zip_folders = [
     "AutoGeneratePoint",
-    "Genshin_Impact_Teleport",
-]  # "ManualCollectPoint"]
+    # "Genshin_Impact_Teleport",
+    # "ManualCollectPoint",
+]  
 
 # 获得当前路径
 path = os.getcwd()
@@ -119,7 +120,7 @@ for k, v in zip_task.items():
     # 获得压缩包文件名
     
     url = (
-        "https://raw.githubusercontent.com/Sam5440/Genshin_Impact_Teleport_Files/main/"
+        "https://raw.githubusercontent.com/Sam5440/Genshin_Impact_Teleport/download/"
         + quote(v[1].replace("\\", "/").replace("zips/", ""))
     )
     # print(f"进度：{i}/{l}\n=======写入readme：{k}->{v[1]}")
