@@ -19,6 +19,7 @@ jobs:
         python package.py
     - name: Auto push
       run: |
+        cd ../
         cd ./zips
         git init
         git config --local user.email "Y_sam5440@outlook.com"
