@@ -13,10 +13,10 @@ jobs:
       run : git config --global core.longpaths true
     - name: Git clone
       run: git clone https://github.com/Sam5440/Genshin_Impact_Teleport
-    - name: Run package.py
-      run: python ./Genshin_Impact_Teleport/package.py
     - name: Auto push
       run: |
+        cd ./Genshin_Impact_Teleport
+        python package.py
         cd ./zips
         git init
         git config --local user.email "Y_sam5440@outlook.com"
