@@ -52,6 +52,7 @@
   - [Chest](#chest)
   - [ExploreTo100](#exploreto100)
   - [OtherPoint](#otherpoint)
+- [ManualOptimizationPoint](#manualoptimizationpoint)
 - [Data From](#data-from)
 - [Thanks](#thanks)
 - [About Issues And PR](#about-issues-and-pr)
@@ -268,9 +269,9 @@ Not coordinates. Some of the files needed are pictures etc.
 | 2023/01/20 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)3.4Limited Time Challenge | [3.4Limited Time Challenge](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#34limited-time-challengezip) | Teyvat | / | Version 3.4 new area Limited Time Challenge point. |
 | 3.4LuminousSeelie | ![WorldQuests](OtherFile/img/icons/LuminousSeelie.png)3.4LuminousSeelie | [3.4LuminousSeelie](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#34luminousseeliezip) | Teyvat | / | Version 3.4 new area LuminousSeelie point. |
 
-# 233
+# ManualOptimizationPoint
 
-##\[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
+## \[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
 
 **Note: Old files, incomplete**
 
@@ -292,7 +293,9 @@ Some ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and G
 
 Sone Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
 
-Other Data From [Akebi-GC(CN_Group)-{Json_Group}](https://discord.com/channels/440536354544156683/1024896283061784617)
+Other Data From Our discord channel(see the header of this document).
+
+The image in the header of this document is from [pixiv](https://www.pixiv.net/artworks/92097252), she's so cute!
 
 # Thanks
 
