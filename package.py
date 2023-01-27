@@ -4,7 +4,8 @@ import zipfile
 # import sys
 import os
 from urllib.parse import quote
-
+print("Don't Run in Your Computer, Run in Server")
+time.sleep(10)
 except_folders = [".git", ".vscode", "zips"]
 no_zip_folders = [
     "AutoGeneratePoint",
@@ -102,57 +103,93 @@ def endwith_check(endwith_str):
     return False
 os.system("rmdir /s /q .git")
 
-# for k, v in zip_task.items():
-#     # print(k,v)
-#     zip_name = v[1].split("\\")[-1]
-#     log(zip_name)
-#     # exit()
-#     i += 1
-#     log(f"进度：{i}/{l}\n=======压缩文件夹：{k}->{v[1]}")
-#     if endwith_check(k):
-#         log(f"进度：{i}/{l}\n=======跳过文件夹：{k}->{v[1]}")
-#         continue
-#     zip_folder(k, v[1].replace("\\", "/"))
-#     readme_path = os.path.dirname(v[0]) + "/readme.md"
-#     # 获得压缩包文件名
+for k, v in zip_task.items():
+    # print(k,v)
+    zip_name = v[1].split("\\")[-1]
+    log(zip_name)
+    # exit()
+    i += 1
+    log(f"进度：{i}/{l}\n=======压缩文件夹：{k}->{v[1]}")
+    if endwith_check(k):
+        log(f"进度：{i}/{l}\n=======跳过文件夹：{k}->{v[1]}")
+        continue
+    zip_folder(k, v[1].replace("\\", "/"))
+    readme_path = os.path.dirname(v[0]) + "/readme.md"
+    # 获得压缩包文件名
     
-#     url = (
-#         "https://raw.githubusercontent.com/Sam5440/Genshin_Impact_Teleport_Files/main/"
-#         + quote(v[1].replace("\\", "/").replace("zips/", ""))
-#     )
-#     # print(f"进度：{i}/{l}\n=======写入readme：{k}->{v[1]}")
+    url = (
+        "https://raw.githubusercontent.com/Sam5440/Genshin_Impact_Teleport_Files/main/"
+        + quote(v[1].replace("\\", "/").replace("zips/", ""))
+    )
+    # print(f"进度：{i}/{l}\n=======写入readme：{k}->{v[1]}")
     
-#     readme_create(readme_path, f"### [{zip_name}]({url})\n\n")
+    readme_create(readme_path, f"### [{zip_name}]({url})\n\n")
 
 
 
 
 
-# #删除全部空文件夹 
+#删除全部空文件夹 
 
-# del_folders = []
-# for root, dirs, files in os.walk(path_zips, topdown=False):
-#     for name in dirs:
-#         if not os.listdir(os.path.join(root, name)):
-#             del_folders.append(os.path.join(root, name))
-#             os.rmdir(os.path.join(root, name))
-# log(del_folders)
+del_folders = []
+for root, dirs, files in os.walk(path_zips, topdown=False):
+    for name in dirs:
+        if not os.listdir(os.path.join(root, name)):
+            del_folders.append(os.path.join(root, name))
+            os.rmdir(os.path.join(root, name))
+log(del_folders)
 
-# push_bat = """
-# cd ./zips
-# git init
-# git add .
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin git@github.com:Sam5440/Genshin_Impact_Teleport_Files.git
-# git push -u origin main -f
-# """.strip()
+push_bat = """
+cd ./zips
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Sam5440/Genshin_Impact_Teleport_Files
+git push -u origin main -f
+""".strip()
 
-# with open(path_zips+"/push.bat", "w") as f:
-#     f.write(push_bat)
-#     f.close()
+with open(path_zips+"/push.bat", "w") as f:
+    f.write(push_bat)
+    f.close()
     
-# log("完成")
+#创建目录.github/workflows
+if not os.path.exists(path_zips+"/.github/workflows"):
+    os.makedirs(path_zips+"/.github/workflows")
+#创建文件.github/workflows/main.yml
+main_yml = """
+name: Auto-run package.py
+on:
+    workflow_dispatch:
+    schedule:
+     - cron: '0 8 * * *'
+jobs:
+  run-package:
+    runs-on: windows-latest
+    steps:
+    - name: Git long allow
+      run : git config --global core.longpaths true
+    - name: Git clone
+      run: git clone https://github.com/Sam5440/Genshin_Impact_Teleport
+    - name: Run package.py
+      run: python Genshin_Impact_Teleport/package.py
+    - name: Auto push
+      run: |
+        cd ./zips
+        git init
+        git config --local user.email "Y_sam5440@outlook.com"
+        git config --local user.name "Sam5440"
+        git add .
+        git commit --allow-empty -m "daily sync"
+        git branch -m master main
+        git remote add origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        git push -u origin main -f
+"""
+with open(path_zips+"/.github/workflows/main.yml", "w") as f:
+    f.write(main_yml)
+    f.close()
+
+log("完成")
 
 # # 运行push.bat
 # push_confirm = "yes" #input(f"是否push？(yes/no)")
