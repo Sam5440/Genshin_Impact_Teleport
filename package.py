@@ -15,7 +15,7 @@ path = os.getcwd()
 path_zips = path+"/zips"
 def log(text):
     text = str(text)
-    print(text)
+#     print(text)
     # 写入文件
     with open(path_zips+"/log.txt", "a", encoding="utf-8") as f:
         f.write(text+"\n")
