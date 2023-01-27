@@ -23,7 +23,13 @@ def log(text):
     with open(path_zips+"/log.txt", "a", encoding="utf-8") as f:
         f.write(text+"\n")
         f.close()
-        
+top_text = """
+## [Genshin_Impact_Teleport Main](https://github.com/Sam5440/Genshin_Impact_Teleport/edit/main/README.md)
+
+>![](https://komarev.com/ghpvc/?username=done439)
+>![](https://komarev.com/ghpvc/?username=done438)
+>![](https://komarev.com/ghpvc/?username=done437)
+""".strip()        
 def readme_create(readme_path, text):
     decode_code = "utf-8"
     text = text.encode().decode(decode_code)
@@ -31,7 +37,7 @@ def readme_create(readme_path, text):
         with open(readme_path, "w", encoding=decode_code) as f:
             #写入时间
             time_now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-            f.write(f"# {time_now}\n\n")
+            f.write(f"# Generate Time-{time_now}\n\n{top_text}\n\n")
             f.close()
     # 在readme文件后面补充一行
     with open(readme_path, "a", encoding=decode_code) as f:
