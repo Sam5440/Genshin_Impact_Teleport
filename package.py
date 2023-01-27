@@ -162,9 +162,9 @@ if push_confirm == "yes":
 else:
     log("不push")
 
-del_confirm = input(f"是否删除压缩文件夹？(yes/no)path:{path_zips}")
-if del_confirm == "yes":
-    os.system("rmdir /s /q "+path_zips.replace("/","\\"))
-    log("删除压缩文件夹")
-else:
-    log("不删除压缩文件夹")
+# del_confirm = input(f"是否删除压缩文件夹？(yes/no)path:{path_zips}")
+# if del_confirm == "yes":
+#     os.system("rmdir /s /q "+path_zips.replace("/","\\"))
+#     log("删除压缩文件夹")
+# else:
+#     log("不删除压缩文件夹")
