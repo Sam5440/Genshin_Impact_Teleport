@@ -15,7 +15,7 @@
 
  **English / [简体中文](README.zh-CN.md)**
 ---
-**2023/01/23 Last Update**
+**2023/01/27 Last Update**
 
 >The number of visits is averaged.
 >
@@ -24,6 +24,12 @@
 >![](https://komarev.com/ghpvc/?username=done435)
 >![](https://komarev.com/ghpvc/?username=done436)
 
+> **Update Log**
+>
+> Now, you can download each directory as a separate zip file,just click it --> [Genshin_Impact_Teleport/download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
+
+
+---
 > Only the 2.8 coordinates are on the github now, please be patient with the pre-3.3 coordinates, they will be back soon. 3.4 coordinates will probably be released in the second half of 3.4.
 >
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
