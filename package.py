@@ -15,7 +15,7 @@ path = os.getcwd()
 path_zips = path+"/zips"
 def log(text):
     text = str(text)
-#     print(text)
+    # print(text)
     # 写入文件
     with open(path_zips+"/log.txt", "a", encoding="utf-8") as f:
         f.write(text+"\n")
@@ -155,7 +155,7 @@ with open(path_zips+"/push.bat", "w") as f:
 log("完成")
 
 # 运行push.bat
-push_confirm = input(f"是否push？(yes/no)")
+push_confirm = "yes" #input(f"是否push？(yes/no)")
 if push_confirm == "yes":
     os.system(path_zips+"/push.bat")
     log("push")
