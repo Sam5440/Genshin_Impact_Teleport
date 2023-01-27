@@ -14,12 +14,9 @@ jobs:
     - name: Git clone
       run: git clone https://github.com/Sam5440/Genshin_Impact_Teleport
     - name: Run package.py
-      run: |
-        cd ./Genshin_Impact_Teleport
-        python package.py
+      run: python ./Genshin_Impact_Teleport/package.py
     - name: Auto push
       run: |
-        cd ../
         cd ./zips
         git init
         git config --local user.email "Y_sam5440@outlook.com"
