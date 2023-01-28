@@ -275,7 +275,11 @@ Not coordinates. Some of the files needed are pictures etc.
 
 # ManualOptimizationPoint
 
-## \[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
+> **[Download Page](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/OptimizationCollectionPackage)**
+
+---
+
+## \[Old\] TeleportsALL(Version_2.8)
 
 **Note: Old files, incomplete**
 
@@ -290,6 +294,10 @@ Not coordinates. Some of the files needed are pictures etc.
 ## [Chinese]SDK-China Optimized
 
 > After SDK-China manually filtered and optimized the points with higher efficiency, but only Chinese
+
+## SleepJson
+
+> A collection of teleportation points that maximizes efficiency,by SDK-China 
 
 # Data From
 
