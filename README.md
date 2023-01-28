@@ -15,7 +15,7 @@
 
  **English / [简体中文](README.zh-CN.md)**
 ---
-**2023/01/23 Last Update**
+**2023/01/27 Last Update**
 
 >The number of visits is averaged.
 >
@@ -24,6 +24,12 @@
 >![](https://komarev.com/ghpvc/?username=done435)
 >![](https://komarev.com/ghpvc/?username=done436)
 
+> **Update Log**
+>
+> Now, you can download each directory as a separate zip file,just click it --> [Genshin_Impact_Teleport/download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
+
+
+---
 > Only the 2.8 coordinates are on the github now, please be patient with the pre-3.3 coordinates, they will be back soon. 3.4 coordinates will probably be released in the second half of 3.4.
 >
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
@@ -46,6 +52,7 @@
   - [Chest](#chest)
   - [ExploreTo100](#exploreto100)
   - [OtherPoint](#otherpoint)
+- [ManualOptimizationPoint](#manualoptimizationpoint)
 - [Data From](#data-from)
 - [Thanks](#thanks)
 - [About Issues And PR](#about-issues-and-pr)
@@ -266,9 +273,9 @@ Not coordinates. Some of the files needed are pictures etc.
 | 2023/01/20 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)3.4Limited Time Challenge | [3.4Limited Time Challenge](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#34limited-time-challengezip) | Teyvat | / | Version 3.4 new area Limited Time Challenge point. |
 | 3.4LuminousSeelie | ![WorldQuests](OtherFile/img/icons/LuminousSeelie.png)3.4LuminousSeelie | [3.4LuminousSeelie](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#34luminousseeliezip) | Teyvat | / | Version 3.4 new area LuminousSeelie point. |
 
-# 233
+# ManualOptimizationPoint
 
-##\[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
+## \[Old\] [TeleportsALL(Version_2.8)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Old]TeleportsALL(Version_2.8))
 
 **Note: Old files, incomplete**
 
@@ -290,7 +297,9 @@ Some ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and G
 
 Sone Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
 
-Other Data From [Akebi-GC(CN_Group)-{Json_Group}](https://discord.com/channels/440536354544156683/1024896283061784617)
+Other Data From Our discord channel(see the header of this document).
+
+The image in the header of this document is from [pixiv](https://www.pixiv.net/artworks/92097252), she's so cute!
 
 # Thanks
 
