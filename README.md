@@ -299,6 +299,10 @@ Not coordinates. Some of the files needed are pictures etc.
 
 > A collection of teleportation points that maximizes efficiency,by SDK-China 
 
+## Auto-Teleport_byA9FM(26_01_2023)
+
+> Collected by A9FM,include chest in version 3.4 and ...
+
 # Data From
 
 Some ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and Gacha Banner Editor (github.com)](https://github.com/jie65535/GrasscutterCommandGenerator)
