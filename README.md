@@ -42,7 +42,6 @@
   - [Download whole repository](#download-whole-repository)
   - [Download each directory as a zip file](#download-each-directory-as-a-zip-file)
   - [How to search in web page?](#how-to-search-in-web-page)
-- [Notice!!! Read it to Avoid risks!!!!!](#notice-read-it-to-avoid-risks)
 - [**ManualCollectPoint**](#manualcollectpoint)
   - [Special Items](#special-items)
   - [Local Specialties](#local-specialties)
@@ -79,9 +78,8 @@
 # All File Introducion
 
 [ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord.You can see [here](#ManualCollectPoint) to find what you need.
+
 > **This is a manual recording of the coordinates by the player. More accurate, less empty coordinates. But not always complete.**
->
-> [Chinese\] [ManualCollectPoint(2022-10-13)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Chinese]ManualCollectPoint(2022-10-13)) is translated by JonasDai#5198
 
 [AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All points are generated from data of unknown origin (You know what I mean.)
 
@@ -140,20 +138,6 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](https://github.c
 **method 2:**
 
 > Open the folder directly to view it. It's categorised for easier searching
-# Notice!!! Read it to Avoid risks!!!!!
-
-**【The below things are only for suggestion,cannot 100% prevent you from ban,use at your own risk】**
-
-Some of things are needed to be set exactly and carefully:pick range or destory range.
-
-If you can't pick up all things,maybe you need to set a larger range.
-
-But setting a too high number could be dangerous for you.
-
-Recommended safe range is about 20 m,and safe delay is about 300 ms.（NO PROMISES. go to test the settings youself）
-
-Over that maybe permit a ban to your account.
-
 # ManualCollectPoint
 
 ## Special Items
@@ -172,30 +156,22 @@ Over that maybe permit a ban to your account.
 
 ## Local Specialties
 
-AutoLoot Range > 15m is **Extremely Risky**
-
 | AddTime    | Img                                                | Name/ID             | World  | Author/ID         | NOTE         |
 | ---------- | -------------------------------------------------- | ------------------- | ------ | ----------------- | -------------|
-| 2023/01/26 | ![GlazeLily](OtherFile/img/icons/GlazeLily.png) | [Glaze Lily](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#glazelilyzip) | Teyvat | Drich#3614 | 41 Lilies,AutoLoot Range >= 3m |
+| 2023/01/26 | ![GlazeLily](OtherFile/img/icons/GlazeLily.png) | [Glaze Lily](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#glazelilyzip) | Teyvat | Drich#3614 | 41 Lilies, |
 | 2022/10/11 | ![HennaBerry](OtherFile/img/icons/HennaBerry.png) |[Henna Berry](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#hennaberryzip)[^3] | Teyvat | jdbddbhd#9874 | / |
 | 2022/10/10 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [Kalpalata Lotus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#kalpalatalotuszip) | Teyvat | jdbddbhd#9874 | Total is 64+2+5.P/S:ID25 and ID26 you need pick up yourself,and 5 of all you need to buy from npc. |
-| 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [Kalpalata Lotus#2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#kalpalatalotus2zip) | Teyvat | civicmanan#2171 | 66 pcs, recommended autoloot range ≥ 15m |
+| 2022/10/12 | ![KalpalataLotus](OtherFile/img/icons/KalpalataLotus.png) | [Kalpalata Lotus#2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#kalpalatalotus2zip) | Teyvat | civicmanan#2171 | 66 pcs, recommended |
 | 2022/10/11 | ![NilotpalaLotus](OtherFile/img/icons/NilotpalaLotus.png) | [Nilotpala Lotus](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#nilotpalalotuszip) | Teyvat | jdbddbhd#9874 | ID47,55-57,you need to pick up yourself. |
 | 2022/10/19 | ![Padisarah](OtherFile/img/icons/Padisarah.png) | [Padisarah](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#padisarahzip) | Teyvat | Hieu#5027 | / |
-| 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png) | [Rukkhashava Mushroom](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#rukkhashavamushroomzip) |Teyvat|civicmanan#2171 | 73 pcs, recommended autoloot range ≥ 15m |
-| 2023/01/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [Sand Grease Pupa](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#sandgreasepupazip) | Teyvat | Drich#3614 | 74 Pupae,AutoLoot Range >= 3m |
+| 2022/10/12 | ![RukkhashavaMushroom](OtherFile/img/icons/RukkhashavaMushroom.png) | [Rukkhashava Mushroom](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#rukkhashavamushroomzip) |Teyvat|civicmanan#2171 | 73 pcs, recommended |
+| 2023/01/24  | ![SandGreasePupa](OtherFile/img/icons/SandGreasePupa.png)| [Sand Grease Pupa](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#sandgreasepupazip) | Teyvat | Drich#3614 | 74 Pupae |
 | 2022/10/12 | ![SangoPearl](OtherFile/img/icons/SangoPearl.png)  | [Sango Pearl](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#sangopearlzip) | Teyvat | civicmanan#2171 | / |
-| 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarabzip) | Teyvat | ShinaKaria#9760 | 72 pcs ,recommended autoloot range ≥ 15m |
-| 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab#2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarab2zip) | Teyvat | civicmanan#2171 | 74 pcs,recommended autoloot range ≥ 15m |
-| 2023/01/26 | ![SilkFlower](OtherFile/img/icons/SilkFlower.png) | [Silk Flower](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#silkflowerzip) | Teyvat | Drich#3614 | 28 Flowers,AutoLoot Range >= 3m |
+| 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarabzip) | Teyvat | ShinaKaria#9760 | 72 pcs ,recommended |
+| 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab#2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarab2zip) | Teyvat | civicmanan#2171 | 74 pcs,recommended |
+| 2023/01/26 | ![SilkFlower](OtherFile/img/icons/SilkFlower.png) | [Silk Flower](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#silkflowerzip) | Teyvat | Drich#3614 | 28 Flowers |
 
 ## Inventory
-
-Because animal is always escaping from you,doing something on you setting is recommended.
-
-For example,setting a larger AutoLoot range.
-
-**P/S :Too large autoloot range is dangerous!!!**
 
 | AddTime    | Img                                               | Name/ID    | World  | Author/ID       | NOTE |
 | ---------- | ------------------------------------------------- | ---------- | ------ | --------------- | ---- |
@@ -204,17 +180,13 @@ For example,setting a larger AutoLoot range.
 
 ## Chunks
 
-Some of them need a larger range than others.
-
-Including pick range and destory range.
-
 | AddTime    | Img                                                          | Name/ID                                                      | World                                     | Author/ID                        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------- | -------------------------------- | ------------------------------------------------------------ |
 | 2022/10/11 | ![WhiteIronChunk](OtherFile/img/icons/WhiteIronChunk.png)![CrystalChunk](OtherFile/img/icons/CrystalChunk.png) | [72Enrichment points](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#72enrichmentpointszip) | Teyvat(1-38)/The Chasm Underground(38-72) | jdbddbhd#9874                    | 72 mineral enrichment points, including Inazuma,maybe you need to move to pick/destory them.And points after 38 are in The Chasm Underground |
-| 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [CrystalChunk](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#crystalchunkzip) | Teyvat                                    | Michell Lim#9331 and Linxia#0961 |                                                              |
-| 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [CrystalChunk-The Chasm Underground](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#crystalchunk-the-chasm-undergroundzip) | The Chasm Underground                     | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 are in The Chasm Underground. You need manually tp into Chasm Underground 1st. |
-| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [EnkanomiyaAmethystLump](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#enkanomiyaamethystlumpzip) | Enkanomiya                                | Michell Lim#9331                 | ~~recommended autoloot range ≥ 40m to pick all chunks.~~[^4] |
-| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [AmethystLump](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#amethystlumpzip) | Teyvat                                    | Michell Lim#9331                 | ~~recommended autoloot range ≥ 40m to pick all chunks.~~[^5] |
+| 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [CrystalChunk](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#crystalchunkzip) | Teyvat                                    | Michell Lim#9331 and Linxia#0961 | /                                                            |
+| 2022/10/07 | ![CrystalChunk](OtherFile/img/icons/CrystalChunk.png)        | [CrystalChunk-The Chasm Underground](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#crystalchunk-the-chasm-undergroundzip) | The Chasm Underground                     | Michell Lim#9331 and Linxia#0961 | CrystalChunk-19 to 43 are in The Chasm Underground.          |
+| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [EnkanomiyaAmethystLump](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#enkanomiyaamethystlumpzip) | Enkanomiya                                | Michell Lim#9331                 | /                                                            |
+| 2022/10/11 | ![AmethystLump](OtherFile/img/icons/AmethystLump.png)        | [AmethystLump](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/Chunk#amethystlumpzip) | Teyvat                                    | Michell Lim#9331                 | /                                                            |
 
 ## Monsters
 
@@ -267,9 +239,9 @@ Not coordinates. Some of the files needed are pictures etc.
 
 | AddTime    | Name                                                          | Floder Name/ID                   | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------- | ------ | ---------------- | ------------------------------------------------------------ |
-| 2022/10/07 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | [gouliangv2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#gouliangv2zip)                | Teyvat | 傻逼#7734        | 自动拾取5米-P/S:作者ID确实叫这个，没有骂人的意思             |
-| 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | [AutoArtifact](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#autoartifactzip)              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), 自动拾取开3米,超出3M可能会因为拿到其他调查点 导致突破上限失败,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
-| 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | [76Aranara](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#76aranarazip)                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76nanalaluo](OtherFile/img/AboutPoint/76nanalaluo.png) |
+| 2022/10/07 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | [gouliangv2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#gouliangv2zip)                | Teyvat | 傻逼#7734        | P/S:作者ID确实叫这个，没有骂人的意思             |
+| 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | [AutoArtifact](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#autoartifactzip)              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), ,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
+| 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | [76Aranara](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#76aranarazip)                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，需要交材料 弹琴之类的，需要材料如下![76nanalaluo](OtherFile/img/AboutPoint/76nanalaluo.png) |
 | 2023/01/20 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)3.4Limited Time Challenge | [3.4Limited Time Challenge](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#34limited-time-challengezip) | Teyvat | / | Version 3.4 new area Limited Time Challenge point. |
 | 3.4LuminousSeelie | ![WorldQuests](OtherFile/img/icons/LuminousSeelie.png)3.4LuminousSeelie | [3.4LuminousSeelie](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/OtherPoint#34luminousseeliezip) | Teyvat | / | Version 3.4 new area LuminousSeelie point. |
 
@@ -336,7 +308,4 @@ Of course,not all things are included,All issues and PR are welcomed,
 [^1]: Lumenspar-upgrade is used in Lumenspar task upgrade.
 [^2]: There are 3 subfolders in the folder "Dendroculus", corresponding to its locations in version 3.0 and version 3.1, and the combination of 2 versions
 [^3]:it was named Redcrest before 3.2.0 version.
-[^4]: In higt version you maybe can't set it to 40m.You only keep it a num which is the bigest you can set.
-
-[^5]: Same as [4], But you can edit cfg.json to force change it.[Dangerous Waring!!!]
 
