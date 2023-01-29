@@ -8,7 +8,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 [Translate By Google]
 How to use:
-Folder Name: TeleportAll [version][AutoRange-fault_tolerant][y_aixs_offset][language]
+Folder Name: TeleportAll [version][Range-fault_tolerant][y_aixs_offset][language]
 
 Notice:
 The automatic generation is the total of all data, 
