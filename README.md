@@ -35,7 +35,7 @@ A player-friendly project, we create the shortest 3D route navigation map for Ge
 
 
 ---
-> Only the 2.8 coordinates are on the github now, please be patient with the pre-3.3 coordinates, they will be back soon. 3.4 coordinates will probably be released in the second half of 3.4.
+> The current 3.4 point has not yet been announced, the expected announcement time is mid-February
 >
 > Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
 >
