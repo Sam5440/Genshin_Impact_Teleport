@@ -12,9 +12,15 @@
   </div>
   If it's helpful to you,please give us a <b>Star</b>!
 </div>
-
  **English / [简体中文](README.zh-CN.md)**
 ---
+
+A player-friendly project, we create the shortest 3D route navigation map for Genshin_Impact by program or manual collation of items, saving you time wasted on repeated routes and making your gaming experience more efficient.
+
+> Note: We only provide the raw data, you may need to use some other tools to use, such as map generation or image recognition.
+
+---
+
 **2023/01/27 Last Update**
 
 >The number of visits is averaged.
