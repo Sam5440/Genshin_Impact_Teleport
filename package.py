@@ -132,7 +132,7 @@ for k, v in zip_task.items():
     # print(f"进度：{i}/{l}\n=======写入readme：{k}->{v[1]}")
     
     doc_create(readme_path, f"### [{zip_name}]({url})\n\n")
-    doc_create(readme_path.replace(".md","-for-search.py"), f"### [{zip_name}]({url})\n\n")
+    # doc_create(readme_path.replace(".md","-for-search.py"), f"### [{zip_name}]({url})\n\n")
 
 
 
