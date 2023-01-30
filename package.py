@@ -30,7 +30,7 @@ top_text = """
 >![](https://komarev.com/ghpvc/?username=done438)
 >![](https://komarev.com/ghpvc/?username=done437)
 """.strip()        
-def readme_create(readme_path, text):
+def doc_create(readme_path, text):
     decode_code = "utf-8"
     text = text.encode().decode(decode_code)
     if not os.path.exists(readme_path):
@@ -131,7 +131,8 @@ for k, v in zip_task.items():
     )
     # print(f"进度：{i}/{l}\n=======写入readme：{k}->{v[1]}")
     
-    readme_create(readme_path, f"### [{zip_name}]({url})\n\n")
+    doc_create(readme_path, f"### [{zip_name}]({url})\n\n")
+    doc_create(readme_path.replace(".md","-for-search.py"), f"### [{zip_name}]({url})\n\n")
 
 
 
