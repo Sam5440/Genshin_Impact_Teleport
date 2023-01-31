@@ -14,9 +14,9 @@
 </div>
 ---
 
-A player-friendly project, we create the shortest 3D route navigation map for Genshin_Impact by program or manual collation of items, saving you time wasted on repeated routes and making your gaming experience more efficient.
+A player-friendly project, we create the shortest 3D route navigation map for Genshin Impact by program or manual collation of items, saving wasted time on repeated routes and making your gaming experience more efficient.
 
-> Note: We only provide the raw data, you may need to use some other tools to use, such as map generation or image recognition.
+> **Note:** We only provide the raw data. You may need to use other tools, such as map generation or image recognition.
 
 ---
 
@@ -31,13 +31,13 @@ A player-friendly project, we create the shortest 3D route navigation map for Ge
 
 > **Update Log**
 >
-> Now, you can download each directory as a separate zip file,just click it --> [Genshin_Impact_Teleport/download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
+> Now, you can download each directory as a separate zip file. Just click it --> [Genshin_Impact_Teleport/download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
 
 
 ---
-> The current 3.4 point has not yet been announced, the expected announcement time is mid-February
+> The current 3.4 points have yet to be announced. The expected announcement time is mid-February
 >
-> Incidentally, mihoyo has made changes to the data for 3.4 and there will be discrepancies with the data I have. The data added for 3.4 may be missing and you will need to refine it yourself.
+> Incidentally, Mihoyo has changed the data for 3.4, and there will be discrepancies with the data I have. The data added for 3.4 may need to be included, and you will need to refine it yourself.
 >
 
 - [Disclaimer](#disclaimer)
@@ -64,9 +64,9 @@ A player-friendly project, we create the shortest 3D route navigation map for Ge
 
 # Disclaimer
 
-> **This tutorial provides in-game coordinates guidance for users of Asian, American and European platforms to help you experience the game more happily.**
+> **This tutorial provides in-game coordinates guidance for users of Asian, American, and European platforms to help you experience the game more happily.**
 > 
-> **You can use this data to quickly generate the 3D map info you need in the visualization tool**
+> **You can use this data to quickly generate the 3D map info you need in the visualization tool.**
 >
 > **This project should not be used for commercial purposes, only for learning and communication.**
 >
@@ -82,19 +82,19 @@ A player-friendly project, we create the shortest 3D route navigation map for Ge
 
 # All File Introducion
 
-[ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord.You can see [here](#ManualCollectPoint) to find what you need.
+[ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord. You can see [here](#ManualCollectPoint) to find what you need.
 
 > **This is a manual recording of the coordinates by the player. More accurate, less empty coordinates. But not always complete.**
 
 [AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All points are generated from data of unknown origin (You know what I mean.)
 
->**These are the coordinates generated from the data. But contains one-off points, mission-generated points. More complete, but less accurate than manually collected coordinates and may have empty coordinates.**
+>**These are the coordinates generated from the data. But contains one-off points, mission-generated points. More complete but less accurate than manually collected coordinates and may have empty coordinates.**
 >
 >**Accuracy: plants = minerals > animals > monsters**
 >
->**This includes almost all the points that exist, if there are no problems with the generation function.**
+>**This includes almost all the points that exist if there are no problems with the generation function.**
 >
->**Supported language is descirbed in each folder's name.(if exists)**
+>**Supported language is described in each folder's name. (if it exists)**
 >
 > [Points(SortByItemKind)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Points(SortByItemKind)[cn-en]) is generated and optimized by [ShinaKaria](https://github.com/ShinaKaria) 
 
@@ -108,23 +108,23 @@ A player-friendly project, we create the shortest 3D route navigation map for Ge
 
 > ![downloadnew](OtherFile/img/DownloadNew.png)
 >
-> **We Linked some of ID connect to the download link**
+> **We Linked some of ID connect to the download link.**
 >
-> **Now you just need to click hyperlink and select it again at new web to download it if it has been linked**
+> **Now you just need to click the hyperlink and select it again on the new web to download it if it has been linked**
 
 ## Download whole repository
 
 > ![download](OtherFile/img/download.png)
 >
-> **If you are unable to download successfully, please download the separately compressed package file (release,On the right side), even though it may not be the latest**
+> **If you are unable to download successfully, please download the separately compressed package file (release, On the right side), even though it may not be the latest**
 >
-> **If you use git,maybe you will meet** `Filename too long`.
+> **If you use git, maybe you will meet** `Filename too long`.
 >
 > **only press** `git config --global core.longpaths true` **to solve it.**
 
 ## Download each directory as a zip file
 
-[Click me](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download) and Looking files which is you need at the same directory .
+[Click me](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download) and look for the files you need in the same directory.
 
 Download Branch : [Sam5440/Genshin_Impact_Teleport at download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
 
@@ -134,15 +134,15 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](https://github.c
 
 >Press "Ctrl+F" and do your search.
 >
->Tips:search the text without "-" to improve accurancy.
+>Tips: search the text without "-" to improve accuracy.
 >
->For example,search "sweet" or "flower" instead of "sweet-flower"
+>For example, search "sweet" or "flower" instead of "sweet-flower."
 >
->it cannot search for the name of the folder
+>It cannot search for the name of the folder
 
 **method 2:**
 
-> Open the folder directly to view it. It's categorised for easier searching
+> Open the folder directly to view it. It's categorized for easier searching.
 # ManualCollectPoint
 
 ## Special Items
@@ -260,9 +260,9 @@ Not coordinates. Some of the files needed are pictures etc.
 
 **Note: Old files, incomplete**
 
-> Sorry,I don't know who is the author.
+> Sorry, I don't know who the author is.
 >
-> Someone has collected the coordinates. I don't know if it's complete. You can check for yourself if they are available.
+> Someone has collected the coordinates. I am curious to know if it's complete. You can check for yourself if they are available.
 
 ## [Chinese]ManualCollectPoint(2022-10-13)
 
@@ -270,7 +270,7 @@ Not coordinates. Some of the files needed are pictures etc.
 
 ## [Chinese]SDK-China Optimized
 
-> After SDK-China manually filtered and optimized the points with higher efficiency, but only Chinese
+> After SDK-China manually filtered and optimized the points with higher efficiency, only the Chinese
 
 ## SleepJson
 
@@ -286,7 +286,7 @@ Some ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and G
 
 Sone Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
 
-Other Data From Our discord channel(see the header of this document).
+Other Data From Our discord channel (see the header of this document).
 
 The image in the header of this document is from [pixiv](https://www.pixiv.net/artworks/92097252), she's so cute!
 
