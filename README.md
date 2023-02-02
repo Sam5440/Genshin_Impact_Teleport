@@ -14,7 +14,7 @@
 </div>
 ---
 
-A player-friendly project, we create the shortest 3D route navigation map for Genshin Impact by program or manual collation of items, saving wasted time on repeated routes and making your gaming experience more efficient.
+We develop the quickest 3D route navigation map for Genshin Impact as a player-friendly project, cutting down on time-wasting repeated routes and improving the efficiency of your gaming experience.
 
 > **Note:** We only provide the raw data. You may need to use other tools, such as map generation or image recognition.
 
@@ -35,7 +35,7 @@ A player-friendly project, we create the shortest 3D route navigation map for Ge
 
 
 ---
-> The current 3.4 points have yet to be announced. The expected announcement time is mid-February
+> The current 3.4 points have yet to be announced. The expected announcement time is mid-February.
 >
 > Incidentally, Mihoyo has changed the data for 3.4, and there will be discrepancies with the data I have. The data added for 3.4 may need to be included, and you will need to refine it yourself.
 >
