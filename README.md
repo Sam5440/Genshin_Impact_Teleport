@@ -7,11 +7,12 @@
   <a href="https://github.com/Sam5440/Genshin_Impact_Teleport/releases"><img src="https://img.shields.io/github/downloads/Sam5440/Genshin_Impact_Teleport/total?label=Total%20Downloads&logo=Github&style=flat-square"></a>
   <br>
   <div class="star">
-    <img width="100px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sam5440/Genshin_Impact_Teleport?label=Stars&logo=Github&style=flat-square">
+    <img width="100px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sam5440/Genshin_Impact_Teleport?label=Stars&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgCgkgdmlld0JveD0iMCAwIDE2IDE2IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggc3R5bGU9ImZpbGw6I0VBQzU0RjsiIGQ9Ik04IC4yNWEuNzUuNzUgMCAwMS42NzMuNDE4bDEuODgyIDMuODE1IDQuMjEuNjEyYS43NS43NSAwIDAxLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1Ljc1IDAgMDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAxLTEuMDg4LS43OWwuNzItNC4xOTRMLjgxOCA2LjM3NGEuNzUuNzUgMCAwMS40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAxOCAuMjV6Ii8+Cjwvc3ZnPg==&style=flat-square">
     </img>
   </div>
   If it's helpful to you,please give us a <b>Star</b>!
 </div>
+
 ---
 
 We develop the quickest 3D route navigation map for Genshin Impact as a player-friendly project, cutting down on time-wasting repeated routes and improving the efficiency of your gaming experience.
@@ -33,7 +34,6 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 >
 > Now, you can download each directory as a separate zip file. Just click it --> [Genshin_Impact_Teleport/download](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download)
 
-
 ---
 > The current 3.4 points have yet to be announced. The expected announcement time is mid-February.
 >
@@ -41,10 +41,9 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 >
 
 - [Disclaimer](#disclaimer)
-- [All File Introducion](#all-file-introducion)
 - [**How to download?**](#how-to-download)
   - [Download sorted files](#download-sorted-files)
-  - [Download whole repository](#download-whole-repository)
+  - [Download the entire repository](#download-the-entire-repository)
   - [Download each directory as a zip file](#download-each-directory-as-a-zip-file)
   - [How to search in web page?](#how-to-search-in-web-page)
 - [**ManualCollectPoint**](#manualcollectpoint)
@@ -56,7 +55,16 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
   - [Chest](#chest)
   - [ExploreTo100](#exploreto100)
   - [OtherPoint](#otherpoint)
-- [ManualOptimizationPoint](#manualoptimizationpoint)
+- [**ManualOptimizationPoint**](#manualoptimizationpoint)
+  - [\[Old\] TeleportsALL(Version\_2.8)](#old-teleportsallversion_28)
+  - [\[Chinese\]ManualCollectPoint(2022-10-13)](#chinesemanualcollectpoint2022-10-13)
+  - [\[Chinese\]SDK-China Optimized](#chinesesdk-china-optimized)
+  - [SleepJson](#sleepjson)
+  - [Auto-Teleport\_byA9FM(26\_01\_2023)](#auto-teleport_bya9fm26_01_2023)
+- [**AutoGeneratePoint**](#autogeneratepoint)
+  - [Teleport ALL\[v3.4\]](#teleport-allv34)
+  - [ALL Waypoint](#all-waypoint)
+  - [3.3 Dendroculus 180](#33-dendroculus-180)
 - [Data From](#data-from)
 - [Thanks](#thanks)
 - [About Issues And PR](#about-issues-and-pr)
@@ -64,7 +72,7 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 
 # Disclaimer
 
-> **This tutorial provides in-game coordinates guidance for users of Asian, American, and European platforms to help you experience the game more happily.**
+> **This tutorial provides in-game coordinates guidance for users of AS, NA, and EU platforms to help you experience the game more happily.**
 > 
 > **You can use this data to quickly generate the 3D map info you need in the visualization tool.**
 >
@@ -78,29 +86,7 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 >
 > **本项目不得用于商业用途，仅做学习交流。**
 
-------
-
-# All File Introducion
-
-[ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord. You can see [here](#ManualCollectPoint) to find what you need.
-
-> **This is a manual recording of the coordinates by the player. More accurate, less empty coordinates. But not always complete.**
-
-[AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All points are generated from data of unknown origin (You know what I mean.)
-
->**These are the coordinates generated from the data. But contains one-off points, mission-generated points. More complete but less accurate than manually collected coordinates and may have empty coordinates.**
->
->**Accuracy: plants = minerals > animals > monsters**
->
->**This includes almost all the points that exist if there are no problems with the generation function.**
->
->**Supported language is described in each folder's name. (if it exists)**
->
-> [Points(SortByItemKind)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Points(SortByItemKind)[cn-en]) is generated and optimized by [ShinaKaria](https://github.com/ShinaKaria) 
-
-
-------
-
+---
 
 # How to download?
 
@@ -112,7 +98,7 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 >
 > **Now you just need to click the hyperlink and select it again on the new web to download it if it has been linked**
 
-## Download whole repository
+## Download the entire repository
 
 > ![download](OtherFile/img/download.png)
 >
@@ -143,7 +129,11 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](https://github.c
 **method 2:**
 
 > Open the folder directly to view it. It's categorized for easier searching.
+
 # ManualCollectPoint
+
+>These are the **highly accurate** coordinates recorded by the player,partly from Discord.
+>But **only some of the coordinates**.
 
 ## Special Items
 
@@ -274,21 +264,58 @@ Not coordinates. Some of the files needed are pictures etc.
 
 ## SleepJson
 
-> A collection of teleportation points that maximizes efficiency,by SDK-China 
+> A collection of teleportation points that maximizes efficiency,by SDK-China
 
 ## Auto-Teleport_byA9FM(26_01_2023)
 
 > Collected by A9FM,include chest in version 3.4 and ...
 
+# AutoGeneratePoint
+
+[AutoGeneratePoint](./AutoGeneratePoint)
+
+[Readme](/AutoGeneratePoint/Points(SortByItemKind)[ver3.4][cn-en][2023-01-18]/Readme.md)
+
+>**These are the coordinates generated from the data. But contains one-off points, mission-generated points. More complete but less accurate than manually collected coordinates and may have empty coordinates.**
+>
+>**Accuracy: plants = minerals > animals > monsters**
+>
+>**This includes almost all the points that exist if there are no problems with the generation function.**
+>
+>**Supported language is described in each folder's name. (if it exists)**
+>
+> [Points(SortByItemKind)](./AutoGeneratePoint/Points(SortByItemKind)[ver3.4][cn-en][2023-01-18]) is generated and optimized by [ShinaKaria](https://github.com/ShinaKaria) 
+
+## Teleport ALL[v3.4]
+
+Download here:
+[Teleport ALL[v3.4][AL-15M][2023-01-18]](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#teleport-allv34al-15m2023-01-18zip)
+
+[Teleport ALL[v3.4][AL-20M][2023-01-18]](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#teleport-allv34al-20m2023-01-18zip)
+
+[【Test】Teleport ALL[v3.4-Test][AL-20M][2023-01-18]](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#testteleport-allv34-testal-20m2023-01-18zip)
+
+[【Test】Teleport ALL[v3.4][AL-15M][2023-01-18]](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#testteleport-allv34al-15m2023-01-18zip)
+
+## ALL Waypoint
+
+[3.3 ALL Waypoint (include Statue and Domain)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E5%85%A8%E9%94%9A%E7%82%B9-%E5%8C%85%E6%8B%AC%E7%A5%9E%E5%83%8F%E7%A7%98%E5%A2%8333--all-waypoint-include-statue-and-domainzip)
+
+[3.4 ALL Waypoint (without Statue and Domain)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E9%94%9A%E7%82%B9%E6%97%A0%E7%A5%9E%E5%83%8F%E7%A7%98%E5%A2%8334-all-waypoint-without-statue-and-domainzip)
+
+## 3.3 Dendroculus 180
+
+[3.3 Dendroculus 180](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/AutoGeneratePoint/Points(SortByItemKind)%5Bver3.4%5D%5Bcn-en%5D%5B2023-01-18%5D#%E9%A3%8E%E7%A5%9E%E7%9E%B318033-dendroculus-180zip)
+
 # Data From
 
 Some ID-name From [jie65535/GrasscutterCommandGenerator: Command Generator and Gacha Banner Editor (github.com)](https://github.com/jie65535/GrasscutterCommandGenerator)
 
-Sone Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
+Some Pos Json from [nahida_seggs/data at master · snoobi-seggs/nahida_seggs (github.com)](https://github.com/snoobi-seggs/nahida_seggs/tree/master/data)
 
 Other Data From Our discord channel (see the header of this document).
 
-The image in the header of this document is from [pixiv](https://www.pixiv.net/artworks/92097252), she's so cute!
+The document header is from [pixiv](https://www.pixiv.net/artworks/92097252), she's so cute!
 
 # Thanks
 
@@ -296,7 +323,7 @@ The image in the header of this document is from [pixiv](https://www.pixiv.net/a
 
 # About Issues And PR
 
-Of course,not all things are included,All issues and PR are welcomed,
+Of course,not all things are included,All issues and PR are welcomed.
 
 ## Star History
 

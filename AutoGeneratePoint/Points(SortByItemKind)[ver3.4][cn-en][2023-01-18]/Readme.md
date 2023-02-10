@@ -1,5 +1,5 @@
 
-**Language:**[中文](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Readme.md)|[English](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Readme_en.md)
+**Language:**[中文](Readme.md)|[English](Readme_en.md)
 # 关于Test
 >**[v3.4]:使用的是旧版的优化方案 仅仅优化了无掉落怪物**
 >
