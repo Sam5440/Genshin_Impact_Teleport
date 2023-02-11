@@ -1,4 +1,4 @@
-**Language:**[中文](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Readme.md)|[English](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Readme_en.md)
+**Language:**[中文](Readme.md)|[English](Readme_en.md)
 
 # 如何使用:
 
