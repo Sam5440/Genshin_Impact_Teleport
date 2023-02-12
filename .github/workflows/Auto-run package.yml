@@ -1,28 +1,40 @@
-name: Auto-run package.py
+name: Auto Packager
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
-    
+    branches: [ "main" ]
+    paths-ignore:
+      - .gitignore
+      - README.md
+#      - package.py
+      - LICENSE
+
 jobs:
   run-package:
     runs-on: windows-latest
+    permissions:
+      contents: write
+
     steps:
-    - name: Git long allow
-      run : git config --global core.longpaths true
-    - name: Git clone
-      run: git clone https://github.com/Sam5440/Genshin_Impact_Teleport
-    - name: Auto push
-      run: |
-        cd ./Genshin_Impact_Teleport
-        python package.py
-        cd ./zips
-        git init
-        git config --local user.email "Y_sam5440@outlook.com"
-        git config --local user.name "Sam5440"
-        git add .
-        git commit --allow-empty -m "download link branch"
-        git branch -m master download
-        git remote add origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-        git push -u origin download -f
+      - name: Python setup
+        uses: actions/setup-python@main
+        with:
+          python-version: 3.10.9
+
+      - name: Git long allow
+        run : git config --global core.longpaths true
+
+      - name: Checkout from ${{ github.repository }}/commit/${{ github.sha }}
+        uses: actions/checkout@main
+
+      - name: Package files
+        run: python package.py
+
+      - name: Push to download branch
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: download
+          FOLDER: zips
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SQUASH_HISTORY: true
