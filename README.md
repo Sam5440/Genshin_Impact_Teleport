@@ -23,12 +23,8 @@ We develop the quickest 3D route navigation map for Genshin Impact as a player-f
 
 **2023/01/27 Last Update**
 
->The number of visits is averaged.
->
->![](https://komarev.com/ghpvc/?username=sam5440)
->![](https://komarev.com/ghpvc/?username=done434)
->![](https://komarev.com/ghpvc/?username=done435)
->![](https://komarev.com/ghpvc/?username=done436)
+
+>![](https://profile-counter.glitch.me/Sam5440/count.svg)
 
 > **Update Log**
 >
