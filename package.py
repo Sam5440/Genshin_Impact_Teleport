@@ -24,7 +24,7 @@ def log(text):
         f.write(text+"\n")
         f.close()
 top_text = """
-## [Genshin_Impact_Teleport Main](https://github.com/Sam5440/Genshin_Impact_Teleport/edit/main/README.md)
+## [Genshin_Impact_Teleport Main](https://github.com/Sam5440/Genshin_Impact_Teleport)
 
 >![](https://komarev.com/ghpvc/?username=done439)
 >![](https://komarev.com/ghpvc/?username=done438)
