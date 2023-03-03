@@ -155,7 +155,7 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](https://github.c
 | 2022/10/07 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarabzip) | Teyvat | ShinaKaria#9760 | 72 pcs |
 | 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab#2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarab2zip) | Teyvat | civicmanan#2171 | 74 pcs |
 | 2023/01/26 | ![SilkFlower](OtherFile/img/icons/SilkFlower.png) | [Silk Flower](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#silkflowerzip) | Teyvat | [Drich#6666](https://github.com/Drich3614) | 28 Flowers |
-
+| 2023/03/03 | ![WindwheelAster](OtherFile/img/icons/WindwheelAster.png) | [Windwheel Aster](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#windwheelasterzip) | Teyvat | [Amin#0005](https://github.com/AminAbbar) | 73 Flowers |
 ## Inventory
 
 | AddTime    | Img                                               | Name/ID    | World  | Author/ID       | NOTE |
