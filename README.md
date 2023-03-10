@@ -331,6 +331,13 @@ Of course,not all things are included,All issues and PR are welcomed.
   <img src="https://contrib.rocks/image?repo=Sam5440/Genshin_Impact_Teleport&max=1000" />
 </a>
 
+> TODO
+>
+> - [ ] 1.Coordinate recognition based on Open-CV
+>
+> - [ ] 2.Route planning based on terrain data
+
+
 [^1]: Lumenspar-upgrade is used in Lumenspar task upgrade.
 [^2]: There are 3 subfolders in the folder "Dendroculus", corresponding to its locations in version 3.0 and version 3.1, and the combination of 2 versions
 [^3]: The coordinates for version 3.4 were collected by another author,same goes for the sacred seal.
