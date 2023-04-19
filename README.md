@@ -156,6 +156,8 @@ Download Branch : [Sam5440/Genshin_Impact_Teleport at download](https://github.c
 | 2022/10/12 | ![Scarab](OtherFile/img/icons/Scarab.png) | [scarab#2](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#teyvat-scarab2zip) | Teyvat | civicmanan#2171 | 74 pcs |
 | 2023/01/26 | ![SilkFlower](OtherFile/img/icons/SilkFlower.png) | [Silk Flower](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#silkflowerzip) | Teyvat | [Drich#6666](https://github.com/Drich3614) | 28 Flowers |
 | 2023/03/03 | ![WindwheelAster](OtherFile/img/icons/WindwheelAster.png) | [Windwheel Aster](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#windwheelasterzip) | Teyvat | [Amin#0005](https://github.com/AminAbbar) | 73 Flowers |
+| 2023/03/10 | ![Qingxin](OtherFile/img/icons/Qingxin.png) | [Qingxin](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#qingxinzip) | Teyvat | [Amin#0005](https://github.com/AminAbbar) | 158 Flowers |
+| 2023/03/10 | ![Cecilia](OtherFile/img/icons/Cecilia.png) | [Cecilia](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/download/ManualCollectPoint/LocalSpecialties#ceciliazip) | Teyvat | [Amin#0005](https://github.com/AminAbbar) | 37 Flowers |
 ## Inventory
 
 | AddTime    | Img                                               | Name/ID    | World  | Author/ID       | NOTE |
